@@ -294,12 +294,6 @@ cmd/lc_vscrollbar.png cmd/lc_scrollbar.png
 cmd/sc_hscrollbar.png cmd/sc_insertformhscroll.png
 cmd/sc_vscrollbar.png cmd/sc_scrollbar.png
 
-# Annotations
-cmd/32/insertannotation.png cmd/32/showannotations.png
-cmd/lc_insertannotation.png cmd/lc_showannotations.png
-cmd/sc_insertannotation.png cmd/sc_showannotations.png
-
-
 # Template Menu
 cmd/32/templatemenu.png cmd/32/adddirect.png
 cmd/lc_templatemenu.png cmd/lc_adddirect.png
@@ -1540,8 +1534,8 @@ sw/res/nc20005.png sfx2/res/favourite.png
 sw/res/nc20007.png sd/res/nv010.png
 sw/res/nc20008.png cmd/sc_insertreferencefield.png
 sw/res/nc20009.png cmd/sc_insertindexesentry.png
-sw/res/nc20010.png cmd/sc_addwatch.png
-sw/res/nc20011.png cmd/sc_toggleobjectbeziermode.png
+sw/res/nc20010.png cmd/sc_showannotations.png
+sw/res/nc20011.png cmd/sc_insertdraw.png
 
 sw/res/re01.png cmd/lc_unsetcellsreadonly.png
 sw/res/re02.png cmd/lc_unsetcellsreadonly.png
@@ -1553,7 +1547,7 @@ sw/res/sc20172.png cmd/sc_prevrecord.png
 sw/res/sc20173.png cmd/sc_nextrecord.png
 sw/res/sc20174.png cmd/sc_upsearch.png
 sw/res/sc20175.png cmd/sc_nextrecord.png
-sw/res/sc20182.png cmd/sc_anchormenu.png
+sw/res/sc20182.png cmd/sc_toggleanchortype.png
 sw/res/sc20186.png cmd/sc_prevrecord.png
 sw/res/sc20233.png cmd/sc_ok.png
 sw/res/sc20235.png cmd/sc_editdoc.png
