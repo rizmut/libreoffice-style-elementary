@@ -294,12 +294,6 @@ cmd/lc_vscrollbar.svg cmd/lc_scrollbar.svg
 cmd/sc_hscrollbar.svg cmd/sc_insertformhscroll.svg
 cmd/sc_vscrollbar.svg cmd/sc_scrollbar.svg
 
-# Annotations
-cmd/32/insertannotation.svg cmd/32/showannotations.svg
-cmd/lc_insertannotation.svg cmd/lc_showannotations.svg
-cmd/sc_insertannotation.svg cmd/sc_showannotations.svg
-
-
 # Template Menu
 cmd/32/templatemenu.svg cmd/32/adddirect.svg
 cmd/lc_templatemenu.svg cmd/lc_adddirect.svg
@@ -1540,8 +1534,8 @@ sw/res/nc20005.svg sfx2/res/favourite.svg
 sw/res/nc20007.svg sd/res/nv010.svg
 sw/res/nc20008.svg cmd/sc_insertreferencefield.svg
 sw/res/nc20009.svg cmd/sc_insertindexesentry.svg
-sw/res/nc20010.svg cmd/sc_addwatch.svg
-sw/res/nc20011.svg cmd/sc_toggleobjectbeziermode.svg
+sw/res/nc20010.svg cmd/sc_showannotations.svg
+sw/res/nc20011.svg cmd/sc_insertdraw.svg
 
 sw/res/re01.svg cmd/lc_unsetcellsreadonly.svg
 sw/res/re02.svg cmd/lc_unsetcellsreadonly.svg
@@ -1553,7 +1547,7 @@ sw/res/sc20172.svg cmd/sc_prevrecord.svg
 sw/res/sc20173.svg cmd/sc_nextrecord.svg
 sw/res/sc20174.svg cmd/sc_upsearch.svg
 sw/res/sc20175.svg cmd/sc_nextrecord.svg
-sw/res/sc20182.svg cmd/sc_anchormenu.svg
+sw/res/sc20182.svg cmd/sc_toggleanchortype.svg
 sw/res/sc20186.svg cmd/sc_prevrecord.svg
 sw/res/sc20233.svg cmd/sc_ok.svg
 sw/res/sc20235.svg cmd/sc_editdoc.svg
