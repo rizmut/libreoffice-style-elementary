@@ -57,6 +57,7 @@ cmd/32/insertedit.svg cmd/32/text.svg
 cmd/32/insertfield.svg cmd/32/addfield.svg
 cmd/32/insertfilecontrol.svg cmd/32/open.svg
 cmd/32/insertfilefield.svg cmd/32/open.svg
+cmd/32/insertfootnotesmenu.svg cmd/32/insertfootnote.svg
 cmd/32/insertformattedfield.svg cmd/32/formattedfield.svg
 cmd/32/insertformcheck.svg cmd/32/checkbox.svg
 cmd/32/insertformcombo.svg cmd/32/combobox.svg
@@ -105,6 +106,7 @@ cmd/lc_insertedit.svg cmd/lc_text.svg
 cmd/lc_insertfield.svg cmd/lc_addfield.svg
 cmd/lc_insertfilecontrol.svg cmd/lc_open.svg
 cmd/lc_insertfilefield.svg cmd/lc_open.svg
+cmd/lc_insertfootnotesmenu.svg cmd/lc_insertfootnote.svg
 cmd/lc_insertformattedfield.svg cmd/lc_formattedfield.svg
 cmd/lc_insertformcheck.svg cmd/lc_checkbox.svg
 cmd/lc_insertformcombo.svg cmd/lc_combobox.svg
@@ -154,6 +156,7 @@ cmd/sc_insertedit.svg cmd/sc_text.svg
 cmd/sc_insertfield.svg cmd/sc_addfield.svg
 cmd/sc_insertfilecontrol.svg cmd/sc_open.svg
 cmd/sc_insertfilefield.svg cmd/sc_open.svg
+cmd/sc_insertfootnotesmenu.svg cmd/sc_insertfootnote.svg
 cmd/sc_insertformattedfield.svg cmd/sc_formattedfield.svg
 cmd/sc_insertformcheck.svg cmd/sc_checkbox.svg
 cmd/sc_insertformcombo.svg cmd/sc_combobox.svg
@@ -342,6 +345,7 @@ cmd/sc_alignhorizontalceter.svg cmd/sc_alignhorizontalcenter.svg
 # Graphic
 cmd/32/colorsettings.svg cmd/32/graphicfiltersmooth.svg
 cmd/32/colorview.svg cmd/32/graphicfilterinvert.svg
+cmd/32/formatimagemenu.svg cmd/32/graphic.svg
 cmd/32/grafgamma.svg cmd/32/graphicfilterinvert.svg
 cmd/32/grafinvert.svg cmd/32/graphicfilterinvert.svg
 cmd/32/grafmode.svg cmd/32/graphicdialog.svg
@@ -350,6 +354,7 @@ cmd/32/imagebutton.svg cmd/32/gallery.svg
 
 cmd/lc_colorsettings.svg cmd/lc_graphicfiltersmooth.svg
 cmd/lc_colorview.svg cmd/lc_graphicfilterinvert.svg
+cmd/lc_formatimagemenu.svg cmd/lc_graphic.svg
 cmd/lc_grafgamma.svg cmd/lc_graphicfilterinvert.svg
 cmd/lc_grafinvert.svg cmd/lc_graphicfilterinvert.svg
 cmd/lc_grafmode.svg cmd/lc_graphicdialog.svg
@@ -358,6 +363,7 @@ cmd/lc_imagebutton.svg cmd/lc_gallery.svg
 
 cmd/sc_colorsettings.svg cmd/sc_graphicfiltersmooth.svg
 cmd/sc_colorview.svg cmd/sc_graphicfilterinvert.svg
+cmd/sc_formatimagemenu.svg cmd/sc_graphic.svg
 cmd/sc_graphicfilterposter.svg cmd/sc_graphicdialog.svg
 cmd/sc_grafgamma.svg cmd/sc_graphicfilterinvert.svg
 cmd/sc_grafinvert.svg cmd/sc_graphicfilterinvert.svg
@@ -993,22 +999,34 @@ cmd/lc_insertauthoritiesentry.svg cmd/lc_bibliographycomponent.svg
 cmd/sc_insertauthoritiesentry.svg cmd/sc_bibliographycomponent.svg
 
 # Reload
+cmd/32/draw.svg cmd/32/reload.svg
+cmd/32/refresh.svg cmd/32/reload.svg
+cmd/32/refreshformcontrol.svg cmd/32/reload.svg
+cmd/32/styleupdatebyexample.svg cmd/32/reload.svg
 cmd/32/updateallindexes.svg cmd/32/reload.svg
+cmd/32/updatecurindex.svg cmd/32/reload.svg
 cmd/32/updateall.svg cmd/32/reload.svg
+cmd/32/updatefields.svg cmd/32/insertfield.svg
 cmd/32/updatemenu.svg cmd/32/reload.svg
+
+cmd/lc_draw.svg cmd/lc_reload.svg
 cmd/lc_refresh.svg cmd/lc_reload.svg
 cmd/lc_refreshformcontrol.svg cmd/lc_reload.svg
-cmd/lc_draw.svg cmd/lc_reload.svg
+cmd/lc_styleupdatebyexample.svg cmd/lc_reload.svg
 cmd/lc_updateallindexes.svg cmd/lc_reload.svg
 cmd/lc_updateall.svg cmd/lc_reload.svg
+cmd/lc_updatecurindex.svg cmd/lc_reload.svg
+cmd/lc_updatefields.svg cmd/lc_insertfield.svg
 cmd/lc_updatemenu.svg cmd/lc_reload.svg
+
+cmd/sc_draw.svg cmd/sc_reload.svg
 cmd/sc_refresh.svg cmd/sc_reload.svg
 cmd/sc_refreshformcontrol.svg cmd/sc_reload.svg
 cmd/sc_styleupdatebyexample.svg cmd/sc_reload.svg
-cmd/sc_draw.svg cmd/sc_reload.svg
 cmd/sc_updatecurindex.svg cmd/sc_reload.svg
 cmd/sc_updateallindexes.svg cmd/sc_reload.svg
 cmd/sc_updateall.svg cmd/sc_reload.svg
+cmd/sc_updatefields.svg cmd/sc_insertfield.svg
 cmd/sc_updatemenu.svg cmd/sc_reload.svg
 
 # Select
@@ -1110,8 +1128,6 @@ cmd/lc_underlinesimple.svg cmd/lc_underline.svg
 cmd/sc_underlinesimple.svg cmd/sc_underline.svg
 
 # Slide command aliases
-cmd/lc_insertslide.svg cmd/lc_insertpage.svg
-cmd/lc_deleteslide.svg cmd/lc_deletepage.svg
 cmd/lc_moveslidefirst.svg cmd/lc_movepagefirst.svg
 cmd/lc_moveslidelast.svg cmd/lc_movepagelast.svg
 cmd/lc_moveslideup.svg cmd/lc_upsearch.svg
@@ -1122,8 +1138,6 @@ cmd/lc_previousslide.svg cmd/lc_prevrecord.svg
 cmd/lc_nextslide.svg cmd/lc_nextrecord.svg
 cmd/lc_slidesetup.svg cmd/lc_pagesetup.svg
 
-cmd/sc_insertslide.svg cmd/sc_insertpage.svg
-cmd/sc_deleteslide.svg cmd/sc_deletepage.svg
 cmd/sc_moveslidefirst.svg cmd/sc_movepagefirst.svg
 cmd/sc_moveslidelast.svg cmd/sc_movepagelast.svg
 cmd/sc_moveslideup.svg cmd/sc_upsearch.svg
@@ -1134,6 +1148,8 @@ cmd/sc_previousslide.svg cmd/sc_prevrecord.svg
 cmd/sc_nextslide.svg cmd/sc_nextrecord.svg
 cmd/sc_slidesetup.svg cmd/sc_pagesetup.svg
 
+# other
+cmd/sc_questionanswers.svg cmd/sc_webhtml.svg
 # dbaccess
 # ==============================================
 dbaccess/res/linked_text_table.svg cmd/sc_dataimport.svg
