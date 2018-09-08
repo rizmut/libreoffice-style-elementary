@@ -57,6 +57,7 @@ cmd/32/insertedit.png cmd/32/text.png
 cmd/32/insertfield.png cmd/32/addfield.png
 cmd/32/insertfilecontrol.png cmd/32/open.png
 cmd/32/insertfilefield.png cmd/32/open.png
+cmd/32/insertfootnotesmenu.png cmd/32/insertfootnote.png
 cmd/32/insertformattedfield.png cmd/32/formattedfield.png
 cmd/32/insertformcheck.png cmd/32/checkbox.png
 cmd/32/insertformcombo.png cmd/32/combobox.png
@@ -105,6 +106,7 @@ cmd/lc_insertedit.png cmd/lc_text.png
 cmd/lc_insertfield.png cmd/lc_addfield.png
 cmd/lc_insertfilecontrol.png cmd/lc_open.png
 cmd/lc_insertfilefield.png cmd/lc_open.png
+cmd/lc_insertfootnotesmenu.png cmd/lc_insertfootnote.png
 cmd/lc_insertformattedfield.png cmd/lc_formattedfield.png
 cmd/lc_insertformcheck.png cmd/lc_checkbox.png
 cmd/lc_insertformcombo.png cmd/lc_combobox.png
@@ -154,6 +156,7 @@ cmd/sc_insertedit.png cmd/sc_text.png
 cmd/sc_insertfield.png cmd/sc_addfield.png
 cmd/sc_insertfilecontrol.png cmd/sc_open.png
 cmd/sc_insertfilefield.png cmd/sc_open.png
+cmd/sc_insertfootnotesmenu.png cmd/sc_insertfootnote.png
 cmd/sc_insertformattedfield.png cmd/sc_formattedfield.png
 cmd/sc_insertformcheck.png cmd/sc_checkbox.png
 cmd/sc_insertformcombo.png cmd/sc_combobox.png
@@ -342,6 +345,7 @@ cmd/sc_alignhorizontalceter.png cmd/sc_alignhorizontalcenter.png
 # Graphic
 cmd/32/colorsettings.png cmd/32/graphicfiltersmooth.png
 cmd/32/colorview.png cmd/32/graphicfilterinvert.png
+cmd/32/formatimagemenu.png cmd/32/graphic.png
 cmd/32/grafgamma.png cmd/32/graphicfilterinvert.png
 cmd/32/grafinvert.png cmd/32/graphicfilterinvert.png
 cmd/32/grafmode.png cmd/32/graphicdialog.png
@@ -350,6 +354,7 @@ cmd/32/imagebutton.png cmd/32/gallery.png
 
 cmd/lc_colorsettings.png cmd/lc_graphicfiltersmooth.png
 cmd/lc_colorview.png cmd/lc_graphicfilterinvert.png
+cmd/lc_formatimagemenu.png cmd/lc_graphic.png
 cmd/lc_grafgamma.png cmd/lc_graphicfilterinvert.png
 cmd/lc_grafinvert.png cmd/lc_graphicfilterinvert.png
 cmd/lc_grafmode.png cmd/lc_graphicdialog.png
@@ -358,6 +363,7 @@ cmd/lc_imagebutton.png cmd/lc_gallery.png
 
 cmd/sc_colorsettings.png cmd/sc_graphicfiltersmooth.png
 cmd/sc_colorview.png cmd/sc_graphicfilterinvert.png
+cmd/sc_formatimagemenu.png cmd/sc_graphic.png
 cmd/sc_graphicfilterposter.png cmd/sc_graphicdialog.png
 cmd/sc_grafgamma.png cmd/sc_graphicfilterinvert.png
 cmd/sc_grafinvert.png cmd/sc_graphicfilterinvert.png
@@ -993,22 +999,34 @@ cmd/lc_insertauthoritiesentry.png cmd/lc_bibliographycomponent.png
 cmd/sc_insertauthoritiesentry.png cmd/sc_bibliographycomponent.png
 
 # Reload
+cmd/32/draw.png cmd/32/reload.png
+cmd/32/refresh.png cmd/32/reload.png
+cmd/32/refreshformcontrol.png cmd/32/reload.png
+cmd/32/styleupdatebyexample.png cmd/32/reload.png
 cmd/32/updateallindexes.png cmd/32/reload.png
+cmd/32/updatecurindex.png cmd/32/reload.png
 cmd/32/updateall.png cmd/32/reload.png
+cmd/32/updatefields.png cmd/32/insertfield.png
 cmd/32/updatemenu.png cmd/32/reload.png
+
+cmd/lc_draw.png cmd/lc_reload.png
 cmd/lc_refresh.png cmd/lc_reload.png
 cmd/lc_refreshformcontrol.png cmd/lc_reload.png
-cmd/lc_draw.png cmd/lc_reload.png
+cmd/lc_styleupdatebyexample.png cmd/lc_reload.png
 cmd/lc_updateallindexes.png cmd/lc_reload.png
 cmd/lc_updateall.png cmd/lc_reload.png
+cmd/lc_updatecurindex.png cmd/lc_reload.png
+cmd/lc_updatefields.png cmd/lc_insertfield.png
 cmd/lc_updatemenu.png cmd/lc_reload.png
+
+cmd/sc_draw.png cmd/sc_reload.png
 cmd/sc_refresh.png cmd/sc_reload.png
 cmd/sc_refreshformcontrol.png cmd/sc_reload.png
 cmd/sc_styleupdatebyexample.png cmd/sc_reload.png
-cmd/sc_draw.png cmd/sc_reload.png
 cmd/sc_updatecurindex.png cmd/sc_reload.png
 cmd/sc_updateallindexes.png cmd/sc_reload.png
 cmd/sc_updateall.png cmd/sc_reload.png
+cmd/sc_updatefields.png cmd/sc_insertfield.png
 cmd/sc_updatemenu.png cmd/sc_reload.png
 
 # Select
@@ -1130,6 +1148,8 @@ cmd/sc_previousslide.png cmd/sc_prevrecord.png
 cmd/sc_nextslide.png cmd/sc_nextrecord.png
 cmd/sc_slidesetup.png cmd/sc_pagesetup.png
 
+# other
+cmd/sc_questionanswers.png cmd/sc_webhtml.png
 # dbaccess
 # ==============================================
 dbaccess/res/linked_text_table.png cmd/sc_dataimport.png
