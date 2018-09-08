@@ -13,7 +13,10 @@
    width="16"
    version="1.1"
    sodipodi:docname="nv010.svg"
-   inkscape:version="0.92.3 (unknown)">
+   inkscape:version="0.92.3 (unknown)"
+   inkscape:export-filename="/home/rizmut/Dokumen/Rizmut/Github/libreoffice-style-elementary/images_elementary/sd/res/nv010.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -28,7 +31,7 @@
      id="namedview32"
      showgrid="false"
      inkscape:zoom="14.75"
-     inkscape:cx="-0.71186441"
+     inkscape:cx="-12.576271"
      inkscape:cy="8"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -42,7 +45,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
