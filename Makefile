@@ -10,7 +10,7 @@ LIBLINK = ../../../../share/libreoffice/share/config
 all: images_elementary.zip
 
 images_elementary.zip:
-	(cd src; zip -r ../$(TARGET) *)
+	(cd images_elementary; zip -r ../$(TARGET) *)
 
 install: images_elementary.zip
 	install -d $(SHAREDIR)
