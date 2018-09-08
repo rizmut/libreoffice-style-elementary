@@ -381,6 +381,7 @@ cmd/sc_autofilter.png cmd/sc_datafilterautofilter.png
 cmd/sc_removefilter.png cmd/sc_removefiltersort.png
 
 # Bullets
+cmd/32/defaultparastyle.png cmd/32/controlcodes.png
 cmd/lc_bulletliststyle.png cmd/lc_defaultbullet.png
 cmd/sc_bulletliststyle.png cmd/sc_defaultbullet.png
 cmd/lc_romanliststyle.png cmd/lc_defaultnumbering.png
@@ -835,8 +836,10 @@ cmd/lc_pluginsactive.png cmd/lc_insertplugin.png
 cmd/sc_pluginsactive.png cmd/sc_insertplugin.png
 
 # Table
+cmd/32/dbnewtable.png cmd/32/inserttable.png
 cmd/lc_dbnewtable.png cmd/lc_inserttable.png
 cmd/sc_dbnewtable.png cmd/sc_inserttable.png
+cmd/32/inscellsctrl.png cmd/32/inserttable.png
 cmd/lc_inscellsctrl.png cmd/lc_inserttable.png
 cmd/sc_inscellsctrl.png cmd/sc_inserttable.png
 cmd/lc_setoptimalcolumnwidthdirect.png cmd/lc_setoptimalcolumnwidth.png
