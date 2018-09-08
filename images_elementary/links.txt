@@ -690,6 +690,8 @@ cmd/sc_toggleaxisdescr.png cmd/sc_helplinesvisible.png
 # Grid
 cmd/lc_gridvisible.png cmd/lc_grid.png
 cmd/sc_gridvisible.png cmd/sc_grid.png
+cmd/lc_gridmenu.png cmd/lc_grid.png
+cmd/sc_gridmenu.png cmd/sc_grid.png
 
 # Crop
 cmd/lc_grafattrcrop.png cmd/lc_crop.png
@@ -876,7 +878,6 @@ cmd/sc_underlinesimple.png cmd/sc_underline.png
 
 # Slide command aliases
 cmd/lc_insertslide.png cmd/lc_insertpage.png
-cmd/lc_duplicateslide.png cmd/lc_duplicatepage.png
 cmd/lc_deleteslide.png cmd/lc_deletepage.png
 cmd/lc_moveslidefirst.png cmd/lc_movepagefirst.png
 cmd/lc_moveslidelast.png cmd/lc_movepagelast.png
@@ -889,7 +890,6 @@ cmd/lc_nextslide.png cmd/lc_nextrecord.png
 cmd/lc_slidesetup.png cmd/lc_pagesetup.png
 
 cmd/sc_insertslide.png cmd/sc_insertpage.png
-cmd/sc_duplicateslide.png cmd/sc_duplicatepage.png
 cmd/sc_deleteslide.png cmd/sc_deletepage.png
 cmd/sc_moveslidefirst.png cmd/sc_movepagefirst.png
 cmd/sc_moveslidelast.png cmd/sc_movepagelast.png

@@ -686,6 +686,8 @@ cmd/sc_toggleaxisdescr.svg cmd/sc_helplinesvisible.svg
 # Grid
 cmd/lc_gridvisible.svg cmd/lc_grid.svg
 cmd/sc_gridvisible.svg cmd/sc_grid.svg
+cmd/lc_gridmenu.svg cmd/lc_grid.svg
+cmd/sc_gridmenu.svg cmd/sc_grid.svg
 
 # Crop
 cmd/lc_grafattrcrop.svg cmd/lc_crop.svg
@@ -870,7 +872,6 @@ cmd/sc_underlinesimple.svg cmd/sc_underline.svg
 
 # Slide command aliases
 cmd/lc_insertslide.svg cmd/lc_insertpage.svg
-cmd/lc_duplicateslide.svg cmd/lc_duplicatepage.svg
 cmd/lc_deleteslide.svg cmd/lc_deletepage.svg
 cmd/lc_moveslidefirst.svg cmd/lc_movepagefirst.svg
 cmd/lc_moveslidelast.svg cmd/lc_movepagelast.svg
@@ -883,7 +884,6 @@ cmd/lc_nextslide.svg cmd/lc_nextrecord.svg
 cmd/lc_slidesetup.svg cmd/lc_pagesetup.svg
 
 cmd/sc_insertslide.svg cmd/sc_insertpage.svg
-cmd/sc_duplicateslide.svg cmd/sc_duplicatepage.svg
 cmd/sc_deleteslide.svg cmd/sc_deletepage.svg
 cmd/sc_moveslidefirst.svg cmd/sc_movepagefirst.svg
 cmd/sc_moveslidelast.svg cmd/sc_movepagelast.svg
