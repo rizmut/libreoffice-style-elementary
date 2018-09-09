@@ -72,6 +72,7 @@ cmd/32/insertimagecontrol.png cmd/32/drawchart.png
 cmd/32/insertlistbox.png cmd/32/listbox.png
 cmd/32/insertnumericfield.png cmd/32/numberformatstandard.png
 cmd/32/insertobjectchart.png cmd/32/drawchart.png
+cmd/32/insertobjectchartfromfile.png cmd/32/open.png
 cmd/32/insertobjectstarmath.png cmd/32/insertmath.png
 cmd/32/insertpagefield.png cmd/32/insertpagenumberfield.png
 cmd/32/insertpagenumber.png cmd/32/insertpagenumberfield.png
@@ -118,10 +119,12 @@ cmd/lc_insertformula.png cmd/lc_dbviewfunctions.png
 cmd/lc_insertformvscroll.png cmd/lc_scrollbar.png
 cmd/lc_insertframeinteract.png cmd/lc_insertframe.png
 cmd/lc_insertframeinteractnocolumns.png cmd/lc_insertframe.png
+cmd/lc_insertheaderfootermenu.png cmd/lc_editheaderandfooter.png
 cmd/lc_insertimagecontrol.png cmd/lc_drawchart.png
 cmd/lc_insertlistbox.png cmd/lc_listbox.png
 cmd/lc_insertnumericfield.png cmd/lc_numberformatstandard.png
 cmd/lc_insertobjectchart.png cmd/lc_drawchart.png
+cmd/lc_insertobjectchartfromfile.png cmd/lc_open.png
 cmd/lc_insertobjectstarmath.png cmd/lc_insertmath.png
 cmd/lc_insertpagefield.png cmd/lc_insertpagenumberfield.png
 cmd/lc_insertpagenumber.png cmd/lc_insertpagenumberfield.png
@@ -131,6 +134,7 @@ cmd/lc_insertpatternfield.png cmd/lc_patternfield.png
 cmd/lc_insertpushbutton.png cmd/lc_pushbutton.png
 cmd/lc_insertrowbreak.png cmd/lc_insertpagebreak.png
 cmd/lc_insertrowsbefore.png cmd/lc_insertrows.png
+cmd/lc_insertsignatureline.png cmd/lc_signaturelinedialog.png
 cmd/lc_insertslidefield.png cmd/lc_insertslidenumber.png
 cmd/lc_insertspreadsheet.png cmd/lc_togglesheetgrid.png
 cmd/lc_inserttextframe.png cmd/lc_insertframe.png
@@ -168,10 +172,12 @@ cmd/sc_insertformula.png cmd/sc_dbviewfunctions.png
 cmd/sc_insertformvscroll.png cmd/sc_scrollbar.png
 cmd/sc_insertframeinteract.png cmd/sc_insertframe.png
 cmd/sc_insertframeinteractnocolumns.png cmd/sc_insertframe.png
+cmd/sc_insertheaderfootermenu.png cmd/sc_editheaderandfooter.png
 cmd/sc_insertimagecontrol.png cmd/sc_drawchart.png
 cmd/sc_insertlistbox.png cmd/sc_listbox.png
 cmd/sc_insertnumericfield.png cmd/sc_numberformatstandard.png
 cmd/sc_insertobjectchart.png cmd/sc_drawchart.png
+cmd/sc_insertobjectchartfromfile.png cmd/sc_open.png
 cmd/sc_insertobjectstarmath.png cmd/sc_insertmath.png
 cmd/sc_insertpagefield.png cmd/sc_insertpagenumberfield.png
 cmd/sc_insertpagenumber.png cmd/sc_insertpagenumberfield.png
@@ -181,6 +187,7 @@ cmd/sc_insertpatternfield.png cmd/sc_patternfield.png
 cmd/sc_insertpushbutton.png cmd/sc_pushbutton.png
 cmd/sc_insertrowbreak.png cmd/sc_insertpagebreak.png
 cmd/sc_insertrowsbefore.png cmd/sc_insertrows.png
+cmd/sc_insertsignatureline.png cmd/sc_signaturelinedialog.png
 cmd/sc_insertslidefield.png cmd/sc_insertslidenumber.png
 cmd/sc_insertspreadsheet.png cmd/sc_togglesheetgrid.png
 cmd/sc_inserttextframe.png cmd/sc_insertframe.png
@@ -644,8 +651,9 @@ cmd/lc_bezieredge.png cmd/lc_bezierappend.png
 cmd/sc_bezieredge.png cmd/sc_bezierappend.png
 
 # Label
-cmd/lc_definename.png cmd/lc_label.png
-cmd/sc_definename.png cmd/sc_label.png
+cmd/32/addname.png cmd/32/label.png
+cmd/lc_addname.png cmd/lc_label.png
+cmd/sc_addname.png cmd/sc_label.png
 
 # Rotate
 cmd/lc_clickchangerotation.png cmd/lc_toggleobjectrotatemode.png
@@ -702,10 +710,17 @@ cmd/lc_protecttracechangemode.png cmd/lc_protect.png
 cmd/sc_protecttracechangemode.png cmd/sc_protect.png
 
 # Page
-cmd/lc_modifypage.png cmd/lc_pagedialog.png
-cmd/sc_modifypage.png cmd/sc_pagedialog.png
+cmd/32/insertobjctrl.png cmd/32/drawchart.png
+cmd/32/modifypage.png cmd/32/pagedialog.png
+cmd/32/pageformatdialog.png cmd/32/pagedialog.png
+
 cmd/lc_insertobjctrl.png cmd/lc_drawchart.png
+cmd/lc_modifypage.png cmd/lc_pagedialog.png
+cmd/lc_pageformatdialog.png cmd/lc_pagedialog.png
+
 cmd/sc_insertobjctrl.png cmd/sc_drawchart.png
+cmd/sc_modifypage.png cmd/sc_pagedialog.png
+cmd/sc_pageformatdialog.png cmd/sc_pagedialog.png
 
 # Link
 cmd/lc_edithyperlink.png cmd/lc_inserthyperlink.png
@@ -1651,3 +1666,10 @@ cmd/sc_rowoperations.png cmd/sc_entirerow.png
 
 cmd/sc_cellprotection.png cmd/sc_protect.png
 cmd/lc_cellprotection.png cmd/lc_protect.png
+
+cmd/sc_indexesmenu.png cmd/sc_insertindexesentry.png
+cmd/lc_rulermenu.png cmd/lc_ruler.png
+cmd/sc_rulermenu.png cmd/sc_ruler.png
+cmd/32/formatallnotes.png cmd/32/editannotation.png
+cmd/lc_formatallnotes.png cmd/lc_editannotation.png
+cmd/sc_formatallnotes.png cmd/sc_editannotation.png

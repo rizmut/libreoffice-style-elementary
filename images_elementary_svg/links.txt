@@ -72,6 +72,7 @@ cmd/32/insertimagecontrol.svg cmd/32/drawchart.svg
 cmd/32/insertlistbox.svg cmd/32/listbox.svg
 cmd/32/insertnumericfield.svg cmd/32/numberformatstandard.svg
 cmd/32/insertobjectchart.svg cmd/32/drawchart.svg
+cmd/32/insertobjectchartfromfile.svg cmd/32/open.svg
 cmd/32/insertobjectstarmath.svg cmd/32/insertmath.svg
 cmd/32/insertpagefield.svg cmd/32/insertpagenumberfield.svg
 cmd/32/insertpagenumber.svg cmd/32/insertpagenumberfield.svg
@@ -118,10 +119,12 @@ cmd/lc_insertformula.svg cmd/lc_dbviewfunctions.svg
 cmd/lc_insertformvscroll.svg cmd/lc_scrollbar.svg
 cmd/lc_insertframeinteract.svg cmd/lc_insertframe.svg
 cmd/lc_insertframeinteractnocolumns.svg cmd/lc_insertframe.svg
+cmd/lc_insertheaderfootermenu.svg cmd/lc_editheaderandfooter.svg
 cmd/lc_insertimagecontrol.svg cmd/lc_drawchart.svg
 cmd/lc_insertlistbox.svg cmd/lc_listbox.svg
 cmd/lc_insertnumericfield.svg cmd/lc_numberformatstandard.svg
 cmd/lc_insertobjectchart.svg cmd/lc_drawchart.svg
+cmd/lc_insertobjectchartfromfile.svg cmd/lc_open.svg
 cmd/lc_insertobjectstarmath.svg cmd/lc_insertmath.svg
 cmd/lc_insertpagefield.svg cmd/lc_insertpagenumberfield.svg
 cmd/lc_insertpagenumber.svg cmd/lc_insertpagenumberfield.svg
@@ -131,6 +134,7 @@ cmd/lc_insertpatternfield.svg cmd/lc_patternfield.svg
 cmd/lc_insertpushbutton.svg cmd/lc_pushbutton.svg
 cmd/lc_insertrowbreak.svg cmd/lc_insertpagebreak.svg
 cmd/lc_insertrowsbefore.svg cmd/lc_insertrows.svg
+cmd/lc_insertsignatureline.svg cmd/lc_signaturelinedialog.svg
 cmd/lc_insertslidefield.svg cmd/lc_insertslidenumber.svg
 cmd/lc_insertspreadsheet.svg cmd/lc_togglesheetgrid.svg
 cmd/lc_inserttextframe.svg cmd/lc_insertframe.svg
@@ -168,10 +172,12 @@ cmd/sc_insertformula.svg cmd/sc_dbviewfunctions.svg
 cmd/sc_insertformvscroll.svg cmd/sc_scrollbar.svg
 cmd/sc_insertframeinteract.svg cmd/sc_insertframe.svg
 cmd/sc_insertframeinteractnocolumns.svg cmd/sc_insertframe.svg
+cmd/sc_insertheaderfootermenu.svg cmd/sc_editheaderandfooter.svg
 cmd/sc_insertimagecontrol.svg cmd/sc_drawchart.svg
 cmd/sc_insertlistbox.svg cmd/sc_listbox.svg
 cmd/sc_insertnumericfield.svg cmd/sc_numberformatstandard.svg
 cmd/sc_insertobjectchart.svg cmd/sc_drawchart.svg
+cmd/sc_insertobjectchartfromfile.svg cmd/sc_open.svg
 cmd/sc_insertobjectstarmath.svg cmd/sc_insertmath.svg
 cmd/sc_insertpagefield.svg cmd/sc_insertpagenumberfield.svg
 cmd/sc_insertpagenumber.svg cmd/sc_insertpagenumberfield.svg
@@ -181,6 +187,7 @@ cmd/sc_insertpatternfield.svg cmd/sc_patternfield.svg
 cmd/sc_insertpushbutton.svg cmd/sc_pushbutton.svg
 cmd/sc_insertrowbreak.svg cmd/sc_insertpagebreak.svg
 cmd/sc_insertrowsbefore.svg cmd/sc_insertrows.svg
+cmd/sc_insertsignatureline.svg cmd/sc_signaturelinedialog.svg
 cmd/sc_insertslidefield.svg cmd/sc_insertslidenumber.svg
 cmd/sc_insertspreadsheet.svg cmd/sc_togglesheetgrid.svg
 cmd/sc_inserttextframe.svg cmd/sc_insertframe.svg
@@ -644,8 +651,9 @@ cmd/lc_bezieredge.svg cmd/lc_bezierappend.svg
 cmd/sc_bezieredge.svg cmd/sc_bezierappend.svg
 
 # Label
-cmd/lc_definename.svg cmd/lc_label.svg
-cmd/sc_definename.svg cmd/sc_label.svg
+cmd/32/addname.svg cmd/32/label.svg
+cmd/lc_addname.svg cmd/lc_label.svg
+cmd/sc_addname.svg cmd/sc_label.svg
 
 # Rotate
 cmd/lc_clickchangerotation.svg cmd/lc_toggleobjectrotatemode.svg
@@ -702,10 +710,17 @@ cmd/lc_protecttracechangemode.svg cmd/lc_protect.svg
 cmd/sc_protecttracechangemode.svg cmd/sc_protect.svg
 
 # Page
-cmd/lc_modifypage.svg cmd/lc_pagedialog.svg
-cmd/sc_modifypage.svg cmd/sc_pagedialog.svg
+cmd/32/insertobjctrl.svg cmd/32/drawchart.svg
+cmd/32/modifypage.svg cmd/32/pagedialog.svg
+cmd/32/pageformatdialog.svg cmd/32/pagedialog.svg
+
 cmd/lc_insertobjctrl.svg cmd/lc_drawchart.svg
+cmd/lc_modifypage.svg cmd/lc_pagedialog.svg
+cmd/lc_pageformatdialog.svg cmd/lc_pagedialog.svg
+
 cmd/sc_insertobjctrl.svg cmd/sc_drawchart.svg
+cmd/sc_modifypage.svg cmd/sc_pagedialog.svg
+cmd/sc_pageformatdialog.svg cmd/sc_pagedialog.svg
 
 # Link
 cmd/lc_edithyperlink.svg cmd/lc_inserthyperlink.svg
@@ -1651,3 +1666,10 @@ cmd/sc_rowoperations.svg cmd/sc_entirerow.svg
 
 cmd/sc_cellprotection.svg cmd/sc_protect.svg
 cmd/lc_cellprotection.svg cmd/lc_protect.svg
+
+cmd/sc_indexesmenu.svg cmd/sc_insertindexesentry.svg
+cmd/lc_rulermenu.svg cmd/lc_ruler.svg
+cmd/sc_rulermenu.svg cmd/sc_ruler.svg
+cmd/32/formatallnotes.svg cmd/32/editannotation.svg
+cmd/lc_formatallnotes.svg cmd/lc_editannotation.svg
+cmd/sc_formatallnotes.svg cmd/sc_editannotation.svg
