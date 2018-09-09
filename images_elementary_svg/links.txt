@@ -90,6 +90,7 @@ cmd/32/inserttimefieldvar.svg cmd/32/timefield.svg
 cmd/32/insobjctrl.svg cmd/32/newdoc.svg
 cmd/32/numberformatmenu.svg cmd/32/numberformatstandard.svg
 cmd/32/numericfield.svg cmd/32/numberformatstandard.svg
+cmd/32/repaginate.svg cmd/32/insertpagenumberfield.svg
 cmd/32/showtrackedchanges.svg cmd/32/addwatch.svg
 cmd/32/tracechangemode.svg cmd/32/trackchanges.svg
 
@@ -139,9 +140,9 @@ cmd/lc_inserttimefieldvar.svg cmd/lc_timefield.svg
 cmd/lc_insobjctrl.svg cmd/lc_newdoc.svg
 cmd/lc_numberformatmenu.svg cmd/lc_numberformatstandard.svg
 cmd/lc_numericfield.svg cmd/lc_numberformatstandard.svg
+cmd/lc_repaginate.svg cmd/lc_insertpagenumberfield.svg
 cmd/lc_showtrackedchanges.svg cmd/lc_addwatch.svg
 cmd/lc_tracechangemode.svg cmd/lc_trackchanges.svg
-
 
 cmd/sc_insert.svg cmd/sc_togglesheetgrid.svg
 cmd/sc_insertavmedia.svg cmd/sc_avmediaplayer.svg
@@ -189,6 +190,7 @@ cmd/sc_inserttimefieldvar.svg cmd/sc_timefield.svg
 cmd/sc_insobjctrl.svg cmd/sc_newdoc.svg
 cmd/sc_numberformatmenu.svg cmd/sc_numberformatstandard.svg
 cmd/sc_numericfield.svg cmd/sc_numberformatstandard.svg
+cmd/sc_repaginate.svg cmd/sc_insertpagenumberfield.svg
 cmd/sc_showtrackedchanges.svg cmd/sc_addwatch.svg
 cmd/sc_tracechangemode.svg cmd/sc_trackchanges.svg
 
@@ -298,9 +300,9 @@ cmd/sc_hscrollbar.svg cmd/sc_insertformhscroll.svg
 cmd/sc_vscrollbar.svg cmd/sc_scrollbar.svg
 
 # Template Menu
-cmd/32/templatemenu.svg cmd/32/adddirect.svg
-cmd/lc_templatemenu.svg cmd/lc_adddirect.svg
-cmd/sc_templatemenu.svg cmd/sc_adddirect.svg
+cmd/32/templatemenu.svg cmd/32/templatemanager.svg
+cmd/lc_templatemenu.svg cmd/lc_templatemanager.svg
+cmd/sc_templatemenu.svg cmd/sc_templatemanager.svg
 
 # Animation
 cmd/32/customanimation.svg cmd/32/animationobjects.svg
@@ -388,6 +390,8 @@ cmd/32/basicshapes.circle-pie.svg cmd/32/pie.svg
 cmd/32/flowchartshapes.flowchart-merge.svg cmd/32/fontworkshapetype.fontwork-triangle-down.svg
 cmd/32/fontworkshapetype.fontwork-fade-down.svg cmd/32/basicshapes.trapezoid.svg
 cmd/32/flowchartshapes.flowchart-magnetic-disk.svg cmd/32/basicshapes.can.svg
+cmd/32/connect.svg cmd/32/polygon.svg
+cmd/32/break.svg cmd/32/polygon_unfilled.svg
 
 cmd/lc_fontworkshapetype.fontwork-circle-pour.svg cmd/lc_basicshapes.ring.svg
 cmd/lc_flowchartshapes.flowchart-connector.svg cmd/lc_circle.svg
@@ -407,6 +411,8 @@ cmd/lc_flowchartshapes.flowchart-merge.svg cmd/lc_fontworkshapetype.fontwork-tri
 cmd/lc_fontworkshapetype.fontwork-fade-down.svg cmd/lc_basicshapes.trapezoid.svg
 cmd/lc_flowchartshapes.flowchart-magnetic-disk.svg cmd/lc_basicshapes.can.svg
 cmd/lc_measureattributes.svg cmd/lc_measureline.svg
+cmd/lc_connect.svg cmd/lc_polygon.svg
+cmd/lc_break.svg cmd/lc_polygon_unfilled.svg
 
 cmd/sc_fontworkshapetype.fontwork-circle-pour.svg cmd/sc_basicshapes.ring.svg
 cmd/sc_basicshapes.circle.svg cmd/sc_circle.svg
@@ -428,6 +434,8 @@ cmd/sc_flowchartshapes.flowchart-magnetic-disk.svg cmd/sc_basicshapes.can.svg
 cmd/sc_shapesmenu.svg cmd/sc_basicshapes.round-quadrat.svg
 cmd/sc_shapeslinemenu.svg cmd/sc_line.svg
 cmd/sc_measureattributes.svg cmd/sc_measureline.svg
+cmd/sc_connect.svg cmd/sc_polygon.svg
+cmd/sc_break.svg cmd/sc_polygon_unfilled.svg
 
 # Open
 cmd/32/openfromwriter.svg cmd/32/open.svg
@@ -858,6 +866,8 @@ cmd/lc_findbar.svg cmd/lc_recsearch.svg
 cmd/sc_findbar.svg cmd/sc_recsearch.svg
 
 # File Menu
+cmd/32/exporttoepub.svg cmd/32/exportdirecttoepub.svg
+cmd/32/exporttopdf.svg cmd/32/exportdirecttopdf.svg
 cmd/lc_exporttopdf.svg cmd/lc_exportdirecttopdf.svg
 cmd/sc_exporttopdf.svg cmd/sc_exportdirecttopdf.svg
 cmd/lc_exporttoepub.svg cmd/lc_exportdirecttoepub.svg
@@ -926,6 +936,11 @@ cmd/sc_transformdialog.svg cmd/sc_crop.svg
 cmd/sc_grafattrcrop.svg cmd/sc_crop.svg
 
 # Group
+cmd/32/formatgroup.svg cmd/32/group.svg
+cmd/32/groupmenu.svg cmd/32/group.svg
+cmd/lc_formatgroup.svg cmd/lc_group.svg
+cmd/lc_groupmenu.svg cmd/lc_group.svg
+cmd/sc_groupmenu.svg cmd/sc_group.svg
 cmd/sc_formatgroup.svg cmd/sc_group.svg
 
 # Extrusion Rotat
@@ -1006,7 +1021,7 @@ cmd/32/styleupdatebyexample.svg cmd/32/reload.svg
 cmd/32/updateallindexes.svg cmd/32/reload.svg
 cmd/32/updatecurindex.svg cmd/32/reload.svg
 cmd/32/updateall.svg cmd/32/reload.svg
-cmd/32/updatefields.svg cmd/32/insertfield.svg
+cmd/32/updatefields.svg cmd/32/addfield.svg
 cmd/32/updatemenu.svg cmd/32/reload.svg
 
 cmd/lc_draw.svg cmd/lc_reload.svg
@@ -1016,7 +1031,7 @@ cmd/lc_styleupdatebyexample.svg cmd/lc_reload.svg
 cmd/lc_updateallindexes.svg cmd/lc_reload.svg
 cmd/lc_updateall.svg cmd/lc_reload.svg
 cmd/lc_updatecurindex.svg cmd/lc_reload.svg
-cmd/lc_updatefields.svg cmd/lc_insertfield.svg
+cmd/lc_updatefields.svg cmd/lc_addfield.svg
 cmd/lc_updatemenu.svg cmd/lc_reload.svg
 
 cmd/sc_draw.svg cmd/sc_reload.svg
@@ -1026,7 +1041,7 @@ cmd/sc_styleupdatebyexample.svg cmd/sc_reload.svg
 cmd/sc_updatecurindex.svg cmd/sc_reload.svg
 cmd/sc_updateallindexes.svg cmd/sc_reload.svg
 cmd/sc_updateall.svg cmd/sc_reload.svg
-cmd/sc_updatefields.svg cmd/sc_insertfield.svg
+cmd/sc_updatefields.svg cmd/sc_addfield.svg
 cmd/sc_updatemenu.svg cmd/sc_reload.svg
 
 # Select
@@ -1149,7 +1164,7 @@ cmd/sc_nextslide.svg cmd/sc_nextrecord.svg
 cmd/sc_slidesetup.svg cmd/sc_pagesetup.svg
 
 # other
-cmd/sc_questionanswers.svg cmd/sc_webhtml.svg
+cmd/sc_questionanswers.svg cmd/sc_browseview.svg
 # dbaccess
 # ==============================================
 dbaccess/res/linked_text_table.svg cmd/sc_dataimport.svg
