@@ -802,14 +802,17 @@ cmd/sc_spelldialog.svg cmd/sc_spelling.svg
 cmd/32/backgroundpatterncontroller.svg cmd/32/backgroundcolor.svg
 cmd/32/characterbackgroundpattern.svg cmd/32/backcolor.svg
 cmd/32/fontcolor.svg cmd/32/color.svg
+cmd/32/formatarea.svg cmd/32/backgroundcolor.svg
 
 cmd/lc_backgroundpatterncontroller.svg cmd/lc_backgroundcolor.svg
 cmd/lc_characterbackgroundpattern.svg cmd/lc_backcolor.svg
 cmd/lc_fontcolor.svg cmd/lc_color.svg
+cmd/lc_formatarea.svg cmd/lc_backgroundcolor.svg
 
 cmd/sc_backgroundpatterncontroller.svg cmd/sc_backgroundcolor.svg
 cmd/sc_characterbackgroundpattern.svg cmd/sc_backcolor.svg
 cmd/sc_fontcolor.svg cmd/sc_color.svg
+cmd/sc_formatarea.svg cmd/sc_backgroundcolor.svg
 
 # Paragraph Alignment
 cmd/lc_leftpara.svg cmd/lc_alignleft.svg
@@ -1692,3 +1695,6 @@ cmd/32/charmapcontrol.svg cmd/32/insertsymbol.svg
 cmd/lc_charmapcontrol.svg cmd/lc_insertsymbol.svg
 cmd/sc_charmapcontrol.svg cmd/sc_insertsymbol.svg
 
+cmd/32/showruler.svg cmd/32/ruler.svg
+cmd/lc_showruler.svg cmd/lc_ruler.svg
+cmd/sc_showruler.svg cmd/sc_ruler.svg

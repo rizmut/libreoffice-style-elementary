@@ -11,9 +11,9 @@
    viewBox="0 0 16 16"
    version="1.1"
    id="svg23"
-   sodipodi:docname="sc_attributepagesize.svg"
+   sodipodi:docname="sc_renamepage.svg"
    inkscape:version="0.92.3 (unknown)"
-   inkscape:export-filename="/home/rizmut/Dokumen/Rizmut/Github/libreoffice-style-elementary/images_elementary/cmd/sc_attributepagesize.png"
+   inkscape:export-filename="/home/rizmut/Dokumen/Rizmut/Github/libreoffice-style-elementary/images_elementary/cmd/sc_renamepage.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96">
   <metadata
@@ -24,6 +24,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -110,14 +111,18 @@
      inkscape:window-width="1366"
      inkscape:window-height="706"
      id="namedview25"
-     showgrid="false"
+     showgrid="true"
      inkscape:zoom="10.429825"
-     inkscape:cx="-6.7772813"
-     inkscape:cy="3.0575195"
+     inkscape:cx="20.686786"
+     inkscape:cy="13.52039"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg23" />
+     inkscape:current-layer="g1036">
+    <inkscape:grid
+       type="xygrid"
+       id="grid1032" />
+  </sodipodi:namedview>
   <linearGradient
      id="a"
      gradientTransform="matrix(.49985451 0 0 .87729351 -186.69407 -29.012618)"
@@ -159,26 +164,20 @@
        style="display:inline;fill:none;stroke:url(#linearGradient3092);stroke-width:0.99992192;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        inkscape:connector-curvature="0" />
   </g>
-  <path
-     d="m3.500582-12.5h3.998836v10h-3.998836z"
-     fill="url(#a)"
-     stroke="#956e37"
-     stroke-linejoin="round"
-     stroke-width="1.001164"
-     transform="matrix(0 1 -1 0 3 6)"
-     id="path13" />
   <g
-     fill="#956e37"
-     transform="translate(4 6)"
-     id="g21">
+     id="g1036"
+     transform="matrix(0.85714284,0,0,0.72727273,-3.7142855,5.09088)">
     <path
-       d="m3 4h1v2h-1z"
-       id="path15" />
+       style="display:inline;opacity:0.51999996;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.00000003pt;stroke-opacity:1"
+       d="m 14.833333,-6.99996 1e-6,4.125 H 16 l 1.166667,-0.3942276 0,13.0461596 L 16,10.87504 h -1.166667 l 0,4.125 H 23 l 0,-4.125 h -1.166666 l -1.166667,-0.998287 0,-13.1945096 L 22,-2.87496 h 1 v -4.125 z"
+       id="path13619"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccccccccc" />
     <path
-       d="m6 4h1v2h-1z"
-       id="path17" />
-    <path
-       d="m9 4h1v2h-1z"
-       id="path19" />
+       d="m 16,-4.9443629 1.940706,-0.027019 c 0,0 0.999999,0 1,1 l 0,15.3896949 c 0,0 -0.088,1.543813 -1.0884,1.543813 H 16 m 5.833334,-17.9499875 -1.909128,0.016479 c 0,0 -1.000001,0 -1,1 l 0,15.9335085 c 0,0 0.08803,1.009055 1.0884,1 l 1.820728,-0.01648"
+       style="display:inline;opacity:1;fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:1.26655698;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path13667"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccscscccscsc" />
   </g>
 </svg>
