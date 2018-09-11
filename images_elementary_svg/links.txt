@@ -238,6 +238,12 @@ cmd/sc_savegraphic.svg cmd/sc_save.svg
 cmd/sc_recsave.svg cmd/sc_save.svg
 
 # Text
+cmd/32/textfittosizetool.svg cmd/32/text_marquee.svg
+cmd/32/texttoolbox.svg cmd/32/text.svg
+cmd/32/drawtext.svg cmd/32/text.svg
+cmd/32/doubleclicktextedit.svg cmd/32/pickthrough.svg
+cmd/32/fontworkcharacterspacingfloater.svg cmd/32/spacing.svg
+cmd/32/fontheight.svg cmd/32/scaletext.svg
 cmd/lc_textfittosizetool.svg cmd/lc_text_marquee.svg
 cmd/lc_texttoolbox.svg cmd/lc_text.svg
 cmd/lc_drawtext.svg cmd/lc_text.svg
@@ -940,10 +946,12 @@ cmd/lc_toggleaxisdescr.svg cmd/lc_helplinesvisible.svg
 cmd/sc_toggleaxisdescr.svg cmd/sc_helplinesvisible.svg
 
 # Grid
-cmd/lc_gridvisible.svg cmd/lc_grid.svg
-cmd/sc_gridvisible.svg cmd/sc_grid.svg
-cmd/lc_gridmenu.svg cmd/lc_grid.svg
-cmd/sc_gridmenu.svg cmd/sc_grid.svg
+cmd/32/grid.svg cmd/32/inserttable.svg
+cmd/lc_grid.svg cmd/lc_inserttable.svg
+cmd/sc_grid.svg cmd/sc_inserttable.svg
+cmd/32/gridmenu.svg cmd/32/gridvisible.svg
+cmd/lc_gridmenu.svg cmd/lc_gridvisible.svg
+cmd/sc_gridmenu.svg cmd/sc_gridvisible.svg
 
 # Crop
 cmd/lc_grafattrcrop.svg cmd/lc_crop.svg
@@ -1093,6 +1101,7 @@ cmd/sc_browsebackward cmd/lc_prevrecord.svg
 cmd/sc_browseforward.svg cmd/sc_nextrecord.svg
 
 # Math
+cmd/32/symbolcatalogue.svg cmd/32/insertsymbol.svg
 cmd/lc_symbolcatalogue.svg cmd/lc_insertsymbol.svg
 cmd/sc_symbolcatalogue.svg cmd/sc_insertsymbol.svg
 
@@ -1343,7 +1352,7 @@ res/sx10596.svg cmd/sc_checkbox.svg
 res/sx10599.svg cmd/sc_text.svg
 res/sx10600.svg cmd/lc_listbox.svg
 res/sx10601.svg cmd/sc_combobox.svg
-res/sx10603.svg cmd/sc_grid.svg
+res/sx10603.svg cmd/sc_gridvisible.svg
 
 res/sx10605.svg cmd/sc_open.svg
 res/sx10704.svg cmd/sc_datefield.svg
@@ -1673,3 +1682,8 @@ cmd/sc_rulermenu.svg cmd/sc_ruler.svg
 cmd/32/formatallnotes.svg cmd/32/editannotation.svg
 cmd/lc_formatallnotes.svg cmd/lc_editannotation.svg
 cmd/sc_formatallnotes.svg cmd/sc_editannotation.svg
+
+cmd/32/charmapcontrol.svg cmd/32/insertsymbol.svg
+cmd/lc_charmapcontrol.svg cmd/lc_insertsymbol.svg
+cmd/sc_charmapcontrol.svg cmd/sc_insertsymbol.svg
+
