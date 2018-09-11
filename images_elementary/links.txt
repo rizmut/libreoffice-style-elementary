@@ -508,7 +508,6 @@ cmd/sc_editprintarea.png cmd/sc_editdoc.png
 cmd/sc_printpagepreview.png cmd/sc_printpreview.png
 cmd/sc_printlayout.png cmd/sc_printpreview.png
 cmd/sc_previewprintoptions.png cmd/sc_printpreview.png
-cmd/sc_defineprintarea.png cmd/sc_printpreview.png
 cmd/sc_sendfax.png cmd/sc_print.png
 
 # Delete
