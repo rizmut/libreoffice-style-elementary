@@ -12,7 +12,7 @@
    version="1.1"
    id="svg15"
    sodipodi:docname="sc_stylenewbyexample.svg"
-   inkscape:version="0.92.3 (unknown)"><metadata
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"><metadata
    id="metadata21">
   <rdf:RDF>
     <cc:Work
@@ -64,7 +64,7 @@
      fy="1.0000002"
      r="8"
      gradientUnits="userSpaceOnUse"
-     gradientTransform="matrix(3.6119387e-8,2.3782873,-3.25,9.9126049e-8,9.2500005,-13.269723)" />
+     gradientTransform="matrix(0,2.7499999,-3.25,6.6135727e-8,9.2500007,-15.499998)" />
 </defs>
 <sodipodi:namedview
    pagecolor="#ffffff"
@@ -75,14 +75,14 @@
    guidetolerance="10"
    inkscape:pageopacity="0"
    inkscape:pageshadow="2"
-   inkscape:window-width="1366"
-   inkscape:window-height="706"
+   inkscape:window-width="1316"
+   inkscape:window-height="732"
    id="namedview17"
    showgrid="true"
    inkscape:zoom="14.75"
-   inkscape:cx="8.9243784"
+   inkscape:cx="-4.6688419"
    inkscape:cy="3.7483426"
-   inkscape:window-x="0"
+   inkscape:window-x="50"
    inkscape:window-y="0"
    inkscape:window-maximized="1"
    inkscape:current-layer="svg15">
@@ -117,6 +117,7 @@
      stop-color="#fff"
      id="stop8" />
 </linearGradient>
+
 
 
      /&gt;
