@@ -25,7 +25,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -76,8 +76,8 @@
      id="namedview20"
      showgrid="true"
      inkscape:zoom="9.8333333"
-     inkscape:cx="6.2361937"
-     inkscape:cy="4.8603598"
+     inkscape:cx="-11.662111"
+     inkscape:cy="4.0468005"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -132,7 +132,7 @@
      aria-label="2"
      style="font-style:normal;font-weight:normal;font-size:16.09581947px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffc27d;fill-opacity:1;stroke:#f37329;stroke-width:0.94345844;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      id="text858"
-     transform="translate(0,-11.051219)">
+     transform="translate(-2,-11.051219)">
     <path
        d="m 23.528272,23.528271 h -7.70996 v -1.689747 l 2.703594,-2.915795 q 0.510854,-0.55015 0.927396,-1.013848 0.416542,-0.463698 0.715195,-0.903818 0.298653,-0.44012 0.463698,-0.895959 0.165045,-0.455839 0.165045,-0.982411 0,-0.581587 -0.353668,-0.903818 -0.345808,-0.322231 -0.935255,-0.322231 -0.620884,0 -1.194611,0.306513 -0.573728,0.306512 -1.202471,0.87238 l -1.320361,-1.563998 q 0.353668,-0.32223 0.738773,-0.613024 0.385105,-0.298653 0.848803,-0.526572 0.463698,-0.22792 1.021708,-0.361528 0.558009,-0.141467 1.249626,-0.141467 0.825225,0 1.477546,0.22792 0.66018,0.227919 1.123878,0.65232 0.463698,0.416543 0.707336,1.013848 0.251497,0.597306 0.251497,1.343939 0,0.675898 -0.235778,1.296782 -0.235779,0.613024 -0.644462,1.21033 -0.408683,0.589447 -0.950974,1.178893 -0.534431,0.581587 -1.147455,1.186752 l -1.383235,1.391094 v 0.11003 h 4.684135 z"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';fill:#ffc27d;stroke:#f37329;stroke-width:0.94345844;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
