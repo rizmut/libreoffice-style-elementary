@@ -563,11 +563,6 @@ cmd/sc_insertdoc.svg cmd/sc_open.svg
 cmd/sc_open_h.svg cmd/sc_open.svg
 cmd/sc_newrecord.svg cmd/sc_open.svg
 
-# Import
-cmd/32/importfromfile.svg cmd/32/dataimport.svg
-cmd/lc_importfromfile.svg cmd/lc_dataimport.svg
-cmd/sc_importfromfile.svg cmd/sc_dataimport.svg
-
 # Wizard
 cmd/32/dbnewqueryautopilot.svg cmd/32/autoformat.svg
 cmd/32/usewizards.svg cmd/32/autoformat.svg

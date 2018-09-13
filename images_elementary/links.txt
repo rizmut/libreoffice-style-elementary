@@ -563,11 +563,6 @@ cmd/sc_insertdoc.png cmd/sc_open.png
 cmd/sc_open_h.png cmd/sc_open.png
 cmd/sc_newrecord.png cmd/sc_open.png
 
-# Import
-cmd/32/importfromfile.png cmd/32/dataimport.png
-cmd/lc_importfromfile.png cmd/lc_dataimport.png
-cmd/sc_importfromfile.png cmd/sc_dataimport.png
-
 # Wizard
 cmd/32/dbnewqueryautopilot.png cmd/32/autoformat.png
 cmd/32/usewizards.png cmd/32/autoformat.png
