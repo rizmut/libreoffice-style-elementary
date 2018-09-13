@@ -494,19 +494,16 @@ cmd/sc_pagecolumntype.png cmd/sc_insertsection.png
 # Print
 cmd/32/editprintarea.png cmd/32/editdoc.png
 cmd/32/printpagepreview.png cmd/32/printpreview.png
-cmd/32/printlayout.png cmd/32/printpreview.png
 cmd/32/previewprintoptions.png cmd/32/printpreview.png
 cmd/32/sendfax.png cmd/32/print.png
 
 cmd/lc_editprintarea.png cmd/lc_editdoc.png
 cmd/lc_printpagepreview.png cmd/lc_printpreview.png
-cmd/lc_printlayout.png cmd/lc_printpreview.png
 cmd/lc_previewprintoptions.png cmd/lc_printpreview.png
 cmd/lc_sendfax.png cmd/lc_print.png
 
 cmd/sc_editprintarea.png cmd/sc_editdoc.png
 cmd/sc_printpagepreview.png cmd/sc_printpreview.png
-cmd/sc_printlayout.png cmd/sc_printpreview.png
 cmd/sc_previewprintoptions.png cmd/sc_printpreview.png
 cmd/sc_sendfax.png cmd/sc_print.png
 
