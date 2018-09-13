@@ -1726,7 +1726,7 @@ sfx2/res/actiontemplates016.png cmd/lc_configuredialog.png
 sfx2/res/actiontemplates018.png cmd/lc_delete.png
 sfx2/res/actiontemplates019.png cmd/lc_editdoc.png
 sfx2/res/actiontemplates020.png cmd/lc_exportto.png
-sfx2/res/actionview010.png cmd/lc_starshapes.png
+sfx2/res/actionview010.png cmd/lc_importfromfile.png
 sfx2/res/actionview025.png cmd/lc_delete.png
 sfx2/res/actionview028.png cmd/lc_save.png
 sfx2/res/actionview030.png cmd/lc_open.png

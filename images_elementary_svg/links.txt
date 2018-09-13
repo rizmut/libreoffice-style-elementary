@@ -52,11 +52,13 @@ cmd/32/insertauthorfield.svg cmd/32/dbviewaliases.svg
 cmd/32/insertcolumnsbefore.svg cmd/32/insertcolumns.svg
 cmd/32/insertctrl.svg cmd/32/inserttable.svg
 cmd/32/insertcurrencyfield.svg cmd/32/formattedfield.svg
+cmd/32/insertcurrentdate.svg cmd/32/datefield.svg
+cmd/32/insertcurrenttime.svg cmd/32/timefield.svg
 cmd/32/insertdatefield.svg cmd/32/datefield.svg
 cmd/32/insertdatefieldfix.svg cmd/32/datefield.svg
 cmd/32/insertdatefieldvar.svg cmd/32/datefield.svg
 cmd/32/insertedit.svg cmd/32/text.svg
-cmd/32/insertfield.svg cmd/32/addfield.svg
+cmd/32/fieldmenu.svg cmd/32/insertfield.svg
 cmd/32/insertfilecontrol.svg cmd/32/open.svg
 cmd/32/insertfilefield.svg cmd/32/open.svg
 cmd/32/insertfootnotesmenu.svg cmd/32/insertfootnote.svg
@@ -103,11 +105,13 @@ cmd/lc_insertauthorfield.svg cmd/lc_dbviewaliases.svg
 cmd/lc_insertcolumnsbefore.svg cmd/lc_insertcolumns.svg
 cmd/lc_insertctrl.svg cmd/lc_inserttable.svg
 cmd/lc_insertcurrencyfield.svg cmd/lc_formattedfield.svg
+cmd/lc_insertcurrentdate.svg cmd/lc_datefield.svg
+cmd/lc_insertcurrenttime.svg cmd/lc_timefield.svg
 cmd/lc_insertdatefield.svg cmd/lc_datefield.svg
 cmd/lc_insertdatefieldfix.svg cmd/lc_datefield.svg
 cmd/lc_insertdatefieldvar.svg cmd/lc_datefield.svg
 cmd/lc_insertedit.svg cmd/lc_text.svg
-cmd/lc_insertfield.svg cmd/lc_addfield.svg
+cmd/lc_fieldmenu.svg cmd/lc_insertfield.svg
 cmd/lc_insertfilecontrol.svg cmd/lc_open.svg
 cmd/lc_insertfilefield.svg cmd/lc_open.svg
 cmd/lc_insertfootnotesmenu.svg cmd/lc_insertfootnote.svg
@@ -156,11 +160,13 @@ cmd/sc_insertauthorfield.svg cmd/sc_dbviewaliases.svg
 cmd/sc_insertcolumnsbefore.svg cmd/sc_insertcolumns.svg
 cmd/sc_insertctrl.svg cmd/sc_inserttable.svg
 cmd/sc_insertcurrencyfield.svg cmd/sc_formattedfield.svg
+cmd/sc_insertcurrentdate.svg cmd/sc_datefield.svg
+cmd/sc_insertcurrenttime.svg cmd/sc_timefield.svg
 cmd/sc_insertdatefield.svg cmd/sc_datefield.svg
 cmd/sc_insertdatefieldfix.svg cmd/sc_datefield.svg
 cmd/sc_insertdatefieldvar.svg cmd/sc_datefield.svg
 cmd/sc_insertedit.svg cmd/sc_text.svg
-cmd/sc_insertfield.svg cmd/sc_addfield.svg
+cmd/sc_fieldmenu.svg cmd/sc_insertfield.svg
 cmd/sc_insertfilecontrol.svg cmd/sc_open.svg
 cmd/sc_insertfilefield.svg cmd/sc_open.svg
 cmd/sc_insertfootnotesmenu.svg cmd/sc_insertfootnote.svg
@@ -494,19 +500,16 @@ cmd/sc_pagecolumntype.svg cmd/sc_insertsection.svg
 # Print
 cmd/32/editprintarea.svg cmd/32/editdoc.svg
 cmd/32/printpagepreview.svg cmd/32/printpreview.svg
-cmd/32/printlayout.svg cmd/32/printpreview.svg
 cmd/32/previewprintoptions.svg cmd/32/printpreview.svg
 cmd/32/sendfax.svg cmd/32/print.svg
 
 cmd/lc_editprintarea.svg cmd/lc_editdoc.svg
 cmd/lc_printpagepreview.svg cmd/lc_printpreview.svg
-cmd/lc_printlayout.svg cmd/lc_printpreview.svg
 cmd/lc_previewprintoptions.svg cmd/lc_printpreview.svg
 cmd/lc_sendfax.svg cmd/lc_print.svg
 
 cmd/sc_editprintarea.svg cmd/sc_editdoc.svg
 cmd/sc_printpagepreview.svg cmd/sc_printpreview.svg
-cmd/sc_printlayout.svg cmd/sc_printpreview.svg
 cmd/sc_previewprintoptions.svg cmd/sc_printpreview.svg
 cmd/sc_sendfax.svg cmd/sc_print.svg
 
@@ -941,28 +944,50 @@ cmd/sc_linespacing.svg cmd/sc_spacepara15.svg
 
 # Calc menu entries
 cmd/32/datapilotmenu.svg cmd/32/datadatapilotrun.svg
-cmd/32/insertrowsmenu.svg cmd/32/insertrows.svg
-cmd/32/insertcolumnsmenu.svg cmd/32/insertcolumns.svg
 cmd/32/functiondialog.svg cmd/32/dbviewfunctions.svg
 cmd/32/functionbox.svg cmd/32/dbviewfunctions.svg
-cmd/32/sheetcommentmenu.svg cmd/32/showannotations.svg
+cmd/32/insertrowsmenu.svg cmd/32/insertrows.svg
+cmd/32/insertcolumnsmenu.svg cmd/32/insertcolumns.svg
+cmd/32/mergecellsmenu.svg cmd/32/mergecells.svg
 cmd/32/printrangesmenu.svg cmd/32/defineprintarea.svg
+cmd/32/sheetcommentmenu.svg cmd/32/showannotations.svg
 
 cmd/lc_datapilotmenu.svg cmd/lc_datadatapilotrun.svg
-cmd/lc_insertrowsmenu.svg cmd/lc_insertrows.svg
-cmd/lc_insertcolumnsmenu.svg cmd/lc_insertcolumns.svg
 cmd/lc_functiondialog.svg cmd/lc_dbviewfunctions.svg
 cmd/lc_functionbox.svg cmd/lc_dbviewfunctions.svg
+cmd/lc_insertrowsmenu.svg cmd/lc_insertrows.svg
+cmd/lc_insertcolumnsmenu.svg cmd/lc_insertcolumns.svg
+cmd/lc_mergecellsmenu.svg cmd/lc_mergecells.svg
 cmd/lc_printrangesmenu.svg cmd/lc_defineprintarea.svg
 cmd/lc_sheetcommentmenu.svg cmd/lc_showannotations.svg
 
 cmd/sc_datapilotmenu.svg cmd/sc_datadatapilotrun.svg
-cmd/sc_insertrowsmenu.svg cmd/sc_insertrows.svg
-cmd/sc_insertcolumnsmenu.svg cmd/sc_insertcolumns.svg
 cmd/sc_functiondialog.svg cmd/sc_dbviewfunctions.svg
 cmd/sc_functionbox.svg cmd/sc_dbviewfunctions.svg
+cmd/sc_insertrowsmenu.svg cmd/sc_insertrows.svg
+cmd/sc_insertcolumnsmenu.svg cmd/sc_insertcolumns.svg
+cmd/sc_mergecellsmenu.svg cmd/sc_mergecells.svg
 cmd/sc_printrangesmenu.svg cmd/sc_defineprintarea.svg
 cmd/sc_sheetcommentmenu.svg cmd/sc_showannotations.svg
+
+# Draw & Impress menu entries
+cmd/32/headerandfooter.svg cmd/32/editheaderandfooter.svg
+cmd/32/insertfieldctrl.svg cmd/32/insertfield.svg
+cmd/32/insertslidefield.svg cmd/32/insertpagenumberfield.svg
+cmd/32/insertslidenumber.svg cmd/32/insertpagenumberfield.svg
+cmd/32/insertslidesfield.svg cmd/32/insertpagecountfield.svg
+
+cmd/lc_headerandfooter.svg cmd/lc_editheaderandfooter.svg
+cmd/lc_insertfieldctrl.svg cmd/lc_insertfield.svg
+cmd/lc_insertslidefield.svg cmd/lc_insertpagenumberfield.svg
+cmd/lc_insertslidenumber.svg cmd/lc_insertpagenumberfield.svg
+cmd/lc_insertslidesfield.svg cmd/lc_insertpagecountfield.svg
+
+cmd/sc_headerandfooter.svg cmd/sc_editheaderandfooter.svg
+cmd/sc_insertfieldctrl.svg cmd/sc_insertfield.svg
+cmd/sc_insertslidefield.svg cmd/sc_insertpagenumberfield.svg
+cmd/sc_insertslidenumber.svg cmd/sc_insertpagenumberfield.svg
+cmd/sc_insertslidesfield.svg cmd/sc_insertpagecountfield.svg
 
 # Shapes
 cmd/32/basicshapes.svg cmd/32/basicshapes.diamond.svg
@@ -1701,7 +1726,7 @@ sfx2/res/actiontemplates016.svg cmd/lc_configuredialog.svg
 sfx2/res/actiontemplates018.svg cmd/lc_delete.svg
 sfx2/res/actiontemplates019.svg cmd/lc_editdoc.svg
 sfx2/res/actiontemplates020.svg cmd/lc_exportto.svg
-sfx2/res/actionview010.svg cmd/lc_starshapes.svg
+sfx2/res/actionview010.svg cmd/lc_importfromfile.svg
 sfx2/res/actionview025.svg cmd/lc_delete.svg
 sfx2/res/actionview028.svg cmd/lc_save.svg
 sfx2/res/actionview030.svg cmd/lc_open.svg
