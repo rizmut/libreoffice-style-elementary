@@ -17,7 +17,7 @@ temp_dir="$(mktemp -d)"
 
 cd "images_elementary"
 zip -r -D images_elementary.zip *
-cp -R "images_elementary.zip" \
+mv "images_elementary.zip" \
   "./../build/"
 cd "./../build/"
 echo "=> Deleting old $gh_desc extension file ..."

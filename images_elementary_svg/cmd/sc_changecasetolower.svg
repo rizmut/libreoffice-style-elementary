@@ -21,6 +21,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -70,9 +71,9 @@
      inkscape:window-height="706"
      id="namedview16"
      showgrid="true"
-     inkscape:zoom="41.7193"
-     inkscape:cx="9.0403057"
-     inkscape:cy="13.296265"
+     inkscape:zoom="20.85965"
+     inkscape:cx="1.8997887"
+     inkscape:cy="14.568911"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -104,19 +105,9 @@
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="scscsccccccsccssccscscscs" />
   </g>
-  <g
-     transform="matrix(-.96621412 0 0 -.96495357 30.996001 5.977101)"
-     id="g12">
-    <path
-       d="m17.342697 3.3386364 1.800059-1.2000382 1.800057 1.2000382"
-       fill="none"
-       stroke="#ce5c00"
-       stroke-linecap="round"
-       stroke-width="3.600116"
-       id="path8" />
-    <path
-       d="m19.142578 1.3457031-2.166016 1.4433594a.66060253.66060253 0 1 0  .732422 1.0996094l1.433594-.9570313 1.433594.9570313a.66060253.66060253 0 1 0  .732422-1.0996094z"
-       fill="#fcaf3e"
-       id="path10" />
-  </g>
+  <path
+     style="fill:#ffc27d;fill-opacity:1;stroke:#f37329;stroke-width:1px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+     d="m 12.500001,5.5010545 -3.0000003,-3 h 6.0000003 z"
+     id="path822"
+     inkscape:connector-curvature="0" />
 </svg>
