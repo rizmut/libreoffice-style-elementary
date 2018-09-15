@@ -1167,10 +1167,9 @@ cmd/sc_rulerrowsvertical.svg cmd/sc_extrusiontiltright.svg
 
 
 # Presentation
+cmd/32/diaauto.svg cmd/32/dia.svg
 cmd/lc_diaauto.svg cmd/lc_dia.svg
 cmd/sc_diaauto.svg cmd/sc_dia.svg
-cmd/lc_presentation.svg cmd/lc_dia.svg
-cmd/sc_presentation.svg cmd/sc_dia.svg
 
 # Style
 
@@ -1240,18 +1239,18 @@ cmd/sc_numberformattime.svg cmd/sc_timefield.svg
 # Arrange
 cmd/32/arrangeframemenu.svg cmd/32/bringtofront.svg
 cmd/32/arrangemenu.svg cmd/32/bringtofront.svg
-cmd/32/setobjecttobackground.svg cmd/32/sendtoback.svg
-cmd/32/setobjecttoforeground.svg cmd/32/bringtofront.svg
+cmd/32/objectbackone.svg cmd/32/backward.svg
+cmd/32/objectforwardone.svg cmd/32/forward.svg
 
 cmd/lc_arrangeframemenu.svg cmd/lc_bringtofront.svg
 cmd/lc_arrangemenu.svg cmd/lc_bringtofront.svg
-cmd/lc_setobjecttobackground.svg cmd/lc_sendtoback.svg
-cmd/lc_setobjecttoforeground.svg cmd/lc_bringtofront.svg
+cmd/lc_objectbackone.svg cmd/lc_backward.svg
+cmd/lc_objectforwardone.svg cmd/lc_forward.svg
 
 cmd/sc_arrangeframemenu.svg cmd/sc_bringtofront.svg
 cmd/sc_arrangemenu.svg cmd/sc_bringtofront.svg
-cmd/sc_setobjecttobackground.svg cmd/sc_sendtoback.svg
-cmd/sc_setobjecttoforeground.svg cmd/sc_bringtofront.svg
+cmd/sc_objectbackone.svg cmd/sc_backward.svg
+cmd/sc_objectforwardone.svg cmd/sc_forward.svg
 
 # Bibliography
 cmd/32/insertauthoritiesentry.svg cmd/32/bibliographycomponent.svg
@@ -1949,9 +1948,6 @@ cmd/lc_cellprotection.svg cmd/lc_protect.svg
 cmd/sc_indexesmenu.svg cmd/sc_insertindexesentry.svg
 cmd/lc_rulermenu.svg cmd/lc_ruler.svg
 cmd/sc_rulermenu.svg cmd/sc_ruler.svg
-cmd/32/formatallnotes.svg cmd/32/editannotation.svg
-cmd/lc_formatallnotes.svg cmd/lc_editannotation.svg
-cmd/sc_formatallnotes.svg cmd/sc_editannotation.svg
 
 cmd/32/charmapcontrol.svg cmd/32/insertsymbol.svg
 cmd/lc_charmapcontrol.svg cmd/lc_insertsymbol.svg
@@ -1963,13 +1959,27 @@ cmd/sc_showruler.svg cmd/sc_ruler.svg
 
 cmd/32/deleteallnotes.svg cmd/32/deleteallannotation.svg
 cmd/32/deletenote.svg cmd/32/deleteannotation.svg
+cmd/32/formatallnotes.svg cmd/32/editannotation.svg
+
 cmd/lc_deleteallnotes.svg cmd/lc_deleteallannotation.svg
 cmd/lc_deletenote.svg cmd/lc_deleteannotation.svg
+cmd/lc_formatallnotes.svg cmd/lc_editannotation.svg
+
 cmd/sc_deleteallnotes.svg cmd/sc_deleteallannotation.svg
 cmd/sc_deletenote.svg cmd/sc_deleteannotation.svg
+cmd/sc_formatallnotes.svg cmd/sc_editannotation.svg
 
 cmd/32/objecttitledescription.svg cmd/32/insertcaptiondialog.svg
 cmd/lc_objecttitledescription.svg cmd/lc_insertcaptiondialog.svg
 cmd/sc_objecttitledescription.svg cmd/sc_insertcaptiondialog.svg
+
+cmd/32/availabletoolbars.svg cmd/32/showtoolbar.svg
+cmd/32/toolbarsmenu.svg cmd/32/showtoolbar.svg
+
+cmd/lc_availabletoolbars.svg cmd/lc_showtoolbar.svg
+cmd/lc_toolbarsmenu.svg cmd/lc_showtoolbar.svg
+
+cmd/sc_availabletoolbars.svg cmd/sc_showtoolbar.svg
+cmd/sc_toolbarsmenu.svg cmd/sc_showtoolbar.svg
 
 

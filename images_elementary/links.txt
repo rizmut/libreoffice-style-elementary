@@ -1167,10 +1167,9 @@ cmd/sc_rulerrowsvertical.png cmd/sc_extrusiontiltright.png
 
 
 # Presentation
+cmd/32/diaauto.png cmd/32/dia.png
 cmd/lc_diaauto.png cmd/lc_dia.png
 cmd/sc_diaauto.png cmd/sc_dia.png
-cmd/lc_presentation.png cmd/lc_dia.png
-cmd/sc_presentation.png cmd/sc_dia.png
 
 # Style
 
@@ -1974,6 +1973,13 @@ cmd/32/objecttitledescription.png cmd/32/insertcaptiondialog.png
 cmd/lc_objecttitledescription.png cmd/lc_insertcaptiondialog.png
 cmd/sc_objecttitledescription.png cmd/sc_insertcaptiondialog.png
 
+cmd/32/availabletoolbars.png cmd/32/showtoolbar.png
+cmd/32/toolbarsmenu.png cmd/32/showtoolbar.png
 
+cmd/lc_availabletoolbars.png cmd/lc_showtoolbar.png
+cmd/lc_toolbarsmenu.png cmd/lc_showtoolbar.png
+
+cmd/sc_availabletoolbars.png cmd/sc_showtoolbar.png
+cmd/sc_toolbarsmenu.png cmd/sc_showtoolbar.png
 
 
