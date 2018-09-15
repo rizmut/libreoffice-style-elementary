@@ -32,17 +32,14 @@ chart2/res/selectrange.png formula/res/refinp1.png
 # Add
 cmd/32/adddatefield.png cmd/32/datefield.png
 cmd/32/addons.png cmd/32/insertplugin.png
-cmd/32/addprintarea.png cmd/32/inserttable.png
 cmd/32/addtable.png cmd/32/inserttable.png
 
 cmd/lc_adddatefield.png cmd/lc_datefield.png
 cmd/lc_addons.png cmd/lc_insertplugin.png
-cmd/lc_addprintarea.png cmd/lc_inserttable.png
 cmd/lc_addtable.png cmd/lc_inserttable.png
 
 cmd/sc_adddatefield.png cmd/sc_datefield.png
 cmd/sc_addons.png cmd/sc_insertplugin.png
-cmd/sc_addprintarea.png cmd/sc_inserttable.png
 cmd/sc_addtable.png cmd/sc_inserttable.png
 
 # Insert
@@ -379,7 +376,6 @@ cmd/sc_alignframemenu.png cmd/sc_alignleft.png
 cmd/sc_alignhorizontalceter.png cmd/sc_alignhorizontalcenter.png
 
 # Graphic
-cmd/32/colorsettings.png cmd/32/graphicfiltersmooth.png
 cmd/32/colorview.png cmd/32/graphicfilterinvert.png
 cmd/32/formatimagemenu.png cmd/32/graphic.png
 cmd/32/grafgamma.png cmd/32/graphicfilterinvert.png
@@ -706,13 +702,11 @@ cmd/lc_dsbeditdoc.png cmd/lc_editdoc.png
 cmd/lc_quickedit.png cmd/lc_editdoc.png
 cmd/lc_renamemasterpage.png cmd/lc_slidemasterpage.png
 cmd/lc_solidcreate.png cmd/lc_editdoc.png
-cmd/lc_switchcontroldesignmode.png cmd/lc_editdoc.png
 
 cmd/sc_dsbeditdoc.png cmd/sc_editdoc.png
 cmd/sc_quickedit.png cmd/sc_editdoc.png
 cmd/sc_renamemasterpage.png cmd/sc_slidemasterpage.png
 cmd/sc_solidcreate.png cmd/sc_editdoc.png
-cmd/sc_switchcontroldesignmode.png cmd/sc_editdoc.png
 
 # Quit
 cmd/32/closewin.png cmd/32/quit.png
@@ -722,17 +716,14 @@ cmd/sc_closewin.png cmd/sc_quit.png
 # Close
 cmd/32/closedocs.png cmd/32/closedoc.png
 cmd/32/closepreview.png cmd/32/closedoc.png
-cmd/32/closemasterview.png cmd/32/closedoc.png
 cmd/32/exitsearch.png cmd/32/closedoc.png
 
 cmd/lc_closedocs.png cmd/lc_closedoc.png
 cmd/lc_closepreview.png cmd/lc_closedoc.png
-cmd/lc_closemasterview.png cmd/lc_closedoc.png
 cmd/lc_exitsearch.png cmd/lc_closedoc.png
 
 cmd/sc_closedocs.png cmd/sc_closedoc.png
 cmd/sc_closepreview.png cmd/sc_closedoc.png
-cmd/sc_closemasterview.png cmd/sc_closedoc.png
 cmd/sc_exitsearch.png cmd/sc_closedoc.png
 
 # arc
@@ -1024,15 +1015,12 @@ cmd/sc_stylewatercanmode.png cmd/sc_backgroundcolor.png
 
 # Ok
 cmd/32/apply.png cmd/32/ok.png
-cmd/32/accepttrackedchange.png cmd/32/ok.png
 cmd/32/yes.png cmd/32/ok.png
 
 cmd/lc_apply.png cmd/lc_ok.png
-cmd/lc_accepttrackedchange.png cmd/lc_ok.png
 cmd/lc_yes.png cmd/lc_ok.png
 
 cmd/sc_apply.png cmd/sc_ok.png
-cmd/sc_accepttrackedchange.png cmd/sc_ok.png
 cmd/sc_yes.png cmd/sc_ok.png
 
 # up and down
@@ -1214,16 +1202,10 @@ cmd/sc_outlineright.png cmd/sc_decrementlevel.png
 cmd/sc_outlineleft.png cmd/sc_decrementindent.png
 
 # Mirror
-cmd/32/fliphorizontal.png cmd/32/mirror.png
-cmd/32/flipvertical.png cmd/32/mirrorvert.png
 cmd/32/mirrorhorz.png cmd/32/mirror.png
 
-cmd/lc_fliphorizontal.png cmd/lc_mirror.png
-cmd/lc_flipvertical.png cmd/lc_mirrorvert.png
 cmd/lc_mirrorhorz.png cmd/lc_mirror.png
 
-cmd/sc_fliphorizontal.png cmd/sc_mirror.png
-cmd/sc_flipvertical.png cmd/sc_mirrorvert.png
 cmd/sc_mirrorhorz.png cmd/sc_mirror.png
 
 # Connector
@@ -1593,6 +1575,7 @@ res/mainapp_16_8.png cmd/sc_showsinglepage.png
 
 res/mainapp.png res/newdoc.png
 res/mainapp_32.png res/newdoc.png
+res/page.png cmd/sc_adddirect.png
 res/printeradmin_16_8.png res/printeradmin_16.png
 res/printeradmin_32_8.png res/printeradmin_32.png
 res/reload.png cmd/sc_reload.png
@@ -1756,8 +1739,8 @@ sfx2/res/symphony/sidebar-navigator-large.png cmd/lc_navigator.png
 sfx2/res/symphony/sidebar-navigator-small.png cmd/sc_navigator.png
 sfx2/res/symphony/sidebar-property-large.png cmd/lc_configuredialog.png
 sfx2/res/symphony/sidebar-property-small.png cmd/sc_configuredialog.png
-sfx2/res/symphony/sidebar-style-large.png cmd/lc_formdesigntools.png
-sfx2/res/symphony/sidebar-style-small.png cmd/sc_formdesigntools.png
+sfx2/res/symphony/sidebar-style-large.png cmd/lc_designerdialog.png
+sfx2/res/symphony/sidebar-style-small.png cmd/sc_designerdialog.png
 sfx2/res/symphony/sidebar-template-large.png cmd/lc_slidemasterpage.png
 sfx2/res/symphony/sidebar-template-small.png cmd/sc_slidemasterpage.png
 
@@ -1799,7 +1782,7 @@ svx/res/cd025.png cmd/sc_autoformat.png
 svx/res/cd026.png cmd/sc_bmpmask.png
 
 svx/res/color.png cmd/sc_bmpmask.png
-svx/res/colordlg.png cmd/sc_graphicfiltersmooth.png
+svx/res/colordlg.png cmd/sc_colorsettings.png
 svx/res/convrt3d.png cmd/sc_convertinto3d.png
 svx/res/filter3d.png cmd/sc_datafilterstandardfilter.png
 svx/res/fontworkaligncentered_16.png cmd/sc_alignhorizontalcenter.png
@@ -1984,4 +1967,9 @@ cmd/lc_deleteallnotes.png cmd/lc_deleteallannotation.png
 cmd/lc_deletenote.png cmd/lc_deleteannotation.png
 cmd/sc_deleteallnotes.png cmd/sc_deleteallannotation.png
 cmd/sc_deletenote.png cmd/sc_deleteannotation.png
+
+cmd/32/objecttitledescription.png cmd/32/insertcaptiondialog.png
+cmd/lc_objecttitledescription.png cmd/lc_insertcaptiondialog.png
+cmd/sc_objecttitledescription.png cmd/sc_insertcaptiondialog.png
+
 
