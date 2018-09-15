@@ -1240,18 +1240,18 @@ cmd/sc_numberformattime.png cmd/sc_timefield.png
 # Arrange
 cmd/32/arrangeframemenu.png cmd/32/bringtofront.png
 cmd/32/arrangemenu.png cmd/32/bringtofront.png
-cmd/32/setobjecttobackground.png cmd/32/sendtoback.png
-cmd/32/setobjecttoforeground.png cmd/32/bringtofront.png
+cmd/32/objectbackone.png cmd/32/backward.png
+cmd/32/objectforwardone.png cmd/32/forward.png
 
 cmd/lc_arrangeframemenu.png cmd/lc_bringtofront.png
 cmd/lc_arrangemenu.png cmd/lc_bringtofront.png
-cmd/lc_setobjecttobackground.png cmd/lc_sendtoback.png
-cmd/lc_setobjecttoforeground.png cmd/lc_bringtofront.png
+cmd/lc_objectbackone.png cmd/lc_backward.png
+cmd/lc_objectforwardone.png cmd/lc_forward.png
 
 cmd/sc_arrangeframemenu.png cmd/sc_bringtofront.png
 cmd/sc_arrangemenu.png cmd/sc_bringtofront.png
-cmd/sc_setobjecttobackground.png cmd/sc_sendtoback.png
-cmd/sc_setobjecttoforeground.png cmd/sc_bringtofront.png
+cmd/sc_objectbackone.png cmd/sc_backward.png
+cmd/sc_objectforwardone.png cmd/sc_forward.png
 
 # Bibliography
 cmd/32/insertauthoritiesentry.png cmd/32/bibliographycomponent.png
@@ -1949,9 +1949,6 @@ cmd/lc_cellprotection.png cmd/lc_protect.png
 cmd/sc_indexesmenu.png cmd/sc_insertindexesentry.png
 cmd/lc_rulermenu.png cmd/lc_ruler.png
 cmd/sc_rulermenu.png cmd/sc_ruler.png
-cmd/32/formatallnotes.png cmd/32/editannotation.png
-cmd/lc_formatallnotes.png cmd/lc_editannotation.png
-cmd/sc_formatallnotes.png cmd/sc_editannotation.png
 
 cmd/32/charmapcontrol.png cmd/32/insertsymbol.png
 cmd/lc_charmapcontrol.png cmd/lc_insertsymbol.png
@@ -1963,13 +1960,20 @@ cmd/sc_showruler.png cmd/sc_ruler.png
 
 cmd/32/deleteallnotes.png cmd/32/deleteallannotation.png
 cmd/32/deletenote.png cmd/32/deleteannotation.png
+cmd/32/formatallnotes.png cmd/32/editannotation.png
+
 cmd/lc_deleteallnotes.png cmd/lc_deleteallannotation.png
 cmd/lc_deletenote.png cmd/lc_deleteannotation.png
+cmd/lc_formatallnotes.png cmd/lc_editannotation.png
+
 cmd/sc_deleteallnotes.png cmd/sc_deleteallannotation.png
 cmd/sc_deletenote.png cmd/sc_deleteannotation.png
+cmd/sc_formatallnotes.png cmd/sc_editannotation.png
 
 cmd/32/objecttitledescription.png cmd/32/insertcaptiondialog.png
 cmd/lc_objecttitledescription.png cmd/lc_insertcaptiondialog.png
 cmd/sc_objecttitledescription.png cmd/sc_insertcaptiondialog.png
+
+
 
 
