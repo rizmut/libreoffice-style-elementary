@@ -34,7 +34,7 @@ echo "=> Deleting old $gh_desc ..."
 sudo rm -f "/usr/share/libreoffice/share/config/images_elementary.zip"
 echo "=> Installing ..."
 sudo mkdir -p "/usr/share/libreoffice/share/config"
-sudo mv \
+sudo cp \
   "build/images_elementary.zip" \
   "/usr/share/libreoffice/share/config"
 for dir in \
