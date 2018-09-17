@@ -1310,7 +1310,6 @@ cmd/sc_navigationbar.svg cmd/sc_navigator.svg
 cmd/sc_reportnavigator.svg cmd/sc_navigator.svg
 
 # Database
-cmd/32/dataincolumns.svg cmd/32/dbviewtablenames.svg
 cmd/32/dbdtableedit.svg cmd/32/tabledialog.svg
 cmd/32/dbnewquerysql.svg cmd/32/sbanativesql.svg
 cmd/32/dbnewview.svg cmd/32/dbchangedesignmode.svg
@@ -1318,7 +1317,6 @@ cmd/32/dbtableedit.svg cmd/32/tabledialog.svg
 cmd/32/dbquerypropertiesdialog.svg cmd/32/dbqueryedit.svg
 cmd/32/diagramdata.svg cmd/32/viewdatasourcebrowser.svg
 
-cmd/lc_dataincolumns.svg cmd/lc_dbviewtablenames.svg
 cmd/lc_dbdtableedit.svg cmd/lc_tabledialog.svg
 cmd/lc_dbnewquerysql.svg cmd/lc_sbanativesql.svg
 cmd/lc_dbnewview.svg cmd/lc_dbchangedesignmode.svg
@@ -1326,7 +1324,6 @@ cmd/lc_dbtableedit.svg cmd/lc_tabledialog.svg
 cmd/lc_dbquerypropertiesdialog.svg cmd/lc_dbqueryedit.svg
 cmd/lc_diagramdata.svg cmd/lc_viewdatasourcebrowser.svg
 
-cmd/sc_dataincolumns.svg cmd/sc_dbviewtablenames.svg
 cmd/sc_dbdtableedit.svg cmd/sc_tabledialog.svg
 cmd/sc_dbnewquerysql.svg cmd/sc_sbanativesql.svg
 cmd/sc_dbnewview.svg cmd/sc_dbchangedesignmode.svg
@@ -1936,17 +1933,26 @@ vcl/res/index.svg cmd/sc_insertmultiindex.svg
 # ==============================================
 xmlsecurity/res/key_12.svg dbaccess/res/pkey.svg
 xmlsecurity/res/signet_11x16.svg xmlsecurity/res/notcertificate_16.svg
+cmd/32/columnoperations.svg cmd/32/entirecolumn.svg
+cmd/32/rowoperations.svg cmd/32/entirerow.svg
 
 cmd/lc_columnoperations.svg cmd/lc_entirecolumn.svg
-cmd/sc_columnoperations.svg cmd/sc_entirecolumn.svg
 cmd/lc_rowoperations.svg cmd/lc_entirerow.svg
+
+cmd/sc_columnoperations.svg cmd/sc_entirecolumn.svg
 cmd/sc_rowoperations.svg cmd/sc_entirerow.svg
 
+cmd/32/cellprotection.svg cmd/32/protect.svg
 cmd/sc_cellprotection.svg cmd/sc_protect.svg
 cmd/lc_cellprotection.svg cmd/lc_protect.svg
 
-cmd/sc_indexesmenu.svg cmd/sc_insertindexesentry.svg
+cmd/32/indexesmenu.svg cmd/32/insertindexesentry.svg
+cmd/32/rulermenu.svg cmd/32/ruler.svg
+
+cmd/lc_indexesmenu.svg cmd/lc_insertindexesentry.svg
 cmd/lc_rulermenu.svg cmd/lc_ruler.svg
+
+cmd/sc_indexesmenu.svg cmd/sc_insertindexesentry.svg
 cmd/sc_rulermenu.svg cmd/sc_ruler.svg
 
 cmd/32/charmapcontrol.svg cmd/32/insertsymbol.svg

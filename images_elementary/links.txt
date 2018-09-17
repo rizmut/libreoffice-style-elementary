@@ -1310,7 +1310,6 @@ cmd/sc_navigationbar.png cmd/sc_navigator.png
 cmd/sc_reportnavigator.png cmd/sc_navigator.png
 
 # Database
-cmd/32/dataincolumns.png cmd/32/dbviewtablenames.png
 cmd/32/dbdtableedit.png cmd/32/tabledialog.png
 cmd/32/dbnewquerysql.png cmd/32/sbanativesql.png
 cmd/32/dbnewview.png cmd/32/dbchangedesignmode.png
@@ -1318,7 +1317,6 @@ cmd/32/dbtableedit.png cmd/32/tabledialog.png
 cmd/32/dbquerypropertiesdialog.png cmd/32/dbqueryedit.png
 cmd/32/diagramdata.png cmd/32/viewdatasourcebrowser.png
 
-cmd/lc_dataincolumns.png cmd/lc_dbviewtablenames.png
 cmd/lc_dbdtableedit.png cmd/lc_tabledialog.png
 cmd/lc_dbnewquerysql.png cmd/lc_sbanativesql.png
 cmd/lc_dbnewview.png cmd/lc_dbchangedesignmode.png
@@ -1326,7 +1324,6 @@ cmd/lc_dbtableedit.png cmd/lc_tabledialog.png
 cmd/lc_dbquerypropertiesdialog.png cmd/lc_dbqueryedit.png
 cmd/lc_diagramdata.png cmd/lc_viewdatasourcebrowser.png
 
-cmd/sc_dataincolumns.png cmd/sc_dbviewtablenames.png
 cmd/sc_dbdtableedit.png cmd/sc_tabledialog.png
 cmd/sc_dbnewquerysql.png cmd/sc_sbanativesql.png
 cmd/sc_dbnewview.png cmd/sc_dbchangedesignmode.png
@@ -1885,8 +1882,6 @@ sw/res/sc20556.png cmd/sc_dbviewfunctions.png
 sw/res/sc20557.png cmd/sc_cancel.png
 sw/res/sc20558.png cmd/sc_ok.png
 
-sw/res/sc_datainrows.png cmd/sc_datainrows.png
-
 sw/res/sf01.png cmd/sc_controlcodes.png
 sw/res/sf02.png cmd/sc_charfontname.png
 sw/res/sf03.png cmd/sc_insertobjectfloatingframe.png
@@ -1936,17 +1931,26 @@ vcl/res/index.png cmd/sc_insertmultiindex.png
 # ==============================================
 xmlsecurity/res/key_12.png dbaccess/res/pkey.png
 xmlsecurity/res/signet_11x16.png xmlsecurity/res/notcertificate_16.png
+cmd/32/columnoperations.png cmd/32/entirecolumn.png
+cmd/32/rowoperations.png cmd/32/entirerow.png
 
 cmd/lc_columnoperations.png cmd/lc_entirecolumn.png
-cmd/sc_columnoperations.png cmd/sc_entirecolumn.png
 cmd/lc_rowoperations.png cmd/lc_entirerow.png
+
+cmd/sc_columnoperations.png cmd/sc_entirecolumn.png
 cmd/sc_rowoperations.png cmd/sc_entirerow.png
 
+cmd/32/cellprotection.png cmd/32/protect.png
 cmd/sc_cellprotection.png cmd/sc_protect.png
 cmd/lc_cellprotection.png cmd/lc_protect.png
 
-cmd/sc_indexesmenu.png cmd/sc_insertindexesentry.png
+cmd/32/indexesmenu.png cmd/32/insertindexesentry.png
+cmd/32/rulermenu.png cmd/32/ruler.png
+
+cmd/lc_indexesmenu.png cmd/lc_insertindexesentry.png
 cmd/lc_rulermenu.png cmd/lc_ruler.png
+
+cmd/sc_indexesmenu.png cmd/sc_insertindexesentry.png
 cmd/sc_rulermenu.png cmd/sc_ruler.png
 
 cmd/32/charmapcontrol.png cmd/32/insertsymbol.png
