@@ -562,7 +562,6 @@ cmd/sc_newrecord.png cmd/sc_open.png
 # Wizard
 cmd/32/dbnewqueryautopilot.png cmd/32/autoformat.png
 cmd/32/usewizards.png cmd/32/autoformat.png
-cmd/32/graphicfiltertoolbox.png cmd/32/autoformat.png
 cmd/32/dbnewtableautopilot.png cmd/32/autoformat.png
 cmd/32/dbnewreportautopilot.png cmd/32/autoformat.png
 cmd/32/dbnewformautopilot.png cmd/32/autoformat.png
@@ -572,7 +571,6 @@ cmd/32/newarrangement.png cmd/32/autoformat.png
 
 cmd/lc_dbnewqueryautopilot.png cmd/lc_autoformat.png
 cmd/lc_usewizards.png cmd/lc_autoformat.png
-cmd/lc_graphicfiltertoolbox.png cmd/lc_autoformat.png
 cmd/lc_dbnewtableautopilot.png cmd/lc_autoformat.png
 cmd/lc_dbnewreportautopilot.png cmd/lc_autoformat.png
 cmd/lc_dbnewformautopilot.png cmd/lc_autoformat.png
@@ -582,7 +580,6 @@ cmd/lc_newarrangement.png cmd/lc_autoformat.png
 
 cmd/sc_dbnewqueryautopilot.png cmd/sc_autoformat.png
 cmd/sc_usewizards.png cmd/sc_autoformat.png
-cmd/sc_graphicfiltertoolbox.png cmd/sc_autoformat.png
 cmd/sc_dbnewtableautopilot.png cmd/sc_autoformat.png
 cmd/sc_dbnewreportautopilot.png cmd/sc_autoformat.png
 cmd/sc_dbnewformautopilot.png cmd/sc_autoformat.png
@@ -1262,7 +1259,6 @@ cmd/sc_insertauthoritiesentry.png cmd/sc_bibliographycomponent.png
 cmd/32/draw.png cmd/32/reload.png
 cmd/32/refresh.png cmd/32/reload.png
 cmd/32/refreshformcontrol.png cmd/32/reload.png
-cmd/32/styleupdatebyexample.png cmd/32/reload.png
 cmd/32/updateallindexes.png cmd/32/reload.png
 cmd/32/updatecurindex.png cmd/32/reload.png
 cmd/32/updateall.png cmd/32/reload.png
@@ -1272,7 +1268,6 @@ cmd/32/updatemenu.png cmd/32/reload.png
 cmd/lc_draw.png cmd/lc_reload.png
 cmd/lc_refresh.png cmd/lc_reload.png
 cmd/lc_refreshformcontrol.png cmd/lc_reload.png
-cmd/lc_styleupdatebyexample.png cmd/lc_reload.png
 cmd/lc_updateallindexes.png cmd/lc_reload.png
 cmd/lc_updateall.png cmd/lc_reload.png
 cmd/lc_updatecurindex.png cmd/lc_reload.png

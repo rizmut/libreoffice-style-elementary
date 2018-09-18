@@ -562,7 +562,6 @@ cmd/sc_newrecord.svg cmd/sc_open.svg
 # Wizard
 cmd/32/dbnewqueryautopilot.svg cmd/32/autoformat.svg
 cmd/32/usewizards.svg cmd/32/autoformat.svg
-cmd/32/graphicfiltertoolbox.svg cmd/32/autoformat.svg
 cmd/32/dbnewtableautopilot.svg cmd/32/autoformat.svg
 cmd/32/dbnewreportautopilot.svg cmd/32/autoformat.svg
 cmd/32/dbnewformautopilot.svg cmd/32/autoformat.svg
@@ -572,7 +571,6 @@ cmd/32/newarrangement.svg cmd/32/autoformat.svg
 
 cmd/lc_dbnewqueryautopilot.svg cmd/lc_autoformat.svg
 cmd/lc_usewizards.svg cmd/lc_autoformat.svg
-cmd/lc_graphicfiltertoolbox.svg cmd/lc_autoformat.svg
 cmd/lc_dbnewtableautopilot.svg cmd/lc_autoformat.svg
 cmd/lc_dbnewreportautopilot.svg cmd/lc_autoformat.svg
 cmd/lc_dbnewformautopilot.svg cmd/lc_autoformat.svg
@@ -582,7 +580,6 @@ cmd/lc_newarrangement.svg cmd/lc_autoformat.svg
 
 cmd/sc_dbnewqueryautopilot.svg cmd/sc_autoformat.svg
 cmd/sc_usewizards.svg cmd/sc_autoformat.svg
-cmd/sc_graphicfiltertoolbox.svg cmd/sc_autoformat.svg
 cmd/sc_dbnewtableautopilot.svg cmd/sc_autoformat.svg
 cmd/sc_dbnewreportautopilot.svg cmd/sc_autoformat.svg
 cmd/sc_dbnewformautopilot.svg cmd/sc_autoformat.svg
@@ -1262,7 +1259,6 @@ cmd/sc_insertauthoritiesentry.svg cmd/sc_bibliographycomponent.svg
 cmd/32/draw.svg cmd/32/reload.svg
 cmd/32/refresh.svg cmd/32/reload.svg
 cmd/32/refreshformcontrol.svg cmd/32/reload.svg
-cmd/32/styleupdatebyexample.svg cmd/32/reload.svg
 cmd/32/updateallindexes.svg cmd/32/reload.svg
 cmd/32/updatecurindex.svg cmd/32/reload.svg
 cmd/32/updateall.svg cmd/32/reload.svg
@@ -1272,7 +1268,6 @@ cmd/32/updatemenu.svg cmd/32/reload.svg
 cmd/lc_draw.svg cmd/lc_reload.svg
 cmd/lc_refresh.svg cmd/lc_reload.svg
 cmd/lc_refreshformcontrol.svg cmd/lc_reload.svg
-cmd/lc_styleupdatebyexample.svg cmd/lc_reload.svg
 cmd/lc_updateallindexes.svg cmd/lc_reload.svg
 cmd/lc_updateall.svg cmd/lc_reload.svg
 cmd/lc_updatecurindex.svg cmd/lc_reload.svg
@@ -1881,8 +1876,6 @@ sw/res/sc20249.svg cmd/sc_navigator.svg
 sw/res/sc20556.svg cmd/sc_dbviewfunctions.svg
 sw/res/sc20557.svg cmd/sc_cancel.svg
 sw/res/sc20558.svg cmd/sc_ok.svg
-
-sw/res/sc_datainrows.svg cmd/sc_datainrows.svg
 
 sw/res/sf01.svg cmd/sc_controlcodes.svg
 sw/res/sf02.svg cmd/sc_charfontname.svg
