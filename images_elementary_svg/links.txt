@@ -1554,6 +1554,7 @@ res/lc10715.svg cmd/lc_datafilterstandardfilter.svg
 res/lc10716.svg cmd/lc_datafilterautofilter.svg
 res/lc10853.svg cmd/lc_recsearch.svg
 
+res/lx03145.svg res/odf_32_8.svg
 res/lx03165.svg cmd/lc_save.svg
 res/lx03189.svg cmd/lc_open.svg
 res/sc05501.svg cmd/sc_open.svg

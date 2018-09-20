@@ -1554,6 +1554,7 @@ res/lc10715.png cmd/lc_datafilterstandardfilter.png
 res/lc10716.png cmd/lc_datafilterautofilter.png
 res/lc10853.png cmd/lc_recsearch.png
 
+res/lx03145.png res/odf_32_8.png
 res/lx03165.png cmd/lc_save.png
 res/lx03189.png cmd/lc_open.png
 res/sc05501.png cmd/sc_open.png
