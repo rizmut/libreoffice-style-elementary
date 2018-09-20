@@ -298,14 +298,17 @@ cmd/sc_optionstreedialog.svg cmd/sc_controlproperties.svg
 cmd/32/acceptchanges.svg cmd/32/accepttrackedchanges.svg
 cmd/32/accepttracedchange.svg cmd/32/accepttrackedchanges.svg 
 cmd/32/accepttrackedchange.svg cmd/32/accepttrackedchanges.svg
+cmd/32/commentchange.svg cmd/32/commentchangetracking.svg
 
 cmd/lc_acceptchanges.svg cmd/lc_accepttrackedchanges.svg
 cmd/lc_accepttracedchange.svg cmd/lc_accepttrackedchanges.svg 
 cmd/lc_accepttrackedchange.svg cmd/lc_accepttrackedchanges.svg
+cmd/lc_commentchange.svg cmd/lc_commentchangetracking.svg
 
 cmd/sc_acceptchanges.svg cmd/sc_accepttrackedchanges.svg
 cmd/sc_accepttracedchange.svg cmd/sc_accepttrackedchanges.svg 
 cmd/sc_accepttrackedchange.svg cmd/sc_accepttrackedchanges.svg
+cmd/sc_commentchange.svg cmd/sc_commentchangetracking.svg
 
 # Formatmenu
 cmd/32/anchormenu.svg cmd/32/toggleanchortype.svg
@@ -355,28 +358,35 @@ cmd/sc_datastreamsstop.svg cmd/sc_basicstop.svg
 
 
 # Alignment
-cmd/32/sectionalignright.svg cmd/32/objectalignright.svg
-cmd/32/sectionalignleft.svg cmd/32/objectalignleft.svg
-cmd/32/objectalign.svg cmd/32/objectalignleft.svg
 cmd/32/alignvcenter.svg cmd/32/alignverticalcenter.svg
-cmd/32/sectionaligntop.svg cmd/32/alignup.svg
+cmd/32/commonalignbottom.svg cmd/32/alignbottom.svg
+cmd/32/commonaligntop.svg cmd/32/aligntop.svg
+cmd/32/commonalignverticalcenter.svg cmd/32/alignverticalcenter.svg
+cmd/32/objectalign.svg cmd/32/objectalignleft.svg
 cmd/32/sectionalignbottom.svg cmd/32/aligndown.svg
+cmd/32/sectionalignleft.svg cmd/32/objectalignleft.svg
+cmd/32/sectionalignright.svg cmd/32/objectalignright.svg
+cmd/32/sectionaligntop.svg cmd/32/alignup.svg
 
-cmd/lc_sectionalignright.svg cmd/lc_objectalignright.svg
-cmd/lc_sectionalignleft.svg cmd/lc_objectalignleft.svg
-cmd/lc_objectalign.svg cmd/lc_objectalignleft.svg
 cmd/lc_alignvcenter.svg cmd/lc_alignverticalcenter.svg
-cmd/lc_sectionaligntop.svg cmd/lc_alignup.svg
+cmd/lc_commonalignbottom.svg cmd/lc_alignbottom.svg
+cmd/lc_commonaligntop.svg cmd/lc_aligntop.svg
+cmd/lc_commonalignverticalcenter.svg cmd/lc_alignverticalcenter.svg
+cmd/lc_objectalign.svg cmd/lc_objectalignleft.svg
 cmd/lc_sectionalignbottom.svg cmd/lc_aligndown.svg
+cmd/lc_sectionalignleft.svg cmd/lc_objectalignleft.svg
+cmd/lc_sectionalignright.svg cmd/lc_objectalignright.svg
+cmd/lc_sectionaligntop.svg cmd/lc_alignup.svg
 
-cmd/sc_sectionalignright.svg cmd/sc_objectalignright.svg
-cmd/sc_sectionalignleft.svg cmd/sc_objectalignleft.svg
-cmd/sc_objectalign.svg cmd/sc_objectalignleft.svg
 cmd/sc_alignvcenter.svg cmd/sc_alignverticalcenter.svg
-cmd/sc_sectionaligntop.svg cmd/sc_alignup.svg
+cmd/sc_commonalignbottom.svg cmd/sc_alignbottom.svg
+cmd/sc_commonaligntop.svg cmd/sc_aligntop.svg
+cmd/sc_commonalignverticalcenter.svg cmd/sc_alignverticalcenter.svg
+cmd/sc_objectalign.svg cmd/sc_objectalignleft.svg
 cmd/sc_sectionalignbottom.svg cmd/sc_aligndown.svg
-cmd/sc_alignframemenu.svg cmd/sc_alignleft.svg
-cmd/sc_alignhorizontalceter.svg cmd/sc_alignhorizontalcenter.svg
+cmd/sc_sectionalignleft.svg cmd/sc_objectalignleft.svg
+cmd/sc_sectionalignright.svg cmd/sc_objectalignright.svg
+cmd/sc_sectionaligntop.svg cmd/sc_alignup.svg
 
 # Graphic
 cmd/32/colorview.svg cmd/32/graphicfilterinvert.svg
@@ -591,18 +601,21 @@ cmd/sc_autopilotmenu.svg cmd/sc_autoformat.svg
 cmd/sc_newarrangement.svg cmd/sc_autoformat.svg
 
 # Filter
+cmd/32/datafilterhideautofilter.svg cmd/32/removefiltersort.svg
 cmd/32/formfilterexecute.svg cmd/32/datafilterstandardfilter.svg
 cmd/32/filtercrit.svg cmd/32/datafilterstandardfilter.svg
 cmd/32/formfilter.svg cmd/32/datafilterspecialfilter.svg
 cmd/32/autofilter.svg cmd/32/datafilterautofilter.svg
 cmd/32/removefilter.svg cmd/32/removefiltersort.svg
 
+cmd/lc_datafilterhideautofilter.svg cmd/lc_removefiltersort.svg
 cmd/lc_formfilterexecute.svg cmd/lc_datafilterstandardfilter.svg
 cmd/lc_filtercrit.svg cmd/lc_datafilterstandardfilter.svg
 cmd/lc_formfilter.svg cmd/lc_datafilterspecialfilter.svg
 cmd/lc_autofilter.svg cmd/lc_datafilterautofilter.svg
 cmd/lc_removefilter.svg cmd/lc_removefiltersort.svg
 
+cmd/sc_datafilterhideautofilter.svg cmd/sc_removefiltersort.svg
 cmd/sc_formfilterexecute.svg cmd/sc_datafilterstandardfilter.svg
 cmd/sc_filtercrit.svg cmd/sc_datafilterstandardfilter.svg
 cmd/sc_formfilter.svg cmd/sc_datafilterspecialfilter.svg
@@ -929,6 +942,7 @@ cmd/lc_linespacing.svg cmd/lc_spacepara15.svg
 cmd/sc_linespacing.svg cmd/sc_spacepara15.svg
 
 # Calc menu entries
+cmd/32/cellcontentsmenu.svg cmd/32/calculate.svg
 cmd/32/datapilotmenu.svg cmd/32/datadatapilotrun.svg
 cmd/32/functiondialog.svg cmd/32/dbviewfunctions.svg
 cmd/32/functionbox.svg cmd/32/dbviewfunctions.svg
@@ -936,8 +950,11 @@ cmd/32/insertrowsmenu.svg cmd/32/insertrows.svg
 cmd/32/insertcolumnsmenu.svg cmd/32/insertcolumns.svg
 cmd/32/mergecellsmenu.svg cmd/32/mergecells.svg
 cmd/32/printrangesmenu.svg cmd/32/defineprintarea.svg
+cmd/32/recalcpivottable.svg cmd/32/calculate.svg
 cmd/32/sheetcommentmenu.svg cmd/32/showannotations.svg
+cmd/32/toggleformula.svg cmd/32/dbviewfunctions.svg
 
+cmd/lc_cellcontentsmenu.svg cmd/lc_calculate.svg
 cmd/lc_datapilotmenu.svg cmd/lc_datadatapilotrun.svg
 cmd/lc_functiondialog.svg cmd/lc_dbviewfunctions.svg
 cmd/lc_functionbox.svg cmd/lc_dbviewfunctions.svg
@@ -945,8 +962,11 @@ cmd/lc_insertrowsmenu.svg cmd/lc_insertrows.svg
 cmd/lc_insertcolumnsmenu.svg cmd/lc_insertcolumns.svg
 cmd/lc_mergecellsmenu.svg cmd/lc_mergecells.svg
 cmd/lc_printrangesmenu.svg cmd/lc_defineprintarea.svg
+cmd/lc_recalcpivottable.svg cmd/lc_calculate.svg
 cmd/lc_sheetcommentmenu.svg cmd/lc_showannotations.svg
+cmd/lc_toggleformula.svg cmd/lc_dbviewfunctions.svg
 
+cmd/sc_cellcontentsmenu.svg cmd/sc_calculate.svg
 cmd/sc_datapilotmenu.svg cmd/sc_datadatapilotrun.svg
 cmd/sc_functiondialog.svg cmd/sc_dbviewfunctions.svg
 cmd/sc_functionbox.svg cmd/sc_dbviewfunctions.svg
@@ -954,7 +974,9 @@ cmd/sc_insertrowsmenu.svg cmd/sc_insertrows.svg
 cmd/sc_insertcolumnsmenu.svg cmd/sc_insertcolumns.svg
 cmd/sc_mergecellsmenu.svg cmd/sc_mergecells.svg
 cmd/sc_printrangesmenu.svg cmd/sc_defineprintarea.svg
+cmd/sc_recalcpivottable.svg cmd/sc_calculate.svg
 cmd/sc_sheetcommentmenu.svg cmd/sc_showannotations.svg
+cmd/sc_toggleformula.svg cmd/sc_dbviewfunctions.svg
 
 # Draw & Impress menu entries
 cmd/32/headerandfooter.svg cmd/32/editheaderandfooter.svg
@@ -1942,6 +1964,10 @@ cmd/lc_cellprotection.svg cmd/lc_protect.svg
 
 cmd/32/indexesmenu.svg cmd/32/insertindexesentry.svg
 cmd/32/rulermenu.svg cmd/32/ruler.svg
+
+cmd/32/sidebarmenu.svg cmd/32/sidebar.svg
+cmd/lc_sidebarmenu.svg cmd/lc_sidebar.svg
+cmd/sc_sidebarmenu.svg cmd/sc_sidebar.svg
 
 cmd/lc_indexesmenu.svg cmd/lc_insertindexesentry.svg
 cmd/lc_rulermenu.svg cmd/lc_ruler.svg
