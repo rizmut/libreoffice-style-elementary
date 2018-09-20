@@ -298,14 +298,17 @@ cmd/sc_optionstreedialog.png cmd/sc_controlproperties.png
 cmd/32/acceptchanges.png cmd/32/accepttrackedchanges.png
 cmd/32/accepttracedchange.png cmd/32/accepttrackedchanges.png 
 cmd/32/accepttrackedchange.png cmd/32/accepttrackedchanges.png
+cmd/32/commentchange.png cmd/32/commentchangetracking.png
 
 cmd/lc_acceptchanges.png cmd/lc_accepttrackedchanges.png
 cmd/lc_accepttracedchange.png cmd/lc_accepttrackedchanges.png 
 cmd/lc_accepttrackedchange.png cmd/lc_accepttrackedchanges.png
+cmd/lc_commentchange.png cmd/lc_commentchangetracking.png
 
 cmd/sc_acceptchanges.png cmd/sc_accepttrackedchanges.png
 cmd/sc_accepttracedchange.png cmd/sc_accepttrackedchanges.png 
 cmd/sc_accepttrackedchange.png cmd/sc_accepttrackedchanges.png
+cmd/sc_commentchange.png cmd/sc_commentchangetracking.png
 
 # Formatmenu
 cmd/32/anchormenu.png cmd/32/toggleanchortype.png
@@ -355,28 +358,35 @@ cmd/sc_datastreamsstop.png cmd/sc_basicstop.png
 
 
 # Alignment
-cmd/32/sectionalignright.png cmd/32/objectalignright.png
-cmd/32/sectionalignleft.png cmd/32/objectalignleft.png
-cmd/32/objectalign.png cmd/32/objectalignleft.png
 cmd/32/alignvcenter.png cmd/32/alignverticalcenter.png
-cmd/32/sectionaligntop.png cmd/32/alignup.png
+cmd/32/commonalignbottom.png cmd/32/alignbottom.png
+cmd/32/commonaligntop.png cmd/32/aligntop.png
+cmd/32/commonalignverticalcenter.png cmd/32/alignverticalcenter.png
+cmd/32/objectalign.png cmd/32/objectalignleft.png
 cmd/32/sectionalignbottom.png cmd/32/aligndown.png
+cmd/32/sectionalignleft.png cmd/32/objectalignleft.png
+cmd/32/sectionalignright.png cmd/32/objectalignright.png
+cmd/32/sectionaligntop.png cmd/32/alignup.png
 
-cmd/lc_sectionalignright.png cmd/lc_objectalignright.png
-cmd/lc_sectionalignleft.png cmd/lc_objectalignleft.png
-cmd/lc_objectalign.png cmd/lc_objectalignleft.png
 cmd/lc_alignvcenter.png cmd/lc_alignverticalcenter.png
-cmd/lc_sectionaligntop.png cmd/lc_alignup.png
+cmd/lc_commonalignbottom.png cmd/lc_alignbottom.png
+cmd/lc_commonaligntop.png cmd/lc_aligntop.png
+cmd/lc_commonalignverticalcenter.png cmd/lc_alignverticalcenter.png
+cmd/lc_objectalign.png cmd/lc_objectalignleft.png
 cmd/lc_sectionalignbottom.png cmd/lc_aligndown.png
+cmd/lc_sectionalignleft.png cmd/lc_objectalignleft.png
+cmd/lc_sectionalignright.png cmd/lc_objectalignright.png
+cmd/lc_sectionaligntop.png cmd/lc_alignup.png
 
-cmd/sc_sectionalignright.png cmd/sc_objectalignright.png
-cmd/sc_sectionalignleft.png cmd/sc_objectalignleft.png
-cmd/sc_objectalign.png cmd/sc_objectalignleft.png
 cmd/sc_alignvcenter.png cmd/sc_alignverticalcenter.png
-cmd/sc_sectionaligntop.png cmd/sc_alignup.png
+cmd/sc_commonalignbottom.png cmd/sc_alignbottom.png
+cmd/sc_commonaligntop.png cmd/sc_aligntop.png
+cmd/sc_commonalignverticalcenter.png cmd/sc_alignverticalcenter.png
+cmd/sc_objectalign.png cmd/sc_objectalignleft.png
 cmd/sc_sectionalignbottom.png cmd/sc_aligndown.png
-cmd/sc_alignframemenu.png cmd/sc_alignleft.png
-cmd/sc_alignhorizontalceter.png cmd/sc_alignhorizontalcenter.png
+cmd/sc_sectionalignleft.png cmd/sc_objectalignleft.png
+cmd/sc_sectionalignright.png cmd/sc_objectalignright.png
+cmd/sc_sectionaligntop.png cmd/sc_alignup.png
 
 # Graphic
 cmd/32/colorview.png cmd/32/graphicfilterinvert.png
@@ -591,18 +601,21 @@ cmd/sc_autopilotmenu.png cmd/sc_autoformat.png
 cmd/sc_newarrangement.png cmd/sc_autoformat.png
 
 # Filter
+cmd/32/datafilterhideautofilter.png cmd/32/removefiltersort.png
 cmd/32/formfilterexecute.png cmd/32/datafilterstandardfilter.png
 cmd/32/filtercrit.png cmd/32/datafilterstandardfilter.png
 cmd/32/formfilter.png cmd/32/datafilterspecialfilter.png
 cmd/32/autofilter.png cmd/32/datafilterautofilter.png
 cmd/32/removefilter.png cmd/32/removefiltersort.png
 
+cmd/lc_datafilterhideautofilter.png cmd/lc_removefiltersort.png
 cmd/lc_formfilterexecute.png cmd/lc_datafilterstandardfilter.png
 cmd/lc_filtercrit.png cmd/lc_datafilterstandardfilter.png
 cmd/lc_formfilter.png cmd/lc_datafilterspecialfilter.png
 cmd/lc_autofilter.png cmd/lc_datafilterautofilter.png
 cmd/lc_removefilter.png cmd/lc_removefiltersort.png
 
+cmd/sc_datafilterhideautofilter.png cmd/sc_removefiltersort.png
 cmd/sc_formfilterexecute.png cmd/sc_datafilterstandardfilter.png
 cmd/sc_filtercrit.png cmd/sc_datafilterstandardfilter.png
 cmd/sc_formfilter.png cmd/sc_datafilterspecialfilter.png
@@ -1942,6 +1955,10 @@ cmd/lc_cellprotection.png cmd/lc_protect.png
 
 cmd/32/indexesmenu.png cmd/32/insertindexesentry.png
 cmd/32/rulermenu.png cmd/32/ruler.png
+
+cmd/32/sidebarmenu.png cmd/32/sidebar.png
+cmd/lc_sidebarmenu.png cmd/lc_sidebar.png
+cmd/sc_sidebarmenu.png cmd/sc_sidebar.png
 
 cmd/lc_indexesmenu.png cmd/lc_insertindexesentry.png
 cmd/lc_rulermenu.png cmd/lc_ruler.png
