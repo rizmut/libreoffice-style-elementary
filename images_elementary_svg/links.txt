@@ -1313,21 +1313,18 @@ cmd/32/dbnewquerysql.svg cmd/32/sbanativesql.svg
 cmd/32/dbnewview.svg cmd/32/dbchangedesignmode.svg
 cmd/32/dbtableedit.svg cmd/32/tabledialog.svg
 cmd/32/dbquerypropertiesdialog.svg cmd/32/dbqueryedit.svg
-cmd/32/diagramdata.svg cmd/32/viewdatasourcebrowser.svg
 
 cmd/lc_dbdtableedit.svg cmd/lc_tabledialog.svg
 cmd/lc_dbnewquerysql.svg cmd/lc_sbanativesql.svg
 cmd/lc_dbnewview.svg cmd/lc_dbchangedesignmode.svg
 cmd/lc_dbtableedit.svg cmd/lc_tabledialog.svg
 cmd/lc_dbquerypropertiesdialog.svg cmd/lc_dbqueryedit.svg
-cmd/lc_diagramdata.svg cmd/lc_viewdatasourcebrowser.svg
 
 cmd/sc_dbdtableedit.svg cmd/sc_tabledialog.svg
 cmd/sc_dbnewquerysql.svg cmd/sc_sbanativesql.svg
 cmd/sc_dbnewview.svg cmd/sc_dbchangedesignmode.svg
 cmd/sc_dbtableedit.svg cmd/sc_tabledialog.svg
 cmd/sc_dbquerypropertiesdialog.svg cmd/sc_dbqueryedit.svg
-cmd/sc_diagramdata.svg cmd/sc_viewdatasourcebrowser.svg
 
 # Browse
 cmd/32/browsebackward cmd/32/prevrecord.svg
