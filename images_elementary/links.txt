@@ -686,22 +686,10 @@ cmd/lc_clickchangerotation.png cmd/lc_toggleobjectrotatemode.png
 cmd/sc_clickchangerotation.png cmd/sc_toggleobjectrotatemode.png
 
 # AddField
-cmd/32/dbformrename.png cmd/32/addfield.png
-cmd/32/dbqueryrename.png cmd/32/addfield.png
-cmd/32/dbreportrename.png cmd/32/addfield.png
-cmd/32/dbtablerename.png cmd/32/addfield.png
 cmd/32/fieldnames.png cmd/32/addfield.png
 
-cmd/lc_dbformrename.png cmd/lc_addfield.png
-cmd/lc_dbqueryrename.png cmd/lc_addfield.png
-cmd/lc_dbreportrename.png cmd/lc_addfield.png
-cmd/lc_dbtablerename.png cmd/lc_addfield.png
 cmd/lc_fieldnames.png cmd/lc_addfield.png
 
-cmd/sc_dbformrename.png cmd/sc_addfield.png
-cmd/sc_dbqueryrename.png cmd/sc_addfield.png
-cmd/sc_dbreportrename.png cmd/sc_addfield.png
-cmd/sc_dbtablerename.png cmd/sc_addfield.png
 cmd/sc_fieldnames.png cmd/sc_addfield.png
 
 # Edit

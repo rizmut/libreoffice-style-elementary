@@ -686,22 +686,10 @@ cmd/lc_clickchangerotation.svg cmd/lc_toggleobjectrotatemode.svg
 cmd/sc_clickchangerotation.svg cmd/sc_toggleobjectrotatemode.svg
 
 # AddField
-cmd/32/dbformrename.svg cmd/32/addfield.svg
-cmd/32/dbqueryrename.svg cmd/32/addfield.svg
-cmd/32/dbreportrename.svg cmd/32/addfield.svg
-cmd/32/dbtablerename.svg cmd/32/addfield.svg
 cmd/32/fieldnames.svg cmd/32/addfield.svg
 
-cmd/lc_dbformrename.svg cmd/lc_addfield.svg
-cmd/lc_dbqueryrename.svg cmd/lc_addfield.svg
-cmd/lc_dbreportrename.svg cmd/lc_addfield.svg
-cmd/lc_dbtablerename.svg cmd/lc_addfield.svg
 cmd/lc_fieldnames.svg cmd/lc_addfield.svg
 
-cmd/sc_dbformrename.svg cmd/sc_addfield.svg
-cmd/sc_dbqueryrename.svg cmd/sc_addfield.svg
-cmd/sc_dbreportrename.svg cmd/sc_addfield.svg
-cmd/sc_dbtablerename.svg cmd/sc_addfield.svg
 cmd/sc_fieldnames.svg cmd/sc_addfield.svg
 
 # Edit
