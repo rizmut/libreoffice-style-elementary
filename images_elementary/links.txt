@@ -985,6 +985,11 @@ cmd/sc_insertslidefield.png cmd/sc_insertpagenumberfield.png
 cmd/sc_insertslidenumber.png cmd/sc_insertpagenumberfield.png
 cmd/sc_insertslidesfield.png cmd/sc_insertpagecountfield.png
 
+# Writer menu entries
+cmd/32/insertframemenu.png cmd/32/insertframe.png
+cmd/lc_insertframemenu.png cmd/lc_insertframe.png
+cmd/sc_insertframemenu.png cmd/sc_insertframe.png
+
 # Shapes
 cmd/32/basicshapes.png cmd/32/basicshapes.diamond.png
 cmd/32/basicshapes.ellipse.png cmd/32/ellipse.png

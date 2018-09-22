@@ -985,6 +985,11 @@ cmd/sc_insertslidefield.svg cmd/sc_insertpagenumberfield.svg
 cmd/sc_insertslidenumber.svg cmd/sc_insertpagenumberfield.svg
 cmd/sc_insertslidesfield.svg cmd/sc_insertpagecountfield.svg
 
+# Writer menu entries
+cmd/32/insertframemenu.svg cmd/32/insertframe.svg
+cmd/lc_insertframemenu.svg cmd/lc_insertframe.svg
+cmd/sc_insertframemenu.svg cmd/sc_insertframe.svg
+
 # Shapes
 cmd/32/basicshapes.svg cmd/32/basicshapes.diamond.svg
 cmd/32/basicshapes.ellipse.svg cmd/32/ellipse.svg
