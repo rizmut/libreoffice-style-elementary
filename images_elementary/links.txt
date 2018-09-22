@@ -326,7 +326,7 @@ cmd/lc_openurl.png cmd/lc_browseview.png
 cmd/sc_webhtml.png cmd/sc_browseview.png
 cmd/sc_openurl.png cmd/sc_browseview.png
 
-# Formula
+# Form
 cmd/32/hscrollbar.png cmd/32/insertformhscroll.png
 cmd/32/vscrollbar.png cmd/32/scrollbar.png
 
@@ -507,17 +507,14 @@ cmd/sc_attributepagesize.png cmd/sc_ruler.png
 cmd/sc_pagecolumntype.png cmd/sc_insertsection.png
 
 # Print
-cmd/32/editprintarea.png cmd/32/editdoc.png
 cmd/32/printpagepreview.png cmd/32/printpreview.png
 cmd/32/previewprintoptions.png cmd/32/printpreview.png
 cmd/32/sendfax.png cmd/32/print.png
 
-cmd/lc_editprintarea.png cmd/lc_editdoc.png
 cmd/lc_printpagepreview.png cmd/lc_printpreview.png
 cmd/lc_previewprintoptions.png cmd/lc_printpreview.png
 cmd/lc_sendfax.png cmd/lc_print.png
 
-cmd/sc_editprintarea.png cmd/sc_editdoc.png
 cmd/sc_printpagepreview.png cmd/sc_printpreview.png
 cmd/sc_previewprintoptions.png cmd/sc_printpreview.png
 cmd/sc_sendfax.png cmd/sc_print.png
@@ -934,6 +931,7 @@ cmd/32/cellcontentsmenu.png cmd/32/calculate.png
 cmd/32/datapilotmenu.png cmd/32/datadatapilotrun.png
 cmd/32/functiondialog.png cmd/32/dbviewfunctions.png
 cmd/32/functionbox.png cmd/32/dbviewfunctions.png
+cmd/32/inputlinevisible.png cmd/32/dbviewfunctions.png
 cmd/32/insertrowsmenu.png cmd/32/insertrows.png
 cmd/32/insertcolumnsmenu.png cmd/32/insertcolumns.png
 cmd/32/mergecellsmenu.png cmd/32/mergecells.png
@@ -946,6 +944,7 @@ cmd/lc_cellcontentsmenu.png cmd/lc_calculate.png
 cmd/lc_datapilotmenu.png cmd/lc_datadatapilotrun.png
 cmd/lc_functiondialog.png cmd/lc_dbviewfunctions.png
 cmd/lc_functionbox.png cmd/lc_dbviewfunctions.png
+cmd/lc_inputlinevisible.png cmd/lc_dbviewfunctions.png
 cmd/lc_insertrowsmenu.png cmd/lc_insertrows.png
 cmd/lc_insertcolumnsmenu.png cmd/lc_insertcolumns.png
 cmd/lc_mergecellsmenu.png cmd/lc_mergecells.png
@@ -958,6 +957,7 @@ cmd/sc_cellcontentsmenu.png cmd/sc_calculate.png
 cmd/sc_datapilotmenu.png cmd/sc_datadatapilotrun.png
 cmd/sc_functiondialog.png cmd/sc_dbviewfunctions.png
 cmd/sc_functionbox.png cmd/sc_dbviewfunctions.png
+cmd/sc_inputlinevisible.png cmd/sc_dbviewfunctions.png
 cmd/sc_insertrowsmenu.png cmd/sc_insertrows.png
 cmd/sc_insertcolumnsmenu.png cmd/sc_insertcolumns.png
 cmd/sc_mergecellsmenu.png cmd/sc_mergecells.png
@@ -1197,8 +1197,14 @@ cmd/sc_viewsidebarstyles.png cmd/sc_designerdialog.png
 
 # Macro
 cmd/32/macrosmenu.png cmd/32/choosemacro.png
+cmd/32/basicideappear.png cmd/32/toolsmacroedit.png
+
 cmd/lc_macrosmenu.png cmd/lc_choosemacro.png
+cmd/lc_basicideappear.png cmd/lc_toolsmacroedit.png
+
 cmd/sc_macrosmenu.png cmd/sc_choosemacro.png
+cmd/sc_basicideappear.png cmd/sc_toolsmacroedit.png
+
 
 # Outline
 cmd/32/outlineright.png cmd/32/decrementlevel.png
@@ -1318,22 +1324,19 @@ cmd/sc_navigationbar.png cmd/sc_navigator.png
 cmd/sc_reportnavigator.png cmd/sc_navigator.png
 
 # Database
-cmd/32/dbdtableedit.png cmd/32/tabledialog.png
+cmd/32/dbdtableedit.png cmd/32/dbtableedit.png
 cmd/32/dbnewquerysql.png cmd/32/sbanativesql.png
 cmd/32/dbnewview.png cmd/32/dbchangedesignmode.png
-cmd/32/dbtableedit.png cmd/32/tabledialog.png
 cmd/32/dbquerypropertiesdialog.png cmd/32/dbqueryedit.png
 
-cmd/lc_dbdtableedit.png cmd/lc_tabledialog.png
+cmd/lc_dbdtableedit.png cmd/lc_dbtableedit.png
 cmd/lc_dbnewquerysql.png cmd/lc_sbanativesql.png
 cmd/lc_dbnewview.png cmd/lc_dbchangedesignmode.png
-cmd/lc_dbtableedit.png cmd/lc_tabledialog.png
 cmd/lc_dbquerypropertiesdialog.png cmd/lc_dbqueryedit.png
 
-cmd/sc_dbdtableedit.png cmd/sc_tabledialog.png
+cmd/sc_dbdtableedit.png cmd/sc_dbtableedit.png
 cmd/sc_dbnewquerysql.png cmd/sc_sbanativesql.png
 cmd/sc_dbnewview.png cmd/sc_dbchangedesignmode.png
-cmd/sc_dbtableedit.png cmd/sc_tabledialog.png
 cmd/sc_dbquerypropertiesdialog.png cmd/sc_dbqueryedit.png
 
 # Browse
@@ -1550,6 +1553,7 @@ res/folderop.png cmd/sc_open.png
 res/fp010.png cmd/sc_open.png
 res/info.png cmd/lc_helpindex.png
 res/info_16.png cmd/sc_helpindex.png
+res/im30827.png res/im30820.png
 
 res/lc05504.png cmd/lc_print.png
 res/lc05509.png cmd/lc_print.png
@@ -1614,7 +1618,7 @@ res/sc10868.png cmd/sc_graphicfilterinvert.png
 res/sc10869.png cmd/sc_graftransparence.png
 
 res/sc_helperdialog.png cmd/sc_helpindex.png
-
+res/sx03187.png cmd/sc_inserttable.png
 res/sx03189.png cmd/sc_open.png
 res/sx03202.png cmd/sc_viewdatasourcebrowser.png
 res/sx03256.png cmd/sc_insertplugin.png
@@ -1647,11 +1651,12 @@ sc/res/lc26047.png cmd/lc_dbviewfunctions.png
 sc/res/lc26048.png cmd/lc_autosum.png
 sc/res/lc26050.png cmd/lc_cancel.png
 sc/res/lc26051.png cmd/lc_ok.png
-sc/res/na010.png cmd/sc_selectobject.png
+sc/res/na010.png sw/res/sc20234.png
 sc/res/na011.png cmd/lc_ok.png
+sc/res/nc02.png cmd/sc_label.png
 sc/res/nc03.png cmd/sc_viewdatasourcebrowser.png
 sc/res/nc04.png cmd/sc_gallery.png
-sc/res/nc06.png cmd/sc_addwatch.png
+sc/res/nc06.png cmd/sc_showannotations.png
 sc/res/nc07.png sc/res/droplink.png
 sc/res/nc08.png cmd/sc_gallery.png
 sc/res/sc26047.png cmd/sc_dbviewfunctions.png
@@ -1667,7 +1672,6 @@ sc/res/page.png cmd/sc_insertpagenumberfield.png
 sc/res/pages.png cmd/sc_insertpagecountfield.png
 sc/res/paste_values_formats.png cmd/lc_formatpaintbrush.png
 sc/res/paste_values_only.png cmd/lc_numberformatstandard.png
-sc/res/sf01.png cmd/sc_tabledesign.png
 sc/res/table.png cmd/sc_inserttable.png
 sc/res/text.png cmd/sc_text.png
 sc/res/time.png cmd/sc_timefield.png
@@ -1854,15 +1858,17 @@ sw/res/lc20556.png cmd/lc_dbviewfunctions.png
 sw/res/lc20557.png cmd/lc_cancel.png
 sw/res/lc20558.png cmd/lc_ok.png
 sw/res/nc20001.png cmd/sc_inserttable.png
-sw/res/nc20002.png cmd/sc_diagramarea.png
+sw/res/nc20002.png cmd/sc_text.png
 sw/res/nc20003.png cmd/sc_gallery.png
 sw/res/nc20004.png sc/res/nc05.png
 sw/res/nc20005.png sfx2/res/favourite.png
+sw/res/nc20006.png cmd/sc_insertsection.png
 sw/res/nc20007.png sd/res/nv010.png
 sw/res/nc20008.png cmd/sc_insertreferencefield.png
 sw/res/nc20009.png cmd/sc_insertindexesentry.png
 sw/res/nc20010.png cmd/sc_showannotations.png
 sw/res/nc20011.png cmd/sc_insertdraw.png
+
 
 sw/res/re01.png cmd/lc_unsetcellsreadonly.png
 sw/res/re02.png cmd/lc_unsetcellsreadonly.png
@@ -1877,9 +1883,10 @@ sw/res/sc20175.png cmd/sc_nextrecord.png
 sw/res/sc20182.png cmd/sc_toggleanchortype.png
 sw/res/sc20186.png cmd/sc_prevrecord.png
 sw/res/sc20233.png cmd/sc_ok.png
-sw/res/sc20235.png cmd/sc_editdoc.png
+sw/res/sc20235.png sd/res/nv010.png
 sw/res/sc20238.png sc/res/droplink.png
 sw/res/sc20239.png cmd/sc_copy.png
+sw/res/sc20244.png sw/res/sc20234.png
 sw/res/sc20245.png cmd/sc_editdoc.png
 sw/res/sc20246.png sc/res/droplink.png
 sw/res/sc20248.png cmd/sc_save.png
@@ -1888,32 +1895,25 @@ sw/res/sc20556.png cmd/sc_dbviewfunctions.png
 sw/res/sc20557.png cmd/sc_cancel.png
 sw/res/sc20558.png cmd/sc_ok.png
 
-sw/res/sf01.png cmd/sc_controlcodes.png
-sw/res/sf02.png cmd/sc_charfontname.png
-sw/res/sf03.png cmd/sc_insertobjectfloatingframe.png
-sw/res/sf04.png cmd/sc_showsinglepage.png
-sw/res/sf05.png cmd/sc_defaultbullet.png
-sw/res/sf06.png cmd/sc_inserttable.png
+sw/res/sf04.png sc/res/sf02.png
 
 sw/res/sr20000.png cmd/sc_downsearch.png
 sw/res/sr20001.png cmd/sc_upsearch.png
 sw/res/sr20002.png cmd/sc_inserttable.png
-sw/res/sr20003.png cmd/sc_insertframe.png
+sw/res/sr20003.png cmd/sc_text.png
 sw/res/sr20004.png cmd/sc_showsinglepage.png
-sw/res/sr20005.png cmd/sc_editdoc.png
-sw/res/sr20007.png sw/res/nc20006.png
+sw/res/sr20005.png cmd/sc_insertdraw.png
+sw/res/sr20006.png cmd/sc_controlproperties.png
+sw/res/sr20007.png cmd/sc_insertsection.png
 sw/res/sr20008.png sfx2/res/favourite.png
-sw/res/sr20009.png cmd/sc_toggleobjectbeziermode.png
-sw/res/sr20010.png cmd/sc_drawchart.png
+sw/res/sr20009.png cmd/sc_graphic.png
+sw/res/sr20010.png sc/res/nc05.png
 sw/res/sr20011.png sw/res/nc20000.png
-sw/res/sr20012.png cmd/sc_insertreferencefield.png
 sw/res/sr20013.png cmd/sc_insertfootnote.png
-sw/res/sr20014.png dbaccess/res/exwarning.png
-sw/res/sr20015.png sfx2/res/favourite.png
+sw/res/sr20014.png sw/res/sc20183.png
+sw/res/sr20015.png cmd/sc_showannotations.png
 sw/res/sr20016.png cmd/sc_recsearch.png
 sw/res/sr20017.png cmd/sc_insertindexesentry.png
-sw/res/sr20018.png cmd/sc_inserttable.png
-sw/res/sr20019.png cmd/sc_remove.png
 
 sw/res/sx03.png cmd/sc_dbqueryedit.png
 
@@ -1995,5 +1995,3 @@ cmd/lc_toolbarsmenu.png cmd/lc_showtoolbar.png
 
 cmd/sc_availabletoolbars.png cmd/sc_showtoolbar.png
 cmd/sc_toolbarsmenu.png cmd/sc_showtoolbar.png
-
-
