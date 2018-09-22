@@ -1487,11 +1487,11 @@ dbaccess/res/one_right.png cmd/sc_nextrecord.png
 dbaccess/res/jo01.png dbaccess/res/pkey.png
 res/queries_32.png dbaccess/res/queries_32.png
 
-dbaccess/res/report_16.png cmd/sc_executereport.png
-dbaccess/res/reports_16.png cmd/sc_executereport.png
+dbaccess/res/report_16.png cmd/sc_dbreportedit.png
+dbaccess/res/reports_16.png cmd/sc_dbreportedit.png
 res/reports_32.png dbaccess/res/reports_32.png
 
-dbaccess/res/sc036.png cmd/sc_executereport.png
+dbaccess/res/sc036.png cmd/sc_dbreportedit.png
 dbaccess/res/sc037.png cmd/sc_delete.png
 dbaccess/res/sc038.png cmd/sc_editdoc.png
 dbaccess/res/sc039.png cmd/sc_save.png
@@ -1530,11 +1530,11 @@ fpicker/res/fp016.png desktop/res/shared_16.png
 
 # reportdesign
 # ==============================================
-reportdesign/res/report_16.png cmd/sc_executereport.png
+reportdesign/res/report_16.png cmd/sc_dbreportedit.png
 reportdesign/res/sc30770.png cmd/sc_cancel.png
 reportdesign/res/sx11047.png cmd/sc_basicshapes.diamond.png
 reportdesign/res/sx12454.png cmd/sc_alignright.png
-reportdesign/res/sx12464.png cmd/sc_executereport.png
+reportdesign/res/sx12464.png cmd/sc_sc_dbreportedit.png
 reportdesign/res/sx12594.png cmd/sc_dbviewfunctions.png
 
 # res
@@ -1638,8 +1638,8 @@ res/sx10757.png cmd/sc_timefield.png
 
 res/sx10768.png cmd/sc_scrollbar.png
 res/sx10769.png cmd/sc_scrollbar.png
-res/sx18002.png res/plus.png
-res/sx18003.png res/minus.png
+res/sx18002.png res/minus.png
+res/sx18003.png res/plus.png
 
 # sc
 # ==============================================

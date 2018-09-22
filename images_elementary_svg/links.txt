@@ -1487,11 +1487,11 @@ dbaccess/res/one_right.svg cmd/sc_nextrecord.svg
 dbaccess/res/jo01.svg dbaccess/res/pkey.svg
 res/queries_32.svg dbaccess/res/queries_32.svg
 
-dbaccess/res/report_16.svg cmd/sc_executereport.svg
-dbaccess/res/reports_16.svg cmd/sc_executereport.svg
+dbaccess/res/report_16.svg cmd/sc_dbreportedit.svg
+dbaccess/res/reports_16.svg cmd/sc_dbreportedit.svg
 res/reports_32.svg dbaccess/res/reports_32.svg
 
-dbaccess/res/sc036.svg cmd/sc_executereport.svg
+dbaccess/res/sc036.svg cmd/sc_dbreportedit.svg
 dbaccess/res/sc037.svg cmd/sc_delete.svg
 dbaccess/res/sc038.svg cmd/sc_editdoc.svg
 dbaccess/res/sc039.svg cmd/sc_save.svg
@@ -1530,11 +1530,11 @@ fpicker/res/fp016.svg desktop/res/shared_16.svg
 
 # reportdesign
 # ==============================================
-reportdesign/res/report_16.svg cmd/sc_executereport.svg
+reportdesign/res/report_16.svg cmd/sc_dbreportedit.svg
 reportdesign/res/sc30770.svg cmd/sc_cancel.svg
 reportdesign/res/sx11047.svg cmd/sc_basicshapes.diamond.svg
 reportdesign/res/sx12454.svg cmd/sc_alignright.svg
-reportdesign/res/sx12464.svg cmd/sc_executereport.svg
+reportdesign/res/sx12464.svg cmd/sc_sc_dbreportedit.svg
 reportdesign/res/sx12594.svg cmd/sc_dbviewfunctions.svg
 
 # res
@@ -1638,8 +1638,8 @@ res/sx10757.svg cmd/sc_timefield.svg
 
 res/sx10768.svg cmd/sc_scrollbar.svg
 res/sx10769.svg cmd/sc_scrollbar.svg
-res/sx18002.svg res/plus.svg
-res/sx18003.svg res/minus.svg
+res/sx18002.svg res/minus.svg
+res/sx18003.svg res/plus.svg
 
 # sc
 # ==============================================
