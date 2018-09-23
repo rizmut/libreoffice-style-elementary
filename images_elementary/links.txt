@@ -43,6 +43,7 @@ cmd/sc_addons.png cmd/sc_insertplugin.png
 cmd/sc_addtable.png cmd/sc_inserttable.png
 
 # Insert
+cmd/32/charmapcontrol.png cmd/32/insertsymbol.png
 cmd/32/insert.png cmd/32/togglesheetgrid.png
 cmd/32/insertavmedia.png cmd/32/avmediaplayer.png
 cmd/32/insertauthorfield.png cmd/32/dbviewaliases.png
@@ -90,6 +91,7 @@ cmd/32/inserttextframe.png cmd/32/insertframe.png
 cmd/32/inserttimefield.png cmd/32/timefield.png
 cmd/32/inserttimefieldfix.png cmd/32/timefield.png
 cmd/32/inserttimefieldvar.png cmd/32/timefield.png
+cmd/32/inserttoolbox.png cmd/32/drawchart.png
 cmd/32/insobjctrl.png cmd/32/newdoc.png
 cmd/32/numberformatmenu.png cmd/32/numberformatstandard.png
 cmd/32/numericfield.png cmd/32/numberformatstandard.png
@@ -97,6 +99,7 @@ cmd/32/repaginate.png cmd/32/insertpagenumberfield.png
 cmd/32/showtrackedchanges.png cmd/32/addwatch.png
 cmd/32/tracechangemode.png cmd/32/trackchanges.png
 
+cmd/lc_charmapcontrol.png cmd/lc_insertsymbol.png
 cmd/lc_insert.png cmd/lc_togglesheetgrid.png
 cmd/lc_insertavmedia.png cmd/lc_avmediaplayer.png
 cmd/lc_insertauthorfield.png cmd/lc_dbviewaliases.png
@@ -146,6 +149,7 @@ cmd/lc_inserttextframe.png cmd/lc_insertframe.png
 cmd/lc_inserttimefield.png cmd/lc_timefield.png
 cmd/lc_inserttimefieldfix.png cmd/lc_timefield.png
 cmd/lc_inserttimefieldvar.png cmd/lc_timefield.png
+cmd/lc_inserttoolbox.png cmd/lc_drawchart.png
 cmd/lc_insobjctrl.png cmd/lc_newdoc.png
 cmd/lc_numberformatmenu.png cmd/lc_numberformatstandard.png
 cmd/lc_numericfield.png cmd/lc_numberformatstandard.png
@@ -153,6 +157,7 @@ cmd/lc_repaginate.png cmd/lc_insertpagenumberfield.png
 cmd/lc_showtrackedchanges.png cmd/lc_addwatch.png
 cmd/lc_tracechangemode.png cmd/lc_trackchanges.png
 
+cmd/sc_charmapcontrol.png cmd/sc_insertsymbol.png
 cmd/sc_insert.png cmd/sc_togglesheetgrid.png
 cmd/sc_insertavmedia.png cmd/sc_avmediaplayer.png
 cmd/sc_insertauthorfield.png cmd/sc_dbviewaliases.png
@@ -202,6 +207,7 @@ cmd/sc_inserttextframe.png cmd/sc_insertframe.png
 cmd/sc_inserttimefield.png cmd/sc_timefield.png
 cmd/sc_inserttimefieldfix.png cmd/sc_timefield.png
 cmd/sc_inserttimefieldvar.png cmd/sc_timefield.png
+cmd/sc_inserttoolbox.png cmd/sc_drawchart.png
 cmd/sc_insobjctrl.png cmd/sc_newdoc.png
 cmd/sc_numberformatmenu.png cmd/sc_numberformatstandard.png
 cmd/sc_numericfield.png cmd/sc_numberformatstandard.png
@@ -414,69 +420,102 @@ cmd/sc_grafmode.png cmd/sc_graphicdialog.png
 cmd/sc_imagebutton.png cmd/sc_gallery.png
 
 # Shapes
-cmd/32/fontworkshapetype.fontwork-circle-pour.png cmd/32/basicshapes.ring.png
-cmd/32/flowchartshapes.flowchart-connector.png cmd/32/circle.png
-cmd/32/basicshapes.circle.png cmd/32/circle.png
-cmd/32/symbolshapes.smiley.png cmd/32/symbolshapes.png
-cmd/32/basicshapes.round-rectangle.png cmd/32/rect_rounded.png
-cmd/32/flowchartshapes.flowchart-punched-tape.png cmd/32/fontworkshapetype.fontwork-wave.png
-cmd/32/basicshapes.parallelogram.png cmd/32/flowchartshapes.flowchart-data.png
-cmd/32/calloutshapes.round-rectangular-callout.png cmd/32/calloutshapes.png
-cmd/32/flowchartshapes.flowchart-manual-operation.png cmd/32/basicshapes.trapezoid.png
-cmd/32/flowchartshapes.flowchart-alternate-process.png cmd/32/basicshapes.round-quadrat.png
 cmd/32/arrowshapes.left-right-arrow.png cmd/32/arrowshapes.png
-cmd/32/flowchartshapes.flowchart-extract.png cmd/32/basicshapes.isosceles-triangle.png
-cmd/32/fontworkshapetype.fontwork-triangle-up.png cmd/32/basicshapes.isosceles-triangle.png
-cmd/32/basicshapes.circle-pie.png cmd/32/pie.png
-cmd/32/flowchartshapes.flowchart-merge.png cmd/32/fontworkshapetype.fontwork-triangle-down.png
-cmd/32/fontworkshapetype.fontwork-fade-down.png cmd/32/basicshapes.trapezoid.png
-cmd/32/flowchartshapes.flowchart-magnetic-disk.png cmd/32/basicshapes.can.png
-cmd/32/connect.png cmd/32/polygon.png
+cmd/32/basicshapes.png cmd/32/basicshapes.diamond.png
 cmd/32/break.png cmd/32/polygon_unfilled.png
+cmd/32/calloutshapes.png cmd/32/calloutshapes.round-rectangular-callout.png
+cmd/32/circle.png cmd/32/basicshapes.circle.png
+cmd/32/circlepie.png cmd/32/basicshapes.circle-pie.png
+cmd/32/connect.png cmd/32/polygon.png
+cmd/32/ellipse.png cmd/32/basicshapes.ellipse.png
+cmd/32/ellipsetoolbox.png cmd/32/basicshapes.ellipse.png
+cmd/32/flowchartshapes.png cmd/32/flowchartshapes.flowchart-internal-storage.png
+cmd/32/flowchartshapes.flowchart-alternate-process.png cmd/32/basicshapes.round-quadrat.png
+cmd/32/flowchartshapes.flowchart-connector.png cmd/32/basicshapes.circle.png
+cmd/32/flowchartshapes.flowchart-data.png cmd/32/basicshapes.parallelogram.png
+cmd/32/flowchartshapes.flowchart-extract.png cmd/32/basicshapes.isosceles-triangle.png
+cmd/32/flowchartshapes.flowchart-magnetic-disk.png cmd/32/basicshapes.can.png
+cmd/32/flowchartshapes.flowchart-manual-operation.png cmd/32/basicshapes.trapezoid.png
+cmd/32/flowchartshapes.flowchart-merge.png cmd/32/fontworkshapetype.fontwork-triangle-down.png
+cmd/32/flowchartshapes.flowchart-punched-tape.png cmd/32/fontworkshapetype.fontwork-wave.png
+cmd/32/fontworkshapetype.fontwork-circle-pour.png cmd/32/basicshapes.ring.png
+cmd/32/fontworkshapetype.fontwork-fade-down.png cmd/32/basicshapes.trapezoid.png
+cmd/32/fontworkshapetype.fontwork-triangle-up.png cmd/32/basicshapes.isosceles-triangle.png
+cmd/32/linetoolbox.png cmd/32/freeline.png
+cmd/32/measureattributes.png cmd/32/measureline.png
+cmd/32/pie.png cmd/32/basicshapes.circle-pie.png
+cmd/32/rect.png cmd/32/basicshapes.rectangle.png
+cmd/32/rectangletoolbox.png cmd/32/basicshapes.rectangle.png
+cmd/32/rect_rounded.png cmd/32/basicshapes.round-rectangle.png
+cmd/32/shapeslinemenu.png cmd/32/line.png
+cmd/32/shapesmenu.png cmd/32/basicshapes.round-quadrat.png
+cmd/32/symbolshapes.png cmd/32/symbolshapes.smiley.png
+cmd/32/square_rounded.png cmd/32/basicshapes.round-quadrat.png
 
-cmd/lc_fontworkshapetype.fontwork-circle-pour.png cmd/lc_basicshapes.ring.png
-cmd/lc_flowchartshapes.flowchart-connector.png cmd/lc_circle.png
-cmd/lc_basicshapes.circle.png cmd/lc_circle.png
-cmd/lc_symbolshapes.smiley.png cmd/lc_symbolshapes.png
-cmd/lc_basicshapes.round-rectangle.png cmd/lc_rect_rounded.png
-cmd/lc_flowchartshapes.flowchart-punched-tape.png cmd/lc_fontworkshapetype.fontwork-wave.png
-cmd/lc_basicshapes.parallelogram.png cmd/lc_flowchartshapes.flowchart-data.png
-cmd/lc_calloutshapes.round-rectangular-callout.png cmd/lc_calloutshapes.png
-cmd/lc_flowchartshapes.flowchart-manual-operation.png cmd/lc_basicshapes.trapezoid.png
-cmd/lc_flowchartshapes.flowchart-alternate-process.png cmd/lc_basicshapes.round-quadrat.png
 cmd/lc_arrowshapes.left-right-arrow.png cmd/lc_arrowshapes.png
-cmd/lc_flowchartshapes.flowchart-extract.png cmd/lc_basicshapes.isosceles-triangle.png
-cmd/lc_fontworkshapetype.fontwork-triangle-up.png cmd/lc_basicshapes.isosceles-triangle.png
-cmd/lc_basicshapes.circle-pie.png cmd/lc_pie.png
-cmd/lc_flowchartshapes.flowchart-merge.png cmd/lc_fontworkshapetype.fontwork-triangle-down.png
-cmd/lc_fontworkshapetype.fontwork-fade-down.png cmd/lc_basicshapes.trapezoid.png
-cmd/lc_flowchartshapes.flowchart-magnetic-disk.png cmd/lc_basicshapes.can.png
-cmd/lc_measureattributes.png cmd/lc_measureline.png
-cmd/lc_connect.png cmd/lc_polygon.png
+cmd/lc_basicshapes.png cmd/lc_basicshapes.diamond.png
 cmd/lc_break.png cmd/lc_polygon_unfilled.png
+cmd/lc_calloutshapes.png cmd/lc_calloutshapes.round-rectangular-callout.png
+cmd/lc_circle.png cmd/lc_basicshapes.circle.png
+cmd/lc_circlepie.png cmd/lc_basicshapes.circle-pie.png
+cmd/lc_connect.png cmd/lc_polygon.png
+cmd/lc_ellipse.png cmd/lc_basicshapes.ellipse.png
+cmd/lc_ellipsetoolbox.png cmd/lc_basicshapes.ellipse.png
+cmd/lc_flowchartshapes.png cmd/lc_flowchartshapes.flowchart-internal-storage.png
+cmd/lc_flowchartshapes.flowchart-alternate-process.png cmd/lc_basicshapes.round-quadrat.png
+cmd/lc_flowchartshapes.flowchart-connector.png cmd/lc_basicshapes.circle.png
+cmd/lc_flowchartshapes.flowchart-data.png cmd/lc_basicshapes.parallelogram.png
+cmd/lc_flowchartshapes.flowchart-extract.png cmd/lc_basicshapes.isosceles-triangle.png
+cmd/lc_flowchartshapes.flowchart-magnetic-disk.png cmd/lc_basicshapes.can.png
+cmd/lc_flowchartshapes.flowchart-manual-operation.png cmd/lc_basicshapes.trapezoid.png
+cmd/lc_flowchartshapes.flowchart-merge.png cmd/lc_fontworkshapetype.fontwork-triangle-down.png
+cmd/lc_flowchartshapes.flowchart-punched-tape.png cmd/lc_fontworkshapetype.fontwork-wave.png
+cmd/lc_fontworkshapetype.fontwork-circle-pour.png cmd/lc_basicshapes.ring.png
+cmd/lc_fontworkshapetype.fontwork-fade-down.png cmd/lc_basicshapes.trapezoid.png
+cmd/lc_fontworkshapetype.fontwork-triangle-up.png cmd/lc_basicshapes.isosceles-triangle.png
+cmd/lc_linetoolbox.png cmd/lc_freeline.png
+cmd/lc_measureattributes.png cmd/lc_measureline.png
+cmd/lc_pie.png cmd/lc_basicshapes.circle-pie.png
+cmd/lc_rect.png cmd/lc_basicshapes.rectangle.png
+cmd/lc_rectangletoolbox.png cmd/lc_basicshapes.rectangle.png
+cmd/lc_rect_rounded.png cmd/lc_basicshapes.round-rectangle.png
+cmd/lc_shapeslinemenu.png cmd/lc_line.png
+cmd/lc_shapesmenu.png cmd/lc_basicshapes.round-quadrat.png
+cmd/lc_symbolshapes.png cmd/lc_symbolshapes.smiley.png
+cmd/lc_square_rounded.png cmd/lc_basicshapes.round-quadrat.png
 
-cmd/sc_fontworkshapetype.fontwork-circle-pour.png cmd/sc_basicshapes.ring.png
-cmd/sc_basicshapes.circle.png cmd/sc_circle.png
-cmd/sc_flowchartshapes.flowchart-connector.png cmd/sc_circle.png
-cmd/sc_symbolshapes.smiley.png cmd/sc_symbolshapes.png
-cmd/sc_basicshapes.round-rectangle.png cmd/sc_rect_rounded.png
-cmd/sc_flowchartshapes.flowchart-punched-tape.png cmd/sc_fontworkshapetype.fontwork-wave.png
-cmd/sc_basicshapes.parallelogram.png cmd/sc_flowchartshapes.flowchart-data.png
-cmd/sc_calloutshapes.round-rectangular-callout.png cmd/sc_calloutshapes.png
-cmd/sc_flowchartshapes.flowchart-manual-operation.png cmd/sc_basicshapes.trapezoid.png
-cmd/sc_flowchartshapes.flowchart-alternate-process.png cmd/sc_basicshapes.round-quadrat.png
 cmd/sc_arrowshapes.left-right-arrow.png cmd/sc_arrowshapes.png
-cmd/sc_flowchartshapes.flowchart-extract.png cmd/sc_basicshapes.isosceles-triangle.png
-cmd/sc_fontworkshapetype.fontwork-triangle-up.png cmd/sc_basicshapes.isosceles-triangle.png
-cmd/sc_basicshapes.circle-pie.png cmd/sc_pie.png
-cmd/sc_flowchartshapes.flowchart-merge.png cmd/sc_fontworkshapetype.fontwork-triangle-down.png
-cmd/sc_fontworkshapetype.fontwork-fade-down.png cmd/sc_basicshapes.trapezoid.png
-cmd/sc_flowchartshapes.flowchart-magnetic-disk.png cmd/sc_basicshapes.can.png
-cmd/sc_shapesmenu.png cmd/sc_basicshapes.round-quadrat.png
-cmd/sc_shapeslinemenu.png cmd/sc_line.png
-cmd/sc_measureattributes.png cmd/sc_measureline.png
-cmd/sc_connect.png cmd/sc_polygon.png
+cmd/sc_basicshapes.png cmd/sc_basicshapes.diamond.png
 cmd/sc_break.png cmd/sc_polygon_unfilled.png
+cmd/sc_calloutshapes.png cmd/sc_calloutshapes.round-rectangular-callout.png
+cmd/sc_circle.png cmd/sc_basicshapes.circle.png
+cmd/sc_circlepie.png cmd/sc_basicshapes.circle-pie.png
+cmd/sc_connect.png cmd/sc_polygon.png
+cmd/sc_ellipse.png cmd/sc_basicshapes.ellipse.png
+cmd/sc_ellipsetoolbox.png cmd/sc_basicshapes.ellipse.png
+cmd/sc_flowchartshapes.png cmd/sc_flowchartshapes.flowchart-internal-storage.png
+cmd/sc_flowchartshapes.flowchart-alternate-process.png cmd/sc_basicshapes.round-quadrat.png
+cmd/sc_flowchartshapes.flowchart-connector.png cmd/sc_basicshapes.circle.png
+cmd/sc_flowchartshapes.flowchart-data.png cmd/sc_basicshapes.parallelogram.png
+cmd/sc_flowchartshapes.flowchart-extract.png cmd/sc_basicshapes.isosceles-triangle.png
+cmd/sc_flowchartshapes.flowchart-magnetic-disk.png cmd/sc_basicshapes.can.png
+cmd/sc_flowchartshapes.flowchart-manual-operation.png cmd/sc_basicshapes.trapezoid.png
+cmd/sc_flowchartshapes.flowchart-merge.png cmd/sc_fontworkshapetype.fontwork-triangle-down.png
+cmd/sc_flowchartshapes.flowchart-punched-tape.png cmd/sc_fontworkshapetype.fontwork-wave.png
+cmd/sc_fontworkshapetype.fontwork-circle-pour.png cmd/sc_basicshapes.ring.png
+cmd/sc_fontworkshapetype.fontwork-fade-down.png cmd/sc_basicshapes.trapezoid.png
+cmd/sc_fontworkshapetype.fontwork-triangle-up.png cmd/sc_basicshapes.isosceles-triangle.png
+cmd/sc_linetoolbox.png cmd/sc_freeline.png
+cmd/sc_measureattributes.png cmd/sc_measureline.png
+cmd/sc_pie.png cmd/sc_basicshapes.circle-pie.png
+cmd/sc_rect.png cmd/sc_basicshapes.rectangle.png
+cmd/sc_rectangletoolbox.png cmd/sc_basicshapes.rectangle.png
+cmd/sc_rect_rounded.png cmd/sc_basicshapes.round-rectangle.png
+cmd/sc_shapeslinemenu.png cmd/sc_line.png
+cmd/sc_shapesmenu.png cmd/sc_basicshapes.round-quadrat.png
+cmd/sc_symbolshapes.png cmd/sc_symbolshapes.smiley.png
+cmd/sc_square_rounded.png cmd/sc_basicshapes.round-quadrat.png
+
 
 # Open
 cmd/32/openfromwriter.png cmd/32/open.png
@@ -986,31 +1025,14 @@ cmd/sc_insertslidenumber.png cmd/sc_insertpagenumberfield.png
 cmd/sc_insertslidesfield.png cmd/sc_insertpagecountfield.png
 
 # Writer menu entries
+cmd/32/indexesmenu.png cmd/32/insertindexesentry.png
 cmd/32/insertframemenu.png cmd/32/insertframe.png
+
+cmd/lc_indexesmenu.png cmd/lc_insertindexesentry.png
 cmd/lc_insertframemenu.png cmd/lc_insertframe.png
+
+cmd/sc_indexesmenu.png cmd/sc_insertindexesentry.png
 cmd/sc_insertframemenu.png cmd/sc_insertframe.png
-
-# Shapes
-cmd/32/basicshapes.png cmd/32/basicshapes.diamond.png
-cmd/32/basicshapes.ellipse.png cmd/32/ellipse.png
-cmd/32/basicshapes.rectangle.png cmd/32/rect.png
-cmd/32/ellipsetoolbox.png cmd/32/ellipse.png
-cmd/32/linetoolbox.png cmd/32/freeline.png
-cmd/32/rectangletoolbox.png cmd/32/rect.png
-
-cmd/lc_basicshapes.png cmd/lc_basicshapes.diamond.png
-cmd/lc_basicshapes.ellipse.png cmd/lc_ellipse.png
-cmd/lc_basicshapes.rectangle.png cmd/lc_rect.png
-cmd/lc_ellipsetoolbox.png cmd/lc_ellipse.png
-cmd/lc_linetoolbox.png cmd/lc_freeline.png
-cmd/lc_rectangletoolbox.png cmd/lc_rect.png
-
-cmd/sc_basicshapes.png cmd/sc_basicshapes.diamond.png
-cmd/sc_basicshapes.ellipse.png cmd/sc_ellipse.png
-cmd/sc_basicshapes.rectangle.png cmd/sc_rect.png
-cmd/sc_ellipsetoolbox.png cmd/sc_ellipse.png
-cmd/sc_linetoolbox.png cmd/sc_freeline.png
-cmd/sc_rectangletoolbox.png cmd/sc_rect.png
 
 # Format
 cmd/32/fillcolor.png cmd/32/backgroundcolor.png
@@ -1073,16 +1095,16 @@ cmd/sc_exporttoepub.png cmd/sc_exportdirecttoepub.png
 cmd/sc_exporttopdf.png cmd/sc_exportdirecttopdf.png
 
 # Square
-cmd/32/basicshapes.quadrat.png cmd/32/square.png
-cmd/32/flowchartshapes.flowchart-process.png cmd/32/square.png
+cmd/32/square.png cmd/32/basicshapes.quadrat.png
+cmd/32/flowchartshapes.flowchart-process.png cmd/32/basicshapes.quadrat.png
 cmd/32/basicshapes.frame.png cmd/32/rect_unfilled.png
 
-cmd/lc_basicshapes.quadrat.png cmd/lc_square.png
-cmd/lc_flowchartshapes.flowchart-process.png cmd/lc_square.png
+cmd/lc_square.png cmd/lc_basicshapes.quadrat.png
+cmd/lc_flowchartshapes.flowchart-process.png cmd/lc_basicshapes.quadrat.png
 cmd/lc_basicshapes.frame.png cmd/lc_rect_unfilled.png
 
-cmd/sc_basicshapes.quadrat.png cmd/sc_square.png
-cmd/sc_flowchartshapes.flowchart-process.png cmd/sc_square.png
+cmd/sc_square.png cmd/sc_basicshapes.quadrat.png
+cmd/sc_flowchartshapes.flowchart-process.png cmd/sc_basicshapes.quadrat.png
 cmd/sc_basicshapes.frame.png cmd/sc_rect_unfilled.png
 
 # Sort
@@ -1363,21 +1385,29 @@ cmd/lc_pluginsactive.png cmd/lc_insertplugin.png
 cmd/sc_pluginsactive.png cmd/sc_insertplugin.png
 
 # Table
+cmd/32/cellprotection.png cmd/32/protect.png
+cmd/32/columnoperations.png cmd/32/entirecolumn.png
 cmd/32/dbnewtable.png cmd/32/inserttable.png
 cmd/32/inscellsctrl.png cmd/32/inserttable.png
+cmd/32/rowoperations.png cmd/32/entirerow.png
 cmd/32/setoptimalcolumnwidthdirect.png cmd/32/setoptimalcolumnwidth.png
 cmd/32/starchartdialog.png cmd/32/insertobjectdialog.png
 
-cmd/sc_dbnewtable.png cmd/sc_inserttable.png
-cmd/sc_inscellsctrl.png cmd/sc_inserttable.png
-cmd/sc_setoptimalcolumnwidthdirect.png cmd/sc_setoptimalcolumnwidth.png
-cmd/sc_starchartdialog.png cmd/sc_insertobjectdialog.png
-
+cmd/lc_cellprotection.png cmd/lc_protect.png
+cmd/lc_columnoperations.png cmd/lc_entirecolumn.png
 cmd/lc_dbnewtable.png cmd/lc_inserttable.png
 cmd/lc_inscellsctrl.png cmd/lc_inserttable.png
+cmd/lc_rowoperations.png cmd/lc_entirerow.png
 cmd/lc_setoptimalcolumnwidthdirect.png cmd/lc_setoptimalcolumnwidth.png
 cmd/lc_starchartdialog.png cmd/lc_insertobjectdialog.png
 
+cmd/sc_cellprotection.png cmd/sc_protect.png
+cmd/sc_columnoperations.png cmd/sc_entirecolumn.png
+cmd/sc_dbnewtable.png cmd/sc_inserttable.png
+cmd/sc_inscellsctrl.png cmd/sc_inserttable.png
+cmd/sc_rowoperations.png cmd/sc_entirerow.png
+cmd/sc_setoptimalcolumnwidthdirect.png cmd/sc_setoptimalcolumnwidth.png
+cmd/sc_starchartdialog.png cmd/sc_insertobjectdialog.png
 
 # Help
 cmd/32/absoluterecord.png cmd/32/helpindex.png
@@ -1690,8 +1720,6 @@ sd/res/nv05.png cmd/sc_nextrecord.png
 sd/res/nv06.png cmd/sc_lastrecord.png
 sd/res/nv08.png cmd/sc_copy.png
 sd/res/nv09.png sc/res/droplink.png
-sd/res/sf01.png cmd/sc_showfmexplorer.png
-sd/res/sf02.png cmd/sc_dia.png
 
 sd/res/breakplayingblue_16.png cmd/sc_mediapause.png
 sd/res/comments_indicator.png cmd/sc_showannotations.png
@@ -1780,8 +1808,8 @@ svx/res/caution_11x16.png dbaccess/res/exwarning.png
 svx/res/cd01.png cmd/sc_ok.png
 svx/res/cd02.png cmd/sc_crop.png
 svx/res/cd05.png cmd/sc_selectobject.png
-svx/res/cd06.png cmd/sc_rect.png
-svx/res/cd07.png cmd/sc_ellipse.png
+svx/res/cd06.png cmd/sc_basicshapes.rectangle.png
+svx/res/cd07.png cmd/sc_basicshapes.ellipse.png
 svx/res/cd08.png cmd/sc_polygon.png
 svx/res/cd015.png cmd/sc_toggleobjectbeziermode.png
 svx/res/cd016.png cmd/sc_beziermove.png
@@ -1812,8 +1840,8 @@ svx/res/id01.png cmd/sc_ok.png
 svx/res/id02.png cmd/sc_open.png
 svx/res/id03.png cmd/sc_save.png
 svx/res/id04.png cmd/sc_selectobject.png
-svx/res/id05.png cmd/sc_rect.png
-svx/res/id06.png cmd/sc_ellipse.png
+svx/res/id05.png cmd/lc_basicshapes.rectangle.png
+svx/res/id06.png cmd/sc_basicshapes.ellipse.png
 svx/res/id07.png cmd/sc_polygon.png
 svx/res/id018.png cmd/sc_controlproperties.png
 svx/res/id030.png cmd/sc_toggleobjectbeziermode.png
@@ -1942,40 +1970,27 @@ vcl/res/index.png cmd/sc_insertmultiindex.png
 # ==============================================
 xmlsecurity/res/key_12.png dbaccess/res/pkey.png
 xmlsecurity/res/signet_11x16.png xmlsecurity/res/notcertificate_16.png
-cmd/32/columnoperations.png cmd/32/entirecolumn.png
-cmd/32/rowoperations.png cmd/32/entirerow.png
 
-cmd/lc_columnoperations.png cmd/lc_entirecolumn.png
-cmd/lc_rowoperations.png cmd/lc_entirerow.png
-
-cmd/sc_columnoperations.png cmd/sc_entirecolumn.png
-cmd/sc_rowoperations.png cmd/sc_entirerow.png
-
-cmd/32/cellprotection.png cmd/32/protect.png
-cmd/sc_cellprotection.png cmd/sc_protect.png
-cmd/lc_cellprotection.png cmd/lc_protect.png
-
-cmd/32/indexesmenu.png cmd/32/insertindexesentry.png
+# Global menu
+cmd/32/availabletoolbars.png cmd/32/showtoolbar.png
 cmd/32/rulermenu.png cmd/32/ruler.png
-
-cmd/32/sidebarmenu.png cmd/32/sidebar.png
-cmd/lc_sidebarmenu.png cmd/lc_sidebar.png
-cmd/sc_sidebarmenu.png cmd/sc_sidebar.png
-
-cmd/lc_indexesmenu.png cmd/lc_insertindexesentry.png
-cmd/lc_rulermenu.png cmd/lc_ruler.png
-
-cmd/sc_indexesmenu.png cmd/sc_insertindexesentry.png
-cmd/sc_rulermenu.png cmd/sc_ruler.png
-
-cmd/32/charmapcontrol.png cmd/32/insertsymbol.png
-cmd/lc_charmapcontrol.png cmd/lc_insertsymbol.png
-cmd/sc_charmapcontrol.png cmd/sc_insertsymbol.png
-
 cmd/32/showruler.png cmd/32/ruler.png
-cmd/lc_showruler.png cmd/lc_ruler.png
-cmd/sc_showruler.png cmd/sc_ruler.png
+cmd/32/sidebarmenu.png cmd/32/sidebar.png
+cmd/32/toolbarsmenu.png cmd/32/showtoolbar.png
 
+cmd/lc_availabletoolbars.png cmd/lc_showtoolbar.png
+cmd/lc_rulermenu.png cmd/lc_ruler.png
+cmd/lc_showruler.png cmd/lc_ruler.png
+cmd/lc_sidebarmenu.png cmd/lc_sidebar.png
+cmd/lc_toolbarsmenu.png cmd/lc_showtoolbar.png
+
+cmd/sc_availabletoolbars.png cmd/sc_showtoolbar.png
+cmd/sc_rulermenu.png cmd/sc_ruler.png
+cmd/sc_showruler.png cmd/sc_ruler.png
+cmd/sc_sidebarmenu.png cmd/sc_sidebar.png
+cmd/sc_toolbarsmenu.png cmd/sc_showtoolbar.png
+
+# Comment 
 cmd/32/deleteallnotes.png cmd/32/deleteallannotation.png
 cmd/32/deletenote.png cmd/32/deleteannotation.png
 cmd/32/formatallnotes.png cmd/32/editannotation.png
@@ -1988,15 +2003,12 @@ cmd/sc_deleteallnotes.png cmd/sc_deleteallannotation.png
 cmd/sc_deletenote.png cmd/sc_deleteannotation.png
 cmd/sc_formatallnotes.png cmd/sc_editannotation.png
 
+# Other
+
 cmd/32/objecttitledescription.png cmd/32/insertcaptiondialog.png
 cmd/lc_objecttitledescription.png cmd/lc_insertcaptiondialog.png
 cmd/sc_objecttitledescription.png cmd/sc_insertcaptiondialog.png
 
-cmd/32/availabletoolbars.png cmd/32/showtoolbar.png
-cmd/32/toolbarsmenu.png cmd/32/showtoolbar.png
-
-cmd/lc_availabletoolbars.png cmd/lc_showtoolbar.png
-cmd/lc_toolbarsmenu.png cmd/lc_showtoolbar.png
-
-cmd/sc_availabletoolbars.png cmd/sc_showtoolbar.png
-cmd/sc_toolbarsmenu.png cmd/sc_showtoolbar.png
+cmd/32/linenumberingdialog.png cmd/32/linenumberdialog.png
+cmd/lc_linenumberingdialog.png cmd/lc_linenumberdialog.png
+cmd/sc_linenumberingdialog.png cmd/sc_linenumberdialog.png

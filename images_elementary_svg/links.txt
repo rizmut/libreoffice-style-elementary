@@ -43,6 +43,7 @@ cmd/sc_addons.svg cmd/sc_insertplugin.svg
 cmd/sc_addtable.svg cmd/sc_inserttable.svg
 
 # Insert
+cmd/32/charmapcontrol.svg cmd/32/insertsymbol.svg
 cmd/32/insert.svg cmd/32/togglesheetgrid.svg
 cmd/32/insertavmedia.svg cmd/32/avmediaplayer.svg
 cmd/32/insertauthorfield.svg cmd/32/dbviewaliases.svg
@@ -90,6 +91,7 @@ cmd/32/inserttextframe.svg cmd/32/insertframe.svg
 cmd/32/inserttimefield.svg cmd/32/timefield.svg
 cmd/32/inserttimefieldfix.svg cmd/32/timefield.svg
 cmd/32/inserttimefieldvar.svg cmd/32/timefield.svg
+cmd/32/inserttoolbox.svg cmd/32/drawchart.svg
 cmd/32/insobjctrl.svg cmd/32/newdoc.svg
 cmd/32/numberformatmenu.svg cmd/32/numberformatstandard.svg
 cmd/32/numericfield.svg cmd/32/numberformatstandard.svg
@@ -97,6 +99,7 @@ cmd/32/repaginate.svg cmd/32/insertpagenumberfield.svg
 cmd/32/showtrackedchanges.svg cmd/32/addwatch.svg
 cmd/32/tracechangemode.svg cmd/32/trackchanges.svg
 
+cmd/lc_charmapcontrol.svg cmd/lc_insertsymbol.svg
 cmd/lc_insert.svg cmd/lc_togglesheetgrid.svg
 cmd/lc_insertavmedia.svg cmd/lc_avmediaplayer.svg
 cmd/lc_insertauthorfield.svg cmd/lc_dbviewaliases.svg
@@ -146,6 +149,7 @@ cmd/lc_inserttextframe.svg cmd/lc_insertframe.svg
 cmd/lc_inserttimefield.svg cmd/lc_timefield.svg
 cmd/lc_inserttimefieldfix.svg cmd/lc_timefield.svg
 cmd/lc_inserttimefieldvar.svg cmd/lc_timefield.svg
+cmd/lc_inserttoolbox.svg cmd/lc_drawchart.svg
 cmd/lc_insobjctrl.svg cmd/lc_newdoc.svg
 cmd/lc_numberformatmenu.svg cmd/lc_numberformatstandard.svg
 cmd/lc_numericfield.svg cmd/lc_numberformatstandard.svg
@@ -153,6 +157,7 @@ cmd/lc_repaginate.svg cmd/lc_insertpagenumberfield.svg
 cmd/lc_showtrackedchanges.svg cmd/lc_addwatch.svg
 cmd/lc_tracechangemode.svg cmd/lc_trackchanges.svg
 
+cmd/sc_charmapcontrol.svg cmd/sc_insertsymbol.svg
 cmd/sc_insert.svg cmd/sc_togglesheetgrid.svg
 cmd/sc_insertavmedia.svg cmd/sc_avmediaplayer.svg
 cmd/sc_insertauthorfield.svg cmd/sc_dbviewaliases.svg
@@ -202,6 +207,7 @@ cmd/sc_inserttextframe.svg cmd/sc_insertframe.svg
 cmd/sc_inserttimefield.svg cmd/sc_timefield.svg
 cmd/sc_inserttimefieldfix.svg cmd/sc_timefield.svg
 cmd/sc_inserttimefieldvar.svg cmd/sc_timefield.svg
+cmd/sc_inserttoolbox.svg cmd/sc_drawchart.svg
 cmd/sc_insobjctrl.svg cmd/sc_newdoc.svg
 cmd/sc_numberformatmenu.svg cmd/sc_numberformatstandard.svg
 cmd/sc_numericfield.svg cmd/sc_numberformatstandard.svg
@@ -414,69 +420,102 @@ cmd/sc_grafmode.svg cmd/sc_graphicdialog.svg
 cmd/sc_imagebutton.svg cmd/sc_gallery.svg
 
 # Shapes
-cmd/32/fontworkshapetype.fontwork-circle-pour.svg cmd/32/basicshapes.ring.svg
-cmd/32/flowchartshapes.flowchart-connector.svg cmd/32/circle.svg
-cmd/32/basicshapes.circle.svg cmd/32/circle.svg
-cmd/32/symbolshapes.smiley.svg cmd/32/symbolshapes.svg
-cmd/32/basicshapes.round-rectangle.svg cmd/32/rect_rounded.svg
-cmd/32/flowchartshapes.flowchart-punched-tape.svg cmd/32/fontworkshapetype.fontwork-wave.svg
-cmd/32/basicshapes.parallelogram.svg cmd/32/flowchartshapes.flowchart-data.svg
-cmd/32/calloutshapes.round-rectangular-callout.svg cmd/32/calloutshapes.svg
-cmd/32/flowchartshapes.flowchart-manual-operation.svg cmd/32/basicshapes.trapezoid.svg
-cmd/32/flowchartshapes.flowchart-alternate-process.svg cmd/32/basicshapes.round-quadrat.svg
 cmd/32/arrowshapes.left-right-arrow.svg cmd/32/arrowshapes.svg
-cmd/32/flowchartshapes.flowchart-extract.svg cmd/32/basicshapes.isosceles-triangle.svg
-cmd/32/fontworkshapetype.fontwork-triangle-up.svg cmd/32/basicshapes.isosceles-triangle.svg
-cmd/32/basicshapes.circle-pie.svg cmd/32/pie.svg
-cmd/32/flowchartshapes.flowchart-merge.svg cmd/32/fontworkshapetype.fontwork-triangle-down.svg
-cmd/32/fontworkshapetype.fontwork-fade-down.svg cmd/32/basicshapes.trapezoid.svg
-cmd/32/flowchartshapes.flowchart-magnetic-disk.svg cmd/32/basicshapes.can.svg
-cmd/32/connect.svg cmd/32/polygon.svg
+cmd/32/basicshapes.svg cmd/32/basicshapes.diamond.svg
 cmd/32/break.svg cmd/32/polygon_unfilled.svg
+cmd/32/calloutshapes.svg cmd/32/calloutshapes.round-rectangular-callout.svg
+cmd/32/circle.svg cmd/32/basicshapes.circle.svg
+cmd/32/circlepie.svg cmd/32/basicshapes.circle-pie.svg
+cmd/32/connect.svg cmd/32/polygon.svg
+cmd/32/ellipse.svg cmd/32/basicshapes.ellipse.svg
+cmd/32/ellipsetoolbox.svg cmd/32/basicshapes.ellipse.svg
+cmd/32/flowchartshapes.svg cmd/32/flowchartshapes.flowchart-internal-storage.svg
+cmd/32/flowchartshapes.flowchart-alternate-process.svg cmd/32/basicshapes.round-quadrat.svg
+cmd/32/flowchartshapes.flowchart-connector.svg cmd/32/basicshapes.circle.svg
+cmd/32/flowchartshapes.flowchart-data.svg cmd/32/basicshapes.parallelogram.svg
+cmd/32/flowchartshapes.flowchart-extract.svg cmd/32/basicshapes.isosceles-triangle.svg
+cmd/32/flowchartshapes.flowchart-magnetic-disk.svg cmd/32/basicshapes.can.svg
+cmd/32/flowchartshapes.flowchart-manual-operation.svg cmd/32/basicshapes.trapezoid.svg
+cmd/32/flowchartshapes.flowchart-merge.svg cmd/32/fontworkshapetype.fontwork-triangle-down.svg
+cmd/32/flowchartshapes.flowchart-punched-tape.svg cmd/32/fontworkshapetype.fontwork-wave.svg
+cmd/32/fontworkshapetype.fontwork-circle-pour.svg cmd/32/basicshapes.ring.svg
+cmd/32/fontworkshapetype.fontwork-fade-down.svg cmd/32/basicshapes.trapezoid.svg
+cmd/32/fontworkshapetype.fontwork-triangle-up.svg cmd/32/basicshapes.isosceles-triangle.svg
+cmd/32/linetoolbox.svg cmd/32/freeline.svg
+cmd/32/measureattributes.svg cmd/32/measureline.svg
+cmd/32/pie.svg cmd/32/basicshapes.circle-pie.svg
+cmd/32/rect.svg cmd/32/basicshapes.rectangle.svg
+cmd/32/rectangletoolbox.svg cmd/32/basicshapes.rectangle.svg
+cmd/32/rect_rounded.svg cmd/32/basicshapes.round-rectangle.svg
+cmd/32/shapeslinemenu.svg cmd/32/line.svg
+cmd/32/shapesmenu.svg cmd/32/basicshapes.round-quadrat.svg
+cmd/32/symbolshapes.svg cmd/32/symbolshapes.smiley.svg
+cmd/32/square_rounded.svg cmd/32/basicshapes.round-quadrat.svg
 
-cmd/lc_fontworkshapetype.fontwork-circle-pour.svg cmd/lc_basicshapes.ring.svg
-cmd/lc_flowchartshapes.flowchart-connector.svg cmd/lc_circle.svg
-cmd/lc_basicshapes.circle.svg cmd/lc_circle.svg
-cmd/lc_symbolshapes.smiley.svg cmd/lc_symbolshapes.svg
-cmd/lc_basicshapes.round-rectangle.svg cmd/lc_rect_rounded.svg
-cmd/lc_flowchartshapes.flowchart-punched-tape.svg cmd/lc_fontworkshapetype.fontwork-wave.svg
-cmd/lc_basicshapes.parallelogram.svg cmd/lc_flowchartshapes.flowchart-data.svg
-cmd/lc_calloutshapes.round-rectangular-callout.svg cmd/lc_calloutshapes.svg
-cmd/lc_flowchartshapes.flowchart-manual-operation.svg cmd/lc_basicshapes.trapezoid.svg
-cmd/lc_flowchartshapes.flowchart-alternate-process.svg cmd/lc_basicshapes.round-quadrat.svg
 cmd/lc_arrowshapes.left-right-arrow.svg cmd/lc_arrowshapes.svg
-cmd/lc_flowchartshapes.flowchart-extract.svg cmd/lc_basicshapes.isosceles-triangle.svg
-cmd/lc_fontworkshapetype.fontwork-triangle-up.svg cmd/lc_basicshapes.isosceles-triangle.svg
-cmd/lc_basicshapes.circle-pie.svg cmd/lc_pie.svg
-cmd/lc_flowchartshapes.flowchart-merge.svg cmd/lc_fontworkshapetype.fontwork-triangle-down.svg
-cmd/lc_fontworkshapetype.fontwork-fade-down.svg cmd/lc_basicshapes.trapezoid.svg
-cmd/lc_flowchartshapes.flowchart-magnetic-disk.svg cmd/lc_basicshapes.can.svg
-cmd/lc_measureattributes.svg cmd/lc_measureline.svg
-cmd/lc_connect.svg cmd/lc_polygon.svg
+cmd/lc_basicshapes.svg cmd/lc_basicshapes.diamond.svg
 cmd/lc_break.svg cmd/lc_polygon_unfilled.svg
+cmd/lc_calloutshapes.svg cmd/lc_calloutshapes.round-rectangular-callout.svg
+cmd/lc_circle.svg cmd/lc_basicshapes.circle.svg
+cmd/lc_circlepie.svg cmd/lc_basicshapes.circle-pie.svg
+cmd/lc_connect.svg cmd/lc_polygon.svg
+cmd/lc_ellipse.svg cmd/lc_basicshapes.ellipse.svg
+cmd/lc_ellipsetoolbox.svg cmd/lc_basicshapes.ellipse.svg
+cmd/lc_flowchartshapes.svg cmd/lc_flowchartshapes.flowchart-internal-storage.svg
+cmd/lc_flowchartshapes.flowchart-alternate-process.svg cmd/lc_basicshapes.round-quadrat.svg
+cmd/lc_flowchartshapes.flowchart-connector.svg cmd/lc_basicshapes.circle.svg
+cmd/lc_flowchartshapes.flowchart-data.svg cmd/lc_basicshapes.parallelogram.svg
+cmd/lc_flowchartshapes.flowchart-extract.svg cmd/lc_basicshapes.isosceles-triangle.svg
+cmd/lc_flowchartshapes.flowchart-magnetic-disk.svg cmd/lc_basicshapes.can.svg
+cmd/lc_flowchartshapes.flowchart-manual-operation.svg cmd/lc_basicshapes.trapezoid.svg
+cmd/lc_flowchartshapes.flowchart-merge.svg cmd/lc_fontworkshapetype.fontwork-triangle-down.svg
+cmd/lc_flowchartshapes.flowchart-punched-tape.svg cmd/lc_fontworkshapetype.fontwork-wave.svg
+cmd/lc_fontworkshapetype.fontwork-circle-pour.svg cmd/lc_basicshapes.ring.svg
+cmd/lc_fontworkshapetype.fontwork-fade-down.svg cmd/lc_basicshapes.trapezoid.svg
+cmd/lc_fontworkshapetype.fontwork-triangle-up.svg cmd/lc_basicshapes.isosceles-triangle.svg
+cmd/lc_linetoolbox.svg cmd/lc_freeline.svg
+cmd/lc_measureattributes.svg cmd/lc_measureline.svg
+cmd/lc_pie.svg cmd/lc_basicshapes.circle-pie.svg
+cmd/lc_rect.svg cmd/lc_basicshapes.rectangle.svg
+cmd/lc_rectangletoolbox.svg cmd/lc_basicshapes.rectangle.svg
+cmd/lc_rect_rounded.svg cmd/lc_basicshapes.round-rectangle.svg
+cmd/lc_shapeslinemenu.svg cmd/lc_line.svg
+cmd/lc_shapesmenu.svg cmd/lc_basicshapes.round-quadrat.svg
+cmd/lc_symbolshapes.svg cmd/lc_symbolshapes.smiley.svg
+cmd/lc_square_rounded.svg cmd/lc_basicshapes.round-quadrat.svg
 
-cmd/sc_fontworkshapetype.fontwork-circle-pour.svg cmd/sc_basicshapes.ring.svg
-cmd/sc_basicshapes.circle.svg cmd/sc_circle.svg
-cmd/sc_flowchartshapes.flowchart-connector.svg cmd/sc_circle.svg
-cmd/sc_symbolshapes.smiley.svg cmd/sc_symbolshapes.svg
-cmd/sc_basicshapes.round-rectangle.svg cmd/sc_rect_rounded.svg
-cmd/sc_flowchartshapes.flowchart-punched-tape.svg cmd/sc_fontworkshapetype.fontwork-wave.svg
-cmd/sc_basicshapes.parallelogram.svg cmd/sc_flowchartshapes.flowchart-data.svg
-cmd/sc_calloutshapes.round-rectangular-callout.svg cmd/sc_calloutshapes.svg
-cmd/sc_flowchartshapes.flowchart-manual-operation.svg cmd/sc_basicshapes.trapezoid.svg
-cmd/sc_flowchartshapes.flowchart-alternate-process.svg cmd/sc_basicshapes.round-quadrat.svg
 cmd/sc_arrowshapes.left-right-arrow.svg cmd/sc_arrowshapes.svg
-cmd/sc_flowchartshapes.flowchart-extract.svg cmd/sc_basicshapes.isosceles-triangle.svg
-cmd/sc_fontworkshapetype.fontwork-triangle-up.svg cmd/sc_basicshapes.isosceles-triangle.svg
-cmd/sc_basicshapes.circle-pie.svg cmd/sc_pie.svg
-cmd/sc_flowchartshapes.flowchart-merge.svg cmd/sc_fontworkshapetype.fontwork-triangle-down.svg
-cmd/sc_fontworkshapetype.fontwork-fade-down.svg cmd/sc_basicshapes.trapezoid.svg
-cmd/sc_flowchartshapes.flowchart-magnetic-disk.svg cmd/sc_basicshapes.can.svg
-cmd/sc_shapesmenu.svg cmd/sc_basicshapes.round-quadrat.svg
-cmd/sc_shapeslinemenu.svg cmd/sc_line.svg
-cmd/sc_measureattributes.svg cmd/sc_measureline.svg
-cmd/sc_connect.svg cmd/sc_polygon.svg
+cmd/sc_basicshapes.svg cmd/sc_basicshapes.diamond.svg
 cmd/sc_break.svg cmd/sc_polygon_unfilled.svg
+cmd/sc_calloutshapes.svg cmd/sc_calloutshapes.round-rectangular-callout.svg
+cmd/sc_circle.svg cmd/sc_basicshapes.circle.svg
+cmd/sc_circlepie.svg cmd/sc_basicshapes.circle-pie.svg
+cmd/sc_connect.svg cmd/sc_polygon.svg
+cmd/sc_ellipse.svg cmd/sc_basicshapes.ellipse.svg
+cmd/sc_ellipsetoolbox.svg cmd/sc_basicshapes.ellipse.svg
+cmd/sc_flowchartshapes.svg cmd/sc_flowchartshapes.flowchart-internal-storage.svg
+cmd/sc_flowchartshapes.flowchart-alternate-process.svg cmd/sc_basicshapes.round-quadrat.svg
+cmd/sc_flowchartshapes.flowchart-connector.svg cmd/sc_basicshapes.circle.svg
+cmd/sc_flowchartshapes.flowchart-data.svg cmd/sc_basicshapes.parallelogram.svg
+cmd/sc_flowchartshapes.flowchart-extract.svg cmd/sc_basicshapes.isosceles-triangle.svg
+cmd/sc_flowchartshapes.flowchart-magnetic-disk.svg cmd/sc_basicshapes.can.svg
+cmd/sc_flowchartshapes.flowchart-manual-operation.svg cmd/sc_basicshapes.trapezoid.svg
+cmd/sc_flowchartshapes.flowchart-merge.svg cmd/sc_fontworkshapetype.fontwork-triangle-down.svg
+cmd/sc_flowchartshapes.flowchart-punched-tape.svg cmd/sc_fontworkshapetype.fontwork-wave.svg
+cmd/sc_fontworkshapetype.fontwork-circle-pour.svg cmd/sc_basicshapes.ring.svg
+cmd/sc_fontworkshapetype.fontwork-fade-down.svg cmd/sc_basicshapes.trapezoid.svg
+cmd/sc_fontworkshapetype.fontwork-triangle-up.svg cmd/sc_basicshapes.isosceles-triangle.svg
+cmd/sc_linetoolbox.svg cmd/sc_freeline.svg
+cmd/sc_measureattributes.svg cmd/sc_measureline.svg
+cmd/sc_pie.svg cmd/sc_basicshapes.circle-pie.svg
+cmd/sc_rect.svg cmd/sc_basicshapes.rectangle.svg
+cmd/sc_rectangletoolbox.svg cmd/sc_basicshapes.rectangle.svg
+cmd/sc_rect_rounded.svg cmd/sc_basicshapes.round-rectangle.svg
+cmd/sc_shapeslinemenu.svg cmd/sc_line.svg
+cmd/sc_shapesmenu.svg cmd/sc_basicshapes.round-quadrat.svg
+cmd/sc_symbolshapes.svg cmd/sc_symbolshapes.smiley.svg
+cmd/sc_square_rounded.svg cmd/sc_basicshapes.round-quadrat.svg
+
 
 # Open
 cmd/32/openfromwriter.svg cmd/32/open.svg
@@ -986,31 +1025,14 @@ cmd/sc_insertslidenumber.svg cmd/sc_insertpagenumberfield.svg
 cmd/sc_insertslidesfield.svg cmd/sc_insertpagecountfield.svg
 
 # Writer menu entries
+cmd/32/indexesmenu.svg cmd/32/insertindexesentry.svg
 cmd/32/insertframemenu.svg cmd/32/insertframe.svg
+
+cmd/lc_indexesmenu.svg cmd/lc_insertindexesentry.svg
 cmd/lc_insertframemenu.svg cmd/lc_insertframe.svg
+
+cmd/sc_indexesmenu.svg cmd/sc_insertindexesentry.svg
 cmd/sc_insertframemenu.svg cmd/sc_insertframe.svg
-
-# Shapes
-cmd/32/basicshapes.svg cmd/32/basicshapes.diamond.svg
-cmd/32/basicshapes.ellipse.svg cmd/32/ellipse.svg
-cmd/32/basicshapes.rectangle.svg cmd/32/rect.svg
-cmd/32/ellipsetoolbox.svg cmd/32/ellipse.svg
-cmd/32/linetoolbox.svg cmd/32/freeline.svg
-cmd/32/rectangletoolbox.svg cmd/32/rect.svg
-
-cmd/lc_basicshapes.svg cmd/lc_basicshapes.diamond.svg
-cmd/lc_basicshapes.ellipse.svg cmd/lc_ellipse.svg
-cmd/lc_basicshapes.rectangle.svg cmd/lc_rect.svg
-cmd/lc_ellipsetoolbox.svg cmd/lc_ellipse.svg
-cmd/lc_linetoolbox.svg cmd/lc_freeline.svg
-cmd/lc_rectangletoolbox.svg cmd/lc_rect.svg
-
-cmd/sc_basicshapes.svg cmd/sc_basicshapes.diamond.svg
-cmd/sc_basicshapes.ellipse.svg cmd/sc_ellipse.svg
-cmd/sc_basicshapes.rectangle.svg cmd/sc_rect.svg
-cmd/sc_ellipsetoolbox.svg cmd/sc_ellipse.svg
-cmd/sc_linetoolbox.svg cmd/sc_freeline.svg
-cmd/sc_rectangletoolbox.svg cmd/sc_rect.svg
 
 # Format
 cmd/32/fillcolor.svg cmd/32/backgroundcolor.svg
@@ -1073,16 +1095,16 @@ cmd/sc_exporttoepub.svg cmd/sc_exportdirecttoepub.svg
 cmd/sc_exporttopdf.svg cmd/sc_exportdirecttopdf.svg
 
 # Square
-cmd/32/basicshapes.quadrat.svg cmd/32/square.svg
-cmd/32/flowchartshapes.flowchart-process.svg cmd/32/square.svg
+cmd/32/square.svg cmd/32/basicshapes.quadrat.svg
+cmd/32/flowchartshapes.flowchart-process.svg cmd/32/basicshapes.quadrat.svg
 cmd/32/basicshapes.frame.svg cmd/32/rect_unfilled.svg
 
-cmd/lc_basicshapes.quadrat.svg cmd/lc_square.svg
-cmd/lc_flowchartshapes.flowchart-process.svg cmd/lc_square.svg
+cmd/lc_square.svg cmd/lc_basicshapes.quadrat.svg
+cmd/lc_flowchartshapes.flowchart-process.svg cmd/lc_basicshapes.quadrat.svg
 cmd/lc_basicshapes.frame.svg cmd/lc_rect_unfilled.svg
 
-cmd/sc_basicshapes.quadrat.svg cmd/sc_square.svg
-cmd/sc_flowchartshapes.flowchart-process.svg cmd/sc_square.svg
+cmd/sc_square.svg cmd/sc_basicshapes.quadrat.svg
+cmd/sc_flowchartshapes.flowchart-process.svg cmd/sc_basicshapes.quadrat.svg
 cmd/sc_basicshapes.frame.svg cmd/sc_rect_unfilled.svg
 
 # Sort
@@ -1363,21 +1385,29 @@ cmd/lc_pluginsactive.svg cmd/lc_insertplugin.svg
 cmd/sc_pluginsactive.svg cmd/sc_insertplugin.svg
 
 # Table
+cmd/32/cellprotection.svg cmd/32/protect.svg
+cmd/32/columnoperations.svg cmd/32/entirecolumn.svg
 cmd/32/dbnewtable.svg cmd/32/inserttable.svg
 cmd/32/inscellsctrl.svg cmd/32/inserttable.svg
+cmd/32/rowoperations.svg cmd/32/entirerow.svg
 cmd/32/setoptimalcolumnwidthdirect.svg cmd/32/setoptimalcolumnwidth.svg
 cmd/32/starchartdialog.svg cmd/32/insertobjectdialog.svg
 
-cmd/sc_dbnewtable.svg cmd/sc_inserttable.svg
-cmd/sc_inscellsctrl.svg cmd/sc_inserttable.svg
-cmd/sc_setoptimalcolumnwidthdirect.svg cmd/sc_setoptimalcolumnwidth.svg
-cmd/sc_starchartdialog.svg cmd/sc_insertobjectdialog.svg
-
+cmd/lc_cellprotection.svg cmd/lc_protect.svg
+cmd/lc_columnoperations.svg cmd/lc_entirecolumn.svg
 cmd/lc_dbnewtable.svg cmd/lc_inserttable.svg
 cmd/lc_inscellsctrl.svg cmd/lc_inserttable.svg
+cmd/lc_rowoperations.svg cmd/lc_entirerow.svg
 cmd/lc_setoptimalcolumnwidthdirect.svg cmd/lc_setoptimalcolumnwidth.svg
 cmd/lc_starchartdialog.svg cmd/lc_insertobjectdialog.svg
 
+cmd/sc_cellprotection.svg cmd/sc_protect.svg
+cmd/sc_columnoperations.svg cmd/sc_entirecolumn.svg
+cmd/sc_dbnewtable.svg cmd/sc_inserttable.svg
+cmd/sc_inscellsctrl.svg cmd/sc_inserttable.svg
+cmd/sc_rowoperations.svg cmd/sc_entirerow.svg
+cmd/sc_setoptimalcolumnwidthdirect.svg cmd/sc_setoptimalcolumnwidth.svg
+cmd/sc_starchartdialog.svg cmd/sc_insertobjectdialog.svg
 
 # Help
 cmd/32/absoluterecord.svg cmd/32/helpindex.svg
@@ -1690,8 +1720,6 @@ sd/res/nv05.svg cmd/sc_nextrecord.svg
 sd/res/nv06.svg cmd/sc_lastrecord.svg
 sd/res/nv08.svg cmd/sc_copy.svg
 sd/res/nv09.svg sc/res/droplink.svg
-sd/res/sf01.svg cmd/sc_showfmexplorer.svg
-sd/res/sf02.svg cmd/sc_dia.svg
 
 sd/res/breakplayingblue_16.svg cmd/sc_mediapause.svg
 sd/res/comments_indicator.svg cmd/sc_showannotations.svg
@@ -1780,8 +1808,8 @@ svx/res/caution_11x16.svg dbaccess/res/exwarning.svg
 svx/res/cd01.svg cmd/sc_ok.svg
 svx/res/cd02.svg cmd/sc_crop.svg
 svx/res/cd05.svg cmd/sc_selectobject.svg
-svx/res/cd06.svg cmd/sc_rect.svg
-svx/res/cd07.svg cmd/sc_ellipse.svg
+svx/res/cd06.svg cmd/sc_basicshapes.rectangle.svg
+svx/res/cd07.svg cmd/sc_basicshapes.ellipse.svg
 svx/res/cd08.svg cmd/sc_polygon.svg
 svx/res/cd015.svg cmd/sc_toggleobjectbeziermode.svg
 svx/res/cd016.svg cmd/sc_beziermove.svg
@@ -1812,8 +1840,8 @@ svx/res/id01.svg cmd/sc_ok.svg
 svx/res/id02.svg cmd/sc_open.svg
 svx/res/id03.svg cmd/sc_save.svg
 svx/res/id04.svg cmd/sc_selectobject.svg
-svx/res/id05.svg cmd/sc_rect.svg
-svx/res/id06.svg cmd/sc_ellipse.svg
+svx/res/id05.svg cmd/lc_basicshapes.rectangle.svg
+svx/res/id06.svg cmd/sc_basicshapes.ellipse.svg
 svx/res/id07.svg cmd/sc_polygon.svg
 svx/res/id018.svg cmd/sc_controlproperties.svg
 svx/res/id030.svg cmd/sc_toggleobjectbeziermode.svg
@@ -1942,40 +1970,27 @@ vcl/res/index.svg cmd/sc_insertmultiindex.svg
 # ==============================================
 xmlsecurity/res/key_12.svg dbaccess/res/pkey.svg
 xmlsecurity/res/signet_11x16.svg xmlsecurity/res/notcertificate_16.svg
-cmd/32/columnoperations.svg cmd/32/entirecolumn.svg
-cmd/32/rowoperations.svg cmd/32/entirerow.svg
 
-cmd/lc_columnoperations.svg cmd/lc_entirecolumn.svg
-cmd/lc_rowoperations.svg cmd/lc_entirerow.svg
-
-cmd/sc_columnoperations.svg cmd/sc_entirecolumn.svg
-cmd/sc_rowoperations.svg cmd/sc_entirerow.svg
-
-cmd/32/cellprotection.svg cmd/32/protect.svg
-cmd/sc_cellprotection.svg cmd/sc_protect.svg
-cmd/lc_cellprotection.svg cmd/lc_protect.svg
-
-cmd/32/indexesmenu.svg cmd/32/insertindexesentry.svg
+# Global menu
+cmd/32/availabletoolbars.svg cmd/32/showtoolbar.svg
 cmd/32/rulermenu.svg cmd/32/ruler.svg
-
-cmd/32/sidebarmenu.svg cmd/32/sidebar.svg
-cmd/lc_sidebarmenu.svg cmd/lc_sidebar.svg
-cmd/sc_sidebarmenu.svg cmd/sc_sidebar.svg
-
-cmd/lc_indexesmenu.svg cmd/lc_insertindexesentry.svg
-cmd/lc_rulermenu.svg cmd/lc_ruler.svg
-
-cmd/sc_indexesmenu.svg cmd/sc_insertindexesentry.svg
-cmd/sc_rulermenu.svg cmd/sc_ruler.svg
-
-cmd/32/charmapcontrol.svg cmd/32/insertsymbol.svg
-cmd/lc_charmapcontrol.svg cmd/lc_insertsymbol.svg
-cmd/sc_charmapcontrol.svg cmd/sc_insertsymbol.svg
-
 cmd/32/showruler.svg cmd/32/ruler.svg
-cmd/lc_showruler.svg cmd/lc_ruler.svg
-cmd/sc_showruler.svg cmd/sc_ruler.svg
+cmd/32/sidebarmenu.svg cmd/32/sidebar.svg
+cmd/32/toolbarsmenu.svg cmd/32/showtoolbar.svg
 
+cmd/lc_availabletoolbars.svg cmd/lc_showtoolbar.svg
+cmd/lc_rulermenu.svg cmd/lc_ruler.svg
+cmd/lc_showruler.svg cmd/lc_ruler.svg
+cmd/lc_sidebarmenu.svg cmd/lc_sidebar.svg
+cmd/lc_toolbarsmenu.svg cmd/lc_showtoolbar.svg
+
+cmd/sc_availabletoolbars.svg cmd/sc_showtoolbar.svg
+cmd/sc_rulermenu.svg cmd/sc_ruler.svg
+cmd/sc_showruler.svg cmd/sc_ruler.svg
+cmd/sc_sidebarmenu.svg cmd/sc_sidebar.svg
+cmd/sc_toolbarsmenu.svg cmd/sc_showtoolbar.svg
+
+# Comment 
 cmd/32/deleteallnotes.svg cmd/32/deleteallannotation.svg
 cmd/32/deletenote.svg cmd/32/deleteannotation.svg
 cmd/32/formatallnotes.svg cmd/32/editannotation.svg
@@ -1988,15 +2003,12 @@ cmd/sc_deleteallnotes.svg cmd/sc_deleteallannotation.svg
 cmd/sc_deletenote.svg cmd/sc_deleteannotation.svg
 cmd/sc_formatallnotes.svg cmd/sc_editannotation.svg
 
+# Other
+
 cmd/32/objecttitledescription.svg cmd/32/insertcaptiondialog.svg
 cmd/lc_objecttitledescription.svg cmd/lc_insertcaptiondialog.svg
 cmd/sc_objecttitledescription.svg cmd/sc_insertcaptiondialog.svg
 
-cmd/32/availabletoolbars.svg cmd/32/showtoolbar.svg
-cmd/32/toolbarsmenu.svg cmd/32/showtoolbar.svg
-
-cmd/lc_availabletoolbars.svg cmd/lc_showtoolbar.svg
-cmd/lc_toolbarsmenu.svg cmd/lc_showtoolbar.svg
-
-cmd/sc_availabletoolbars.svg cmd/sc_showtoolbar.svg
-cmd/sc_toolbarsmenu.svg cmd/sc_showtoolbar.svg
+cmd/32/linenumberingdialog.svg cmd/32/linenumberdialog.svg
+cmd/lc_linenumberingdialog.svg cmd/lc_linenumberdialog.svg
+cmd/sc_linenumberingdialog.svg cmd/sc_linenumberdialog.svg
