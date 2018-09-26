@@ -397,15 +397,12 @@ cmd/sc_sectionaligntop.png cmd/sc_alignup.png
 # Graphic
 cmd/32/colorview.png cmd/32/graphicfilterinvert.png
 cmd/32/formatimagemenu.png cmd/32/graphic.png
-cmd/32/grafgamma.png cmd/32/graphicfilterinvert.png
 cmd/32/grafinvert.png cmd/32/graphicfilterinvert.png
 cmd/32/grafmode.png cmd/32/graphicdialog.png
 cmd/32/graphicfilterposter.png cmd/32/graphicdialog.png
 cmd/32/imagebutton.png cmd/32/gallery.png
 
 cmd/lc_colorview.png cmd/lc_graphicfilterinvert.png
-cmd/lc_formatimagemenu.png cmd/lc_graphic.png
-cmd/lc_grafgamma.png cmd/lc_graphicfilterinvert.png
 cmd/lc_grafinvert.png cmd/lc_graphicfilterinvert.png
 cmd/lc_grafmode.png cmd/lc_graphicdialog.png
 cmd/lc_graphicfilterposter.png cmd/lc_graphicdialog.png
@@ -414,7 +411,6 @@ cmd/lc_imagebutton.png cmd/lc_gallery.png
 cmd/sc_colorview.png cmd/sc_graphicfilterinvert.png
 cmd/sc_formatimagemenu.png cmd/sc_graphic.png
 cmd/sc_graphicfilterposter.png cmd/sc_graphicdialog.png
-cmd/sc_grafgamma.png cmd/sc_graphicfilterinvert.png
 cmd/sc_grafinvert.png cmd/sc_graphicfilterinvert.png
 cmd/sc_grafmode.png cmd/sc_graphicdialog.png
 cmd/sc_imagebutton.png cmd/sc_gallery.png
@@ -1862,7 +1858,7 @@ svx/res/zoom_page_statusbar.png cmd/sc_zoompanning.png
 svx/res/reloads.png cmd/sc_reload.png
 
 svx/res/symphony/AdjustColorBlue_16x16.png cmd/sc_grafblue.png
-svx/res/symphony/AdjustColorGamma_16x16.png cmd/sc_graphicfilterinvert.png
+svx/res/symphony/AdjustColorGamma_16x16.png cmd/sc_grafgamma.png
 svx/res/symphony/AdjustColorGreen_16x16.png cmd/sc_grafgreen.png
 svx/res/symphony/AdjustColorRed_16x16.png cmd/sc_grafred.png
 svx/res/symphony/fill_color.png cmd/sc_backgroundcolor.png
@@ -1994,16 +1990,19 @@ cmd/sc_showruler.png cmd/sc_ruler.png
 cmd/sc_sidebarmenu.png cmd/sc_sidebar.png
 cmd/sc_toolbarsmenu.png cmd/sc_showtoolbar.png
 
-# Comment 
+# Comment
 cmd/32/deleteallnotes.png cmd/32/deleteallannotation.png
+cmd/32/deletecomment.png cmd/32/deleteannotation.png
 cmd/32/deletenote.png cmd/32/deleteannotation.png
 cmd/32/formatallnotes.png cmd/32/editannotation.png
 
 cmd/lc_deleteallnotes.png cmd/lc_deleteallannotation.png
+cmd/lc_deletecomment.png cmd/lc_deleteannotation.png
 cmd/lc_deletenote.png cmd/lc_deleteannotation.png
 cmd/lc_formatallnotes.png cmd/lc_editannotation.png
 
 cmd/sc_deleteallnotes.png cmd/sc_deleteallannotation.png
+cmd/sc_deletecomment.png cmd/sc_deleteannotation.png
 cmd/sc_deletenote.png cmd/sc_deleteannotation.png
 cmd/sc_formatallnotes.png cmd/sc_editannotation.png
 

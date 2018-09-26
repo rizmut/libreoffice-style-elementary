@@ -397,15 +397,12 @@ cmd/sc_sectionaligntop.svg cmd/sc_alignup.svg
 # Graphic
 cmd/32/colorview.svg cmd/32/graphicfilterinvert.svg
 cmd/32/formatimagemenu.svg cmd/32/graphic.svg
-cmd/32/grafgamma.svg cmd/32/graphicfilterinvert.svg
 cmd/32/grafinvert.svg cmd/32/graphicfilterinvert.svg
 cmd/32/grafmode.svg cmd/32/graphicdialog.svg
 cmd/32/graphicfilterposter.svg cmd/32/graphicdialog.svg
 cmd/32/imagebutton.svg cmd/32/gallery.svg
 
 cmd/lc_colorview.svg cmd/lc_graphicfilterinvert.svg
-cmd/lc_formatimagemenu.svg cmd/lc_graphic.svg
-cmd/lc_grafgamma.svg cmd/lc_graphicfilterinvert.svg
 cmd/lc_grafinvert.svg cmd/lc_graphicfilterinvert.svg
 cmd/lc_grafmode.svg cmd/lc_graphicdialog.svg
 cmd/lc_graphicfilterposter.svg cmd/lc_graphicdialog.svg
@@ -414,7 +411,6 @@ cmd/lc_imagebutton.svg cmd/lc_gallery.svg
 cmd/sc_colorview.svg cmd/sc_graphicfilterinvert.svg
 cmd/sc_formatimagemenu.svg cmd/sc_graphic.svg
 cmd/sc_graphicfilterposter.svg cmd/sc_graphicdialog.svg
-cmd/sc_grafgamma.svg cmd/sc_graphicfilterinvert.svg
 cmd/sc_grafinvert.svg cmd/sc_graphicfilterinvert.svg
 cmd/sc_grafmode.svg cmd/sc_graphicdialog.svg
 cmd/sc_imagebutton.svg cmd/sc_gallery.svg
@@ -1862,7 +1858,7 @@ svx/res/zoom_page_statusbar.svg cmd/sc_zoompanning.svg
 svx/res/reloads.svg cmd/sc_reload.svg
 
 svx/res/symphony/AdjustColorBlue_16x16.svg cmd/sc_grafblue.svg
-svx/res/symphony/AdjustColorGamma_16x16.svg cmd/sc_graphicfilterinvert.svg
+svx/res/symphony/AdjustColorGamma_16x16.svg cmd/sc_grafgamma.svg
 svx/res/symphony/AdjustColorGreen_16x16.svg cmd/sc_grafgreen.svg
 svx/res/symphony/AdjustColorRed_16x16.svg cmd/sc_grafred.svg
 svx/res/symphony/fill_color.svg cmd/sc_backgroundcolor.svg
