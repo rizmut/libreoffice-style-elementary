@@ -1436,10 +1436,6 @@ cmd/lc_showgraphics.svg cmd/lc_graphic.svg
 cmd/sc_showgraphics.svg cmd/sc_graphic.svg
 
 # navigator
-cmd/32/dsbrowserexplorer.svg cmd/32/showfmexplorer.svg
-cmd/lc_dsbrowserexplorer.svg cmd/lc_showfmexplorer.svg
-cmd/sc_dsbrowserexplorer.svg cmd/sc_showfmexplorer.svg
-
 cmd/32/savesimple.svg cmd/32/save.svg
 cmd/lc_savesimple.svg cmd/lc_save.svg
 cmd/sc_savesimple.svg cmd/sc_save.svg
@@ -1990,16 +1986,19 @@ cmd/sc_showruler.svg cmd/sc_ruler.svg
 cmd/sc_sidebarmenu.svg cmd/sc_sidebar.svg
 cmd/sc_toolbarsmenu.svg cmd/sc_showtoolbar.svg
 
-# Comment 
+# Comment
 cmd/32/deleteallnotes.svg cmd/32/deleteallannotation.svg
+cmd/32/deletecomment.svg cmd/32/deleteannotation.svg
 cmd/32/deletenote.svg cmd/32/deleteannotation.svg
 cmd/32/formatallnotes.svg cmd/32/editannotation.svg
 
 cmd/lc_deleteallnotes.svg cmd/lc_deleteallannotation.svg
+cmd/lc_deletecomment.svg cmd/lc_deleteannotation.svg
 cmd/lc_deletenote.svg cmd/lc_deleteannotation.svg
 cmd/lc_formatallnotes.svg cmd/lc_editannotation.svg
 
 cmd/sc_deleteallnotes.svg cmd/sc_deleteallannotation.svg
+cmd/sc_deletecomment.svg cmd/sc_deleteannotation.svg
 cmd/sc_deletenote.svg cmd/sc_deleteannotation.svg
 cmd/sc_formatallnotes.svg cmd/sc_editannotation.svg
 

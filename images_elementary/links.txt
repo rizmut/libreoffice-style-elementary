@@ -1436,10 +1436,6 @@ cmd/lc_showgraphics.png cmd/lc_graphic.png
 cmd/sc_showgraphics.png cmd/sc_graphic.png
 
 # navigator
-cmd/32/dsbrowserexplorer.png cmd/32/showfmexplorer.png
-cmd/lc_dsbrowserexplorer.png cmd/lc_showfmexplorer.png
-cmd/sc_dsbrowserexplorer.png cmd/sc_showfmexplorer.png
-
 cmd/32/savesimple.png cmd/32/save.png
 cmd/lc_savesimple.png cmd/lc_save.png
 cmd/sc_savesimple.png cmd/sc_save.png
