@@ -50,7 +50,6 @@ cmd/32/insertauthorfield.png cmd/32/dbviewaliases.png
 cmd/32/insertcell.png cmd/32/insertcellsright.png
 cmd/32/insertcolumnsbefore.png cmd/32/insertcolumns.png
 cmd/32/insertctrl.png cmd/32/inserttable.png
-cmd/32/insertcurrencyfield.png cmd/32/formattedfield.png
 cmd/32/insertcurrentdate.png cmd/32/datefield.png
 cmd/32/insertcurrenttime.png cmd/32/timefield.png
 cmd/32/insertdatefield.png cmd/32/datefield.png
@@ -106,7 +105,6 @@ cmd/lc_insertauthorfield.png cmd/lc_dbviewaliases.png
 cmd/lc_insertcell.png cmd/lc_insertcellsright.png
 cmd/lc_insertcolumnsbefore.png cmd/lc_insertcolumns.png
 cmd/lc_insertctrl.png cmd/lc_inserttable.png
-cmd/lc_insertcurrencyfield.png cmd/lc_formattedfield.png
 cmd/lc_insertcurrentdate.png cmd/lc_datefield.png
 cmd/lc_insertcurrenttime.png cmd/lc_timefield.png
 cmd/lc_insertdatefield.png cmd/lc_datefield.png
@@ -164,7 +162,6 @@ cmd/sc_insertauthorfield.png cmd/sc_dbviewaliases.png
 cmd/sc_insertcell.png cmd/sc_insertcellsright.png
 cmd/sc_insertcolumnsbefore.png cmd/sc_insertcolumns.png
 cmd/sc_insertctrl.png cmd/sc_inserttable.png
-cmd/sc_insertcurrencyfield.png cmd/sc_formattedfield.png
 cmd/sc_insertcurrentdate.png cmd/sc_datefield.png
 cmd/sc_insertcurrenttime.png cmd/sc_timefield.png
 cmd/sc_insertdatefield.png cmd/sc_datefield.png
@@ -1124,17 +1121,17 @@ cmd/lc_hyphenation.png cmd/lc_hyphenate.png
 cmd/sc_hyphenation.png cmd/sc_hyphenate.png
 
 # Currency
-cmd/32/currencyfield.png cmd/32/formattedfield.png
-cmd/32/numberformatcurrency.png cmd/32/formattedfield.png
-cmd/32/numberformatcurrencysimple.png cmd/32/formattedfield.png
+cmd/32/insertcurrencyfield.png cmd/32/currencyfield.png
+cmd/32/numberformatcurrency.png cmd/32/currencyfield.png
+cmd/32/numberformatcurrencysimple.png cmd/32/currencyfield.png
 
-cmd/lc_currencyfield.png cmd/lc_formattedfield.png
-cmd/lc_numberformatcurrency.png cmd/lc_formattedfield.png
-cmd/lc_numberformatcurrencysimple.png cmd/lc_formattedfield.png
+cmd/lc_insertcurrencyfield.png cmd/lc_currencyfield.png
+cmd/lc_numberformatcurrency.png cmd/lc_currencyfield.png
+cmd/lc_numberformatcurrencysimple.png cmd/lc_currencyfield.png
 
-cmd/sc_numberformatcurrency.png cmd/sc_formattedfield.png
-cmd/sc_currencyfield.png cmd/sc_formattedfield.png
-cmd/sc_numberformatcurrencysimple.png cmd/sc_formattedfield.png
+cmd/sc_insertcurrencyfield.png cmd/sc_currencyfield.png
+cmd/sc_numberformatcurrency.png cmd/sc_currencyfield.png
+cmd/sc_numberformatcurrencysimple.png cmd/sc_currencyfield.png
 
 # Fontwork
 cmd/32/fontworkshapetype.png cmd/32/fontwork.png
