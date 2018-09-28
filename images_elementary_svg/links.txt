@@ -753,11 +753,6 @@ cmd/sc_closedocs.svg cmd/sc_closedoc.svg
 cmd/sc_closepreview.svg cmd/sc_closedoc.svg
 cmd/sc_exitsearch.svg cmd/sc_closedoc.svg
 
-# arc
-cmd/32/basicshapes.block-arc.svg cmd/32/arc.svg
-cmd/lc_basicshapes.block-arc.svg cmd/lc_arc.svg
-cmd/sc_basicshapes.block-arc.svg cmd/sc_arc.svg
-
 # Cancel
 cmd/32/no.svg cmd/32/cancel.svg
 cmd/32/removetableof.svg cmd/32/cancel.svg
@@ -1985,16 +1980,19 @@ cmd/32/deleteallnotes.svg cmd/32/deleteallannotation.svg
 cmd/32/deletecomment.svg cmd/32/deleteannotation.svg
 cmd/32/deletenote.svg cmd/32/deleteannotation.svg
 cmd/32/formatallnotes.svg cmd/32/editannotation.svg
+cmd/32/showinlinetooltips.svg cmd/32/editannotation.svg
 
 cmd/lc_deleteallnotes.svg cmd/lc_deleteallannotation.svg
 cmd/lc_deletecomment.svg cmd/lc_deleteannotation.svg
 cmd/lc_deletenote.svg cmd/lc_deleteannotation.svg
 cmd/lc_formatallnotes.svg cmd/lc_editannotation.svg
+cmd/lc_showinlinetooltips.svg cmd/lc_editannotation.svg
 
 cmd/sc_deleteallnotes.svg cmd/sc_deleteallannotation.svg
 cmd/sc_deletecomment.svg cmd/sc_deleteannotation.svg
 cmd/sc_deletenote.svg cmd/sc_deleteannotation.svg
 cmd/sc_formatallnotes.svg cmd/sc_editannotation.svg
+cmd/sc_showinlinetooltips.svg cmd/sc_editannotation.svg
 
 # Other
 

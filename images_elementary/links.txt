@@ -753,11 +753,6 @@ cmd/sc_closedocs.png cmd/sc_closedoc.png
 cmd/sc_closepreview.png cmd/sc_closedoc.png
 cmd/sc_exitsearch.png cmd/sc_closedoc.png
 
-# arc
-cmd/32/basicshapes.block-arc.png cmd/32/arc.png
-cmd/lc_basicshapes.block-arc.png cmd/lc_arc.png
-cmd/sc_basicshapes.block-arc.png cmd/sc_arc.png
-
 # Cancel
 cmd/32/no.png cmd/32/cancel.png
 cmd/32/removetableof.png cmd/32/cancel.png
@@ -1985,16 +1980,19 @@ cmd/32/deleteallnotes.png cmd/32/deleteallannotation.png
 cmd/32/deletecomment.png cmd/32/deleteannotation.png
 cmd/32/deletenote.png cmd/32/deleteannotation.png
 cmd/32/formatallnotes.png cmd/32/editannotation.png
+cmd/32/showinlinetooltips.png cmd/32/editannotation.png
 
 cmd/lc_deleteallnotes.png cmd/lc_deleteallannotation.png
 cmd/lc_deletecomment.png cmd/lc_deleteannotation.png
 cmd/lc_deletenote.png cmd/lc_deleteannotation.png
 cmd/lc_formatallnotes.png cmd/lc_editannotation.png
+cmd/lc_showinlinetooltips.png cmd/lc_editannotation.png
 
 cmd/sc_deleteallnotes.png cmd/sc_deleteallannotation.png
 cmd/sc_deletecomment.png cmd/sc_deleteannotation.png
 cmd/sc_deletenote.png cmd/sc_deleteannotation.png
 cmd/sc_formatallnotes.png cmd/sc_editannotation.png
+cmd/sc_showinlinetooltips.png cmd/sc_editannotation.png
 
 # Other
 
