@@ -682,12 +682,15 @@ cmd/sc_formatbulletsmenu.png cmd/sc_defaultbullet.png
 cmd/sc_formatframemenu.png cmd/sc_chainframes.png
 
 # Group
+cmd/32/formatgroup.png cmd/32/group.png
 cmd/32/formatungroup.png cmd/32/ungroup.png
 cmd/32/leaveallgroups.png cmd/32/leavegroup.png
 
+cmd/lc_formatgroup.png cmd/lc_group.png
 cmd/lc_formatungroup.png cmd/lc_ungroup.png
 cmd/lc_leaveallgroups.png cmd/lc_leavegroup.png
 
+cmd/sc_formatgroup.png cmd/sc_group.png
 cmd/sc_formatungroup.png cmd/sc_ungroup.png
 cmd/sc_leaveallgroups.png cmd/sc_leavegroup.png
 

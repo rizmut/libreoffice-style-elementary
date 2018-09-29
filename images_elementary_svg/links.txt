@@ -682,12 +682,15 @@ cmd/sc_formatbulletsmenu.svg cmd/sc_defaultbullet.svg
 cmd/sc_formatframemenu.svg cmd/sc_chainframes.svg
 
 # Group
+cmd/32/formatgroup.svg cmd/32/group.svg
 cmd/32/formatungroup.svg cmd/32/ungroup.svg
 cmd/32/leaveallgroups.svg cmd/32/leavegroup.svg
 
+cmd/lc_formatgroup.svg cmd/lc_group.svg
 cmd/lc_formatungroup.svg cmd/lc_ungroup.svg
 cmd/lc_leaveallgroups.svg cmd/lc_leavegroup.svg
 
+cmd/sc_formatgroup.svg cmd/sc_group.svg
 cmd/sc_formatungroup.svg cmd/sc_ungroup.svg
 cmd/sc_leaveallgroups.svg cmd/sc_leavegroup.svg
 
@@ -1534,7 +1537,7 @@ formula/res/fx.svg cmd/sc_dbviewfunctions.svg
 # ==============================================
 fpicker/res/fp011.svg cmd/sc_firstpage.svg
 fpicker/res/fp014.svg cmd/sc_open.svg
-fpicker/res/fp015.svg cmd/sc_starshapes.svg
+fpicker/res/fp015.svg cmd/sc_starshapes.star5.svg
 fpicker/res/fp016.svg desktop/res/shared_16.svg
 
 # reportdesign
