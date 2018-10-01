@@ -1527,7 +1527,6 @@ extensions/res/buttonplus.svg extensions/source/scanner/plus.svg
 
 # formula
 # ==============================================
-formula/res/fapclose.svg cmd/sc_open.svg
 formula/res/faperror.svg cmd/sc_cancel.svg
 formula/res/fapok.svg cmd/sc_ok.svg
 formula/res/fapopen.svg cmd/sc_open.svg

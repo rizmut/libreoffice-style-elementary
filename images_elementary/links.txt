@@ -1527,7 +1527,6 @@ extensions/res/buttonplus.png extensions/source/scanner/plus.png
 
 # formula
 # ==============================================
-formula/res/fapclose.png cmd/sc_open.png
 formula/res/faperror.png cmd/sc_cancel.png
 formula/res/fapok.png cmd/sc_ok.png
 formula/res/fapopen.png cmd/sc_open.png
