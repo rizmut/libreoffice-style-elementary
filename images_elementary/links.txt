@@ -413,7 +413,7 @@ cmd/sc_grafmode.png cmd/sc_graphicdialog.png
 cmd/sc_imagebutton.png cmd/sc_gallery.png
 
 # Shapes
-cmd/32/arrowshapes.left-right-arrow.png cmd/32/arrowshapes.png
+cmd/32/arrowshapes.png cmd/32/arrowshapes.left-right-arrow.png
 cmd/32/basicshapes.png cmd/32/basicshapes.diamond.png
 cmd/32/break.png cmd/32/polygon_unfilled.png
 cmd/32/calloutshapes.png cmd/32/calloutshapes.round-rectangular-callout.png
@@ -446,7 +446,7 @@ cmd/32/starshapes.png cmd/32/starshapes.star5.png
 cmd/32/symbolshapes.png cmd/32/symbolshapes.smiley.png
 cmd/32/square_rounded.png cmd/32/basicshapes.round-quadrat.png
 
-cmd/lc_arrowshapes.left-right-arrow.png cmd/lc_arrowshapes.png
+cmd/lc_arrowshapes.png cmd/lc_arrowshapes.left-right-arrow.png
 cmd/lc_basicshapes.png cmd/lc_basicshapes.diamond.png
 cmd/lc_break.png cmd/lc_polygon_unfilled.png
 cmd/lc_calloutshapes.png cmd/lc_calloutshapes.round-rectangular-callout.png
@@ -479,7 +479,7 @@ cmd/lc_starshapes.png cmd/lc_starshapes.star5.png
 cmd/lc_symbolshapes.png cmd/lc_symbolshapes.smiley.png
 cmd/lc_square_rounded.png cmd/lc_basicshapes.round-quadrat.png
 
-cmd/sc_arrowshapes.left-right-arrow.png cmd/sc_arrowshapes.png
+cmd/sc_arrowshapes.png cmd/sc_arrowshapes.left-right-arrow.png
 cmd/sc_basicshapes.png cmd/sc_basicshapes.diamond.png
 cmd/sc_break.png cmd/sc_polygon_unfilled.png
 cmd/sc_calloutshapes.png cmd/sc_calloutshapes.round-rectangular-callout.png
