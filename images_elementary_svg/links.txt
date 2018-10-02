@@ -413,7 +413,7 @@ cmd/sc_grafmode.svg cmd/sc_graphicdialog.svg
 cmd/sc_imagebutton.svg cmd/sc_gallery.svg
 
 # Shapes
-cmd/32/arrowshapes.left-right-arrow.svg cmd/32/arrowshapes.svg
+cmd/32/arrowshapes.svg cmd/32/arrowshapes.left-right-arrow.svg
 cmd/32/basicshapes.svg cmd/32/basicshapes.diamond.svg
 cmd/32/break.svg cmd/32/polygon_unfilled.svg
 cmd/32/calloutshapes.svg cmd/32/calloutshapes.round-rectangular-callout.svg
@@ -446,7 +446,7 @@ cmd/32/starshapes.svg cmd/32/starshapes.star5.svg
 cmd/32/symbolshapes.svg cmd/32/symbolshapes.smiley.svg
 cmd/32/square_rounded.svg cmd/32/basicshapes.round-quadrat.svg
 
-cmd/lc_arrowshapes.left-right-arrow.svg cmd/lc_arrowshapes.svg
+cmd/lc_arrowshapes.svg cmd/lc_arrowshapes.left-right-arrow.svg
 cmd/lc_basicshapes.svg cmd/lc_basicshapes.diamond.svg
 cmd/lc_break.svg cmd/lc_polygon_unfilled.svg
 cmd/lc_calloutshapes.svg cmd/lc_calloutshapes.round-rectangular-callout.svg
@@ -479,7 +479,7 @@ cmd/lc_starshapes.svg cmd/lc_starshapes.star5.svg
 cmd/lc_symbolshapes.svg cmd/lc_symbolshapes.smiley.svg
 cmd/lc_square_rounded.svg cmd/lc_basicshapes.round-quadrat.svg
 
-cmd/sc_arrowshapes.left-right-arrow.svg cmd/sc_arrowshapes.svg
+cmd/sc_arrowshapes.svg cmd/sc_arrowshapes.left-right-arrow.svg
 cmd/sc_basicshapes.svg cmd/sc_basicshapes.diamond.svg
 cmd/sc_break.svg cmd/sc_polygon_unfilled.svg
 cmd/sc_calloutshapes.svg cmd/sc_calloutshapes.round-rectangular-callout.svg
