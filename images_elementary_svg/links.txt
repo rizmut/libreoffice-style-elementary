@@ -406,20 +406,17 @@ cmd/32/formatimagemenu.svg cmd/32/graphic.svg
 cmd/32/grafinvert.svg cmd/32/graphicfilterinvert.svg
 cmd/32/grafmode.svg cmd/32/graphicdialog.svg
 cmd/32/graphicfilterposter.svg cmd/32/graphicdialog.svg
-cmd/32/imagebutton.svg cmd/32/gallery.svg
 
 cmd/lc_colorview.svg cmd/lc_graphicfilterinvert.svg
 cmd/lc_grafinvert.svg cmd/lc_graphicfilterinvert.svg
 cmd/lc_grafmode.svg cmd/lc_graphicdialog.svg
 cmd/lc_graphicfilterposter.svg cmd/lc_graphicdialog.svg
-cmd/lc_imagebutton.svg cmd/lc_gallery.svg
 
 cmd/sc_colorview.svg cmd/sc_graphicfilterinvert.svg
 cmd/sc_formatimagemenu.svg cmd/sc_graphic.svg
 cmd/sc_graphicfilterposter.svg cmd/sc_graphicdialog.svg
 cmd/sc_grafinvert.svg cmd/sc_graphicfilterinvert.svg
 cmd/sc_grafmode.svg cmd/sc_graphicdialog.svg
-cmd/sc_imagebutton.svg cmd/sc_gallery.svg
 
 # Shapes
 cmd/32/arrowshapes.svg cmd/32/arrowshapes.left-right-arrow.svg
@@ -720,11 +717,11 @@ cmd/lc_clickchangerotation.svg cmd/lc_toggleobjectrotatemode.svg
 cmd/sc_clickchangerotation.svg cmd/sc_toggleobjectrotatemode.svg
 
 # AddField
-cmd/32/fieldnames.svg cmd/32/addfield.svg
+cmd/32/fieldnames.svg cmd/32/fields.svg
 
-cmd/lc_fieldnames.svg cmd/lc_addfield.svg
+cmd/lc_fieldnames.svg cmd/lc_fields.svg
 
-cmd/sc_fieldnames.svg cmd/sc_addfield.svg
+cmd/sc_fieldnames.svg cmd/sc_fields.svg
 
 # Edit
 cmd/32/dsbeditdoc.svg cmd/32/editdoc.svg
