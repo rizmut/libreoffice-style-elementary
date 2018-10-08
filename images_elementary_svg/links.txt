@@ -1155,13 +1155,10 @@ cmd/sc_gridmenu.svg cmd/sc_gridvisible.svg
 
 # Crop
 cmd/32/grafattrcrop.svg cmd/32/crop.svg
-cmd/32/transformdialog.svg cmd/32/crop.svg
 
 cmd/lc_grafattrcrop.svg cmd/lc_crop.svg
-cmd/lc_transformdialog.svg cmd/lc_crop.svg
 
 cmd/sc_grafattrcrop.svg cmd/sc_crop.svg
-cmd/sc_transformdialog.svg cmd/sc_crop.svg
 
 # Group
 cmd/32/formatgroup.svg cmd/32/group.svg
