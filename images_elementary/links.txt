@@ -1155,13 +1155,10 @@ cmd/sc_gridmenu.png cmd/sc_gridvisible.png
 
 # Crop
 cmd/32/grafattrcrop.png cmd/32/crop.png
-cmd/32/transformdialog.png cmd/32/crop.png
 
 cmd/lc_grafattrcrop.png cmd/lc_crop.png
-cmd/lc_transformdialog.png cmd/lc_crop.png
 
 cmd/sc_grafattrcrop.png cmd/sc_crop.png
-cmd/sc_transformdialog.png cmd/sc_crop.png
 
 # Group
 cmd/32/formatgroup.png cmd/32/group.png
