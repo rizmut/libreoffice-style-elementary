@@ -747,16 +747,13 @@ cmd/sc_closewin.svg cmd/sc_quit.svg
 
 # Close
 cmd/32/closedocs.svg cmd/32/closedoc.svg
-cmd/32/closepreview.svg cmd/32/closedoc.svg
-cmd/32/exitsearch.svg cmd/32/closedoc.svg
+cmd/32/exitsearch.svg cmd/32/closepreview.svg
 
 cmd/lc_closedocs.svg cmd/lc_closedoc.svg
-cmd/lc_closepreview.svg cmd/lc_closedoc.svg
-cmd/lc_exitsearch.svg cmd/lc_closedoc.svg
+cmd/lc_exitsearch.svg cmd/lc_closepreview.svg
 
 cmd/sc_closedocs.svg cmd/sc_closedoc.svg
-cmd/sc_closepreview.svg cmd/sc_closedoc.svg
-cmd/sc_exitsearch.svg cmd/sc_closedoc.svg
+cmd/sc_exitsearch.svg cmd/sc_closepreview.svg
 
 # Cancel
 cmd/32/no.svg cmd/32/cancel.svg
@@ -1574,9 +1571,26 @@ res/lc10715.svg cmd/lc_datafilterstandardfilter.svg
 res/lc10716.svg cmd/lc_datafilterautofilter.svg
 res/lc10853.svg cmd/lc_recsearch.svg
 
+res/lx03123.svg res/odp_32_8.svg
+res/lx03127.svg res/ods_32_8.svg
+res/lx03129.svg res/odb_32_8.svg
+res/lx03130.svg res/odp_32_8.svg
+res/lx03144.svg res/odf_32_8.svg
 res/lx03145.svg res/odf_32_8.svg
+res/lx03145.svg res/odf_32_8.svg
+res/lx03162.svg res/odt_32_8.svg
+res/lx03160.svg res/odg_32_8.svg
 res/lx03165.svg cmd/lc_save.svg
 res/lx03189.svg cmd/lc_open.svg
+res/lx03227.svg res/odg_32_8.svg
+res/lx03228.svg res/odg_32_8.svg
+res/lx03245.svg res/odb_32_8.svg
+res/lx03246.svg res/odg_32_8.svg
+res/lx03247.svg res/odf_32_8.svg
+res/lx03249.svg res/odp_32_8.svg
+res/lx03250.svg res/ods_32_8.svg
+res/lx03251.svg res/odt_32_8.svg
+res/lx03253.svg res/odp_32_8.svg
 res/sc05501.svg cmd/sc_open.svg
 res/lx03256.svg cmd/lc_insertplugin.svg
 
