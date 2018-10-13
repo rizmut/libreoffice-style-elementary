@@ -84,6 +84,7 @@ cmd/32/insertpushbutton.png cmd/32/pushbutton.png
 cmd/32/insertrowbreak.png cmd/32/insertpagebreak.png
 cmd/32/insertrowsbefore.png cmd/32/insertrows.png
 cmd/32/insertslidefield.png cmd/32/insertslidenumber.png
+cmd/32/insertslidetitlefield.png cmd/32/inserttitlefield.png
 cmd/32/insertspreadsheet.png cmd/32/togglesheetgrid.png
 cmd/32/inserttextframe.png cmd/32/insertframe.png
 cmd/32/inserttimefield.png cmd/32/timefield.png
@@ -140,6 +141,7 @@ cmd/lc_insertrowbreak.png cmd/lc_insertpagebreak.png
 cmd/lc_insertrowsbefore.png cmd/lc_insertrows.png
 cmd/lc_insertsignatureline.png cmd/lc_signaturelinedialog.png
 cmd/lc_insertslidefield.png cmd/lc_insertslidenumber.png
+cmd/lc_insertslidetitlefield.png cmd/lc_inserttitlefield.png
 cmd/lc_insertspreadsheet.png cmd/lc_togglesheetgrid.png
 cmd/lc_inserttextframe.png cmd/lc_insertframe.png
 cmd/lc_inserttimefield.png cmd/lc_timefield.png
@@ -196,6 +198,7 @@ cmd/sc_insertrowbreak.png cmd/sc_insertpagebreak.png
 cmd/sc_insertrowsbefore.png cmd/sc_insertrows.png
 cmd/sc_insertsignatureline.png cmd/sc_signaturelinedialog.png
 cmd/sc_insertslidefield.png cmd/sc_insertslidenumber.png
+cmd/sc_insertslidetitlefield.png cmd/sc_inserttitlefield.png
 cmd/sc_insertspreadsheet.png cmd/sc_togglesheetgrid.png
 cmd/sc_inserttextframe.png cmd/sc_insertframe.png
 cmd/sc_inserttimefield.png cmd/sc_timefield.png

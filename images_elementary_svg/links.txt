@@ -84,6 +84,7 @@ cmd/32/insertpushbutton.svg cmd/32/pushbutton.svg
 cmd/32/insertrowbreak.svg cmd/32/insertpagebreak.svg
 cmd/32/insertrowsbefore.svg cmd/32/insertrows.svg
 cmd/32/insertslidefield.svg cmd/32/insertslidenumber.svg
+cmd/32/insertslidetitlefield.svg cmd/32/inserttitlefield.svg
 cmd/32/insertspreadsheet.svg cmd/32/togglesheetgrid.svg
 cmd/32/inserttextframe.svg cmd/32/insertframe.svg
 cmd/32/inserttimefield.svg cmd/32/timefield.svg
@@ -140,6 +141,7 @@ cmd/lc_insertrowbreak.svg cmd/lc_insertpagebreak.svg
 cmd/lc_insertrowsbefore.svg cmd/lc_insertrows.svg
 cmd/lc_insertsignatureline.svg cmd/lc_signaturelinedialog.svg
 cmd/lc_insertslidefield.svg cmd/lc_insertslidenumber.svg
+cmd/lc_insertslidetitlefield.svg cmd/lc_inserttitlefield.svg
 cmd/lc_insertspreadsheet.svg cmd/lc_togglesheetgrid.svg
 cmd/lc_inserttextframe.svg cmd/lc_insertframe.svg
 cmd/lc_inserttimefield.svg cmd/lc_timefield.svg
@@ -196,6 +198,7 @@ cmd/sc_insertrowbreak.svg cmd/sc_insertpagebreak.svg
 cmd/sc_insertrowsbefore.svg cmd/sc_insertrows.svg
 cmd/sc_insertsignatureline.svg cmd/sc_signaturelinedialog.svg
 cmd/sc_insertslidefield.svg cmd/sc_insertslidenumber.svg
+cmd/sc_insertslidetitlefield.svg cmd/sc_inserttitlefield.svg
 cmd/sc_insertspreadsheet.svg cmd/sc_togglesheetgrid.svg
 cmd/sc_inserttextframe.svg cmd/sc_insertframe.svg
 cmd/sc_inserttimefield.svg cmd/sc_timefield.svg
