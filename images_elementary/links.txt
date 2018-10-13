@@ -1364,7 +1364,7 @@ cmd/32/dbnewtable.png cmd/32/inserttable.png
 cmd/32/inscellsctrl.png cmd/32/inserttable.png
 cmd/32/rowoperations.png cmd/32/entirerow.png
 cmd/32/setoptimalcolumnwidthdirect.png cmd/32/setoptimalcolumnwidth.png
-cmd/32/starchartdialog.png cmd/32/insertobjectdialog.png
+cmd/32/starchartdialog.png cmd/32/drawchart.png
 
 cmd/lc_cellprotection.png cmd/lc_protect.png
 cmd/lc_columnoperations.png cmd/lc_entirecolumn.png
@@ -1372,7 +1372,7 @@ cmd/lc_dbnewtable.png cmd/lc_inserttable.png
 cmd/lc_inscellsctrl.png cmd/lc_inserttable.png
 cmd/lc_rowoperations.png cmd/lc_entirerow.png
 cmd/lc_setoptimalcolumnwidthdirect.png cmd/lc_setoptimalcolumnwidth.png
-cmd/lc_starchartdialog.png cmd/lc_insertobjectdialog.png
+cmd/lc_starchartdialog.png cmd/lc_drawchart.png
 
 cmd/sc_cellprotection.png cmd/sc_protect.png
 cmd/sc_columnoperations.png cmd/sc_entirecolumn.png
@@ -1380,7 +1380,7 @@ cmd/sc_dbnewtable.png cmd/sc_inserttable.png
 cmd/sc_inscellsctrl.png cmd/sc_inserttable.png
 cmd/sc_rowoperations.png cmd/sc_entirerow.png
 cmd/sc_setoptimalcolumnwidthdirect.png cmd/sc_setoptimalcolumnwidth.png
-cmd/sc_starchartdialog.png cmd/sc_insertobjectdialog.png
+cmd/sc_starchartdialog.png cmd/sc_drawchart.png
 
 # Help
 cmd/32/absoluterecord.png cmd/32/helpindex.png
