@@ -1732,7 +1732,7 @@ sfx2/res/actiontemplates016.svg cmd/lc_configuredialog.svg
 sfx2/res/actiontemplates018.svg cmd/lc_delete.svg
 sfx2/res/actiontemplates019.svg cmd/lc_editdoc.svg
 sfx2/res/actiontemplates020.svg cmd/lc_exportto.svg
-sfx2/res/actionview010.svg cmd/lc_importfromfile.svg
+sfx2/res/actionview010.svg cmd/lc_dataimport.svg
 sfx2/res/actionview025.svg cmd/lc_delete.svg
 sfx2/res/actionview028.svg cmd/lc_save.svg
 sfx2/res/actionview030.svg cmd/lc_open.svg
