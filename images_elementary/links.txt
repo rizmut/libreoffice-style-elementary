@@ -1852,7 +1852,7 @@ svx/res/nu03.png cmd/sc_addwatch.png
 svx/res/ole.png sc/res/nc05.png
 svx/res/persp3d.png cmd/lc_extrusiondirectionfloater.png
 svx/res/parallel_16.png cmd/sc_extrusiondepthfloater.png
-svx/res/perspective_16.png cmd/lc_extrusiondirectionfloater.png
+svx/res/perspective_16.png cmd/sc_extrusiondirectionfloater.png
 svx/res/reloads.png cmd/sc_reload.png
 svx/res/rotate3d.png cmd/sc_convertinto3dlathe.png
 svx/res/signet_11x16.png xmlsecurity/res/certificate_16.png
