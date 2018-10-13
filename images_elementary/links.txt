@@ -1318,13 +1318,10 @@ cmd/sc_selectmode.png cmd/sc_selectobject.png
 
 # Navigator
 cmd/32/navigationbar.png cmd/32/navigator.png
-cmd/32/reportnavigator.png cmd/32/navigator.png
 
 cmd/lc_navigationbar.png cmd/lc_navigator.png
-cmd/lc_reportnavigator.png cmd/lc_navigator.png
 
 cmd/sc_navigationbar.png cmd/sc_navigator.png
-cmd/sc_reportnavigator.png cmd/sc_navigator.png
 
 # Database
 cmd/32/dbdtableedit.png cmd/32/dbtableedit.png

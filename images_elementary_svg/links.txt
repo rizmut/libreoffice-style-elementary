@@ -1318,13 +1318,10 @@ cmd/sc_selectmode.svg cmd/sc_selectobject.svg
 
 # Navigator
 cmd/32/navigationbar.svg cmd/32/navigator.svg
-cmd/32/reportnavigator.svg cmd/32/navigator.svg
 
 cmd/lc_navigationbar.svg cmd/lc_navigator.svg
-cmd/lc_reportnavigator.svg cmd/lc_navigator.svg
 
 cmd/sc_navigationbar.svg cmd/sc_navigator.svg
-cmd/sc_reportnavigator.svg cmd/sc_navigator.svg
 
 # Database
 cmd/32/dbdtableedit.svg cmd/32/dbtableedit.svg
