@@ -1851,8 +1851,6 @@ svx/res/nu03.svg cmd/sc_addwatch.svg
 
 svx/res/ole.svg sc/res/nc05.svg
 svx/res/persp3d.svg cmd/lc_extrusiondirectionfloater.svg
-svx/res/parallel_16.svg cmd/sc_extrusiondepthfloater.svg
-svx/res/perspective_16.svg cmd/sc_extrusiondirectionfloater.svg
 svx/res/reloads.svg cmd/sc_reload.svg
 svx/res/rotate3d.svg cmd/sc_convertinto3dlathe.svg
 svx/res/signet_11x16.svg xmlsecurity/res/certificate_16.svg
