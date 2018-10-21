@@ -32,15 +32,15 @@ chart2/res/selectrange.svg formula/res/refinp1.svg
 # Add
 cmd/32/adddatefield.svg cmd/32/datefield.svg
 cmd/32/addons.svg cmd/32/insertplugin.svg
-cmd/32/addtable.svg cmd/32/inserttable.svg
+cmd/32/addtable.svg cmd/32/dbnewtable.svg
 
 cmd/lc_adddatefield.svg cmd/lc_datefield.svg
 cmd/lc_addons.svg cmd/lc_insertplugin.svg
-cmd/lc_addtable.svg cmd/lc_inserttable.svg
+cmd/lc_addtable.svg cmd/lc_dbnewtable.svg
 
 cmd/sc_adddatefield.svg cmd/sc_datefield.svg
 cmd/sc_addons.svg cmd/sc_insertplugin.svg
-cmd/sc_addtable.svg cmd/sc_inserttable.svg
+cmd/sc_addtable.svg cmd/sc_dbnewtable.svg
 
 # Insert
 cmd/32/charmapcontrol.svg cmd/32/insertsymbol.svg

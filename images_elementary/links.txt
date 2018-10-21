@@ -32,15 +32,15 @@ chart2/res/selectrange.png formula/res/refinp1.png
 # Add
 cmd/32/adddatefield.png cmd/32/datefield.png
 cmd/32/addons.png cmd/32/insertplugin.png
-cmd/32/addtable.png cmd/32/inserttable.png
+cmd/32/addtable.png cmd/32/dbnewtable.png
 
 cmd/lc_adddatefield.png cmd/lc_datefield.png
 cmd/lc_addons.png cmd/lc_insertplugin.png
-cmd/lc_addtable.png cmd/lc_inserttable.png
+cmd/lc_addtable.png cmd/lc_dbnewtable.png
 
 cmd/sc_adddatefield.png cmd/sc_datefield.png
 cmd/sc_addons.png cmd/sc_insertplugin.png
-cmd/sc_addtable.png cmd/sc_inserttable.png
+cmd/sc_addtable.png cmd/sc_dbnewtable.png
 
 # Insert
 cmd/32/charmapcontrol.png cmd/32/insertsymbol.png
