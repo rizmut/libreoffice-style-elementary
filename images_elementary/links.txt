@@ -565,22 +565,10 @@ cmd/sc_sendfax.png cmd/sc_print.png
 
 # Delete
 cmd/32/deleterecord.png cmd/32/delete.png
-cmd/32/dbreportdelete.png cmd/32/delete.png
-cmd/32/dbquerydelete.png cmd/32/delete.png
-cmd/32/dbformdelete.png cmd/32/delete.png
-cmd/32/dbclearquery.png cmd/32/delete.png
 
 cmd/lc_deleterecord.png cmd/lc_delete.png
-cmd/lc_dbreportdelete.png cmd/lc_delete.png
-cmd/lc_dbquerydelete.png cmd/lc_delete.png
-cmd/lc_dbformdelete.png cmd/lc_delete.png
-cmd/lc_dbclearquery.png cmd/lc_delete.png
 
 cmd/sc_deleterecord.png cmd/sc_delete.png
-cmd/sc_dbreportdelete.png cmd/sc_delete.png
-cmd/sc_dbquerydelete.png cmd/sc_delete.png
-cmd/sc_dbformdelete.png cmd/sc_delete.png
-cmd/sc_dbclearquery.png cmd/sc_delete.png
 
 # Folder
 cmd/32/dbtableopen.png cmd/32/open.png

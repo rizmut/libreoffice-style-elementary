@@ -565,22 +565,10 @@ cmd/sc_sendfax.svg cmd/sc_print.svg
 
 # Delete
 cmd/32/deleterecord.svg cmd/32/delete.svg
-cmd/32/dbreportdelete.svg cmd/32/delete.svg
-cmd/32/dbquerydelete.svg cmd/32/delete.svg
-cmd/32/dbformdelete.svg cmd/32/delete.svg
-cmd/32/dbclearquery.svg cmd/32/delete.svg
 
 cmd/lc_deleterecord.svg cmd/lc_delete.svg
-cmd/lc_dbreportdelete.svg cmd/lc_delete.svg
-cmd/lc_dbquerydelete.svg cmd/lc_delete.svg
-cmd/lc_dbformdelete.svg cmd/lc_delete.svg
-cmd/lc_dbclearquery.svg cmd/lc_delete.svg
 
 cmd/sc_deleterecord.svg cmd/sc_delete.svg
-cmd/sc_dbreportdelete.svg cmd/sc_delete.svg
-cmd/sc_dbquerydelete.svg cmd/sc_delete.svg
-cmd/sc_dbformdelete.svg cmd/sc_delete.svg
-cmd/sc_dbclearquery.svg cmd/sc_delete.svg
 
 # Folder
 cmd/32/dbtableopen.svg cmd/32/open.svg
