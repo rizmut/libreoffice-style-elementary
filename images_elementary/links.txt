@@ -565,21 +565,18 @@ cmd/sc_sendfax.png cmd/sc_print.png
 
 # Delete
 cmd/32/deleterecord.png cmd/32/delete.png
-cmd/32/dbtabledelete.png cmd/32/delete.png
 cmd/32/dbreportdelete.png cmd/32/delete.png
 cmd/32/dbquerydelete.png cmd/32/delete.png
 cmd/32/dbformdelete.png cmd/32/delete.png
 cmd/32/dbclearquery.png cmd/32/delete.png
 
 cmd/lc_deleterecord.png cmd/lc_delete.png
-cmd/lc_dbtabledelete.png cmd/lc_delete.png
 cmd/lc_dbreportdelete.png cmd/lc_delete.png
 cmd/lc_dbquerydelete.png cmd/lc_delete.png
 cmd/lc_dbformdelete.png cmd/lc_delete.png
 cmd/lc_dbclearquery.png cmd/lc_delete.png
 
 cmd/sc_deleterecord.png cmd/sc_delete.png
-cmd/sc_dbtabledelete.png cmd/sc_delete.png
 cmd/sc_dbreportdelete.png cmd/sc_delete.png
 cmd/sc_dbquerydelete.png cmd/sc_delete.png
 cmd/sc_dbformdelete.png cmd/sc_delete.png
@@ -1360,7 +1357,6 @@ cmd/sc_pluginsactive.png cmd/sc_insertplugin.png
 # Table
 cmd/32/cellprotection.png cmd/32/protect.png
 cmd/32/columnoperations.png cmd/32/entirecolumn.png
-cmd/32/dbnewtable.png cmd/32/inserttable.png
 cmd/32/inscellsctrl.png cmd/32/inserttable.png
 cmd/32/rowoperations.png cmd/32/entirerow.png
 cmd/32/setoptimalcolumnwidthdirect.png cmd/32/setoptimalcolumnwidth.png
@@ -1368,7 +1364,6 @@ cmd/32/starchartdialog.png cmd/32/drawchart.png
 
 cmd/lc_cellprotection.png cmd/lc_protect.png
 cmd/lc_columnoperations.png cmd/lc_entirecolumn.png
-cmd/lc_dbnewtable.png cmd/lc_inserttable.png
 cmd/lc_inscellsctrl.png cmd/lc_inserttable.png
 cmd/lc_rowoperations.png cmd/lc_entirerow.png
 cmd/lc_setoptimalcolumnwidthdirect.png cmd/lc_setoptimalcolumnwidth.png
@@ -1376,7 +1371,6 @@ cmd/lc_starchartdialog.png cmd/lc_drawchart.png
 
 cmd/sc_cellprotection.png cmd/sc_protect.png
 cmd/sc_columnoperations.png cmd/sc_entirecolumn.png
-cmd/sc_dbnewtable.png cmd/sc_inserttable.png
 cmd/sc_inscellsctrl.png cmd/sc_inserttable.png
 cmd/sc_rowoperations.png cmd/sc_entirerow.png
 cmd/sc_setoptimalcolumnwidthdirect.png cmd/sc_setoptimalcolumnwidth.png
@@ -1638,8 +1632,11 @@ res/sc10868.png cmd/sc_graphicfilterinvert.png
 res/sc10869.png cmd/sc_graftransparence.png
 
 res/sc_helperdialog.png cmd/sc_helpindex.png
+res/sx03127.png res/sx03126.png
+res/sx03132.png res/sx03126.png
 res/sx03141.png formula/res/fapclose.png
 res/sx03187.png cmd/sc_inserttable.png
+res/sx03188.png res/sx03126.png
 res/sx03189.png formula/res/fapclose.png
 res/sx03202.png cmd/sc_viewdatasourcebrowser.png
 res/sx03256.png cmd/sc_insertplugin.png

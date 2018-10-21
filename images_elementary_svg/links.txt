@@ -565,21 +565,18 @@ cmd/sc_sendfax.svg cmd/sc_print.svg
 
 # Delete
 cmd/32/deleterecord.svg cmd/32/delete.svg
-cmd/32/dbtabledelete.svg cmd/32/delete.svg
 cmd/32/dbreportdelete.svg cmd/32/delete.svg
 cmd/32/dbquerydelete.svg cmd/32/delete.svg
 cmd/32/dbformdelete.svg cmd/32/delete.svg
 cmd/32/dbclearquery.svg cmd/32/delete.svg
 
 cmd/lc_deleterecord.svg cmd/lc_delete.svg
-cmd/lc_dbtabledelete.svg cmd/lc_delete.svg
 cmd/lc_dbreportdelete.svg cmd/lc_delete.svg
 cmd/lc_dbquerydelete.svg cmd/lc_delete.svg
 cmd/lc_dbformdelete.svg cmd/lc_delete.svg
 cmd/lc_dbclearquery.svg cmd/lc_delete.svg
 
 cmd/sc_deleterecord.svg cmd/sc_delete.svg
-cmd/sc_dbtabledelete.svg cmd/sc_delete.svg
 cmd/sc_dbreportdelete.svg cmd/sc_delete.svg
 cmd/sc_dbquerydelete.svg cmd/sc_delete.svg
 cmd/sc_dbformdelete.svg cmd/sc_delete.svg
@@ -1360,7 +1357,6 @@ cmd/sc_pluginsactive.svg cmd/sc_insertplugin.svg
 # Table
 cmd/32/cellprotection.svg cmd/32/protect.svg
 cmd/32/columnoperations.svg cmd/32/entirecolumn.svg
-cmd/32/dbnewtable.svg cmd/32/inserttable.svg
 cmd/32/inscellsctrl.svg cmd/32/inserttable.svg
 cmd/32/rowoperations.svg cmd/32/entirerow.svg
 cmd/32/setoptimalcolumnwidthdirect.svg cmd/32/setoptimalcolumnwidth.svg
@@ -1368,7 +1364,6 @@ cmd/32/starchartdialog.svg cmd/32/drawchart.svg
 
 cmd/lc_cellprotection.svg cmd/lc_protect.svg
 cmd/lc_columnoperations.svg cmd/lc_entirecolumn.svg
-cmd/lc_dbnewtable.svg cmd/lc_inserttable.svg
 cmd/lc_inscellsctrl.svg cmd/lc_inserttable.svg
 cmd/lc_rowoperations.svg cmd/lc_entirerow.svg
 cmd/lc_setoptimalcolumnwidthdirect.svg cmd/lc_setoptimalcolumnwidth.svg
@@ -1376,7 +1371,6 @@ cmd/lc_starchartdialog.svg cmd/lc_drawchart.svg
 
 cmd/sc_cellprotection.svg cmd/sc_protect.svg
 cmd/sc_columnoperations.svg cmd/sc_entirecolumn.svg
-cmd/sc_dbnewtable.svg cmd/sc_inserttable.svg
 cmd/sc_inscellsctrl.svg cmd/sc_inserttable.svg
 cmd/sc_rowoperations.svg cmd/sc_entirerow.svg
 cmd/sc_setoptimalcolumnwidthdirect.svg cmd/sc_setoptimalcolumnwidth.svg
@@ -1638,8 +1632,11 @@ res/sc10868.svg cmd/sc_graphicfilterinvert.svg
 res/sc10869.svg cmd/sc_graftransparence.svg
 
 res/sc_helperdialog.svg cmd/sc_helpindex.svg
+res/sx03127.svg res/sx03126.svg
+res/sx03132.svg res/sx03126.svg
 res/sx03141.svg formula/res/fapclose.svg
 res/sx03187.svg cmd/sc_inserttable.svg
+res/sx03188.svg res/sx03126.svg
 res/sx03189.svg formula/res/fapclose.svg
 res/sx03202.svg cmd/sc_viewdatasourcebrowser.svg
 res/sx03256.svg cmd/sc_insertplugin.svg
