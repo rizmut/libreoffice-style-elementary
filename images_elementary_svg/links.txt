@@ -1729,8 +1729,8 @@ sfx2/res/plus.svg res/plus.svg
 sfx2/res/symphony/open_more.svg cmd/lc_controlproperties.svg
 sfx2/res/symphony/sidebar-3d-large.svg cmd/lc_cube.svg
 sfx2/res/symphony/sidebar-3d-small.svg cmd/sc_cube.svg
-sfx2/res/symphony/sidebar-animation-large.svg cmd/lc_animationobjects.svg
-sfx2/res/symphony/sidebar-animation-small.svg cmd/sc_animationobjects.svg
+sfx2/res/symphony/sidebar-animation-large.svg cmd/lc_customanimation.svg
+sfx2/res/symphony/sidebar-animation-small.svg cmd/sc_customanimation.svg
 sfx2/res/symphony/sidebar-colors-large.svg cmd/lc_bmpmask.svg
 sfx2/res/symphony/sidebar-colors-small.svg cmd/sc_bmpmask.svg
 sfx2/res/symphony/sidebar-functions-large.svg cmd/lc_dbviewfunctions.svg
