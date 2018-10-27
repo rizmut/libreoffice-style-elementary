@@ -353,11 +353,6 @@ cmd/32/templatemenu.png cmd/32/templatemanager.png
 cmd/lc_templatemenu.png cmd/lc_templatemanager.png
 cmd/sc_templatemenu.png cmd/sc_templatemanager.png
 
-# Animation
-cmd/32/customanimation.png cmd/32/animationobjects.png
-cmd/lc_customanimation.png cmd/lc_animationobjects.png
-cmd/sc_customanimation.png cmd/sc_animationobjects.png
-
 # Media
 cmd/32/datastreamsplay.png cmd/32/runbasic.png
 cmd/32/datastreamsstop.png cmd/32/basicstop.png

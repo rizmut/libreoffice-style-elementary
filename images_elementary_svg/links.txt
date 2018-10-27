@@ -353,11 +353,6 @@ cmd/32/templatemenu.svg cmd/32/templatemanager.svg
 cmd/lc_templatemenu.svg cmd/lc_templatemanager.svg
 cmd/sc_templatemenu.svg cmd/sc_templatemanager.svg
 
-# Animation
-cmd/32/customanimation.svg cmd/32/animationobjects.svg
-cmd/lc_customanimation.svg cmd/lc_animationobjects.svg
-cmd/sc_customanimation.svg cmd/sc_animationobjects.svg
-
 # Media
 cmd/32/datastreamsplay.svg cmd/32/runbasic.svg
 cmd/32/datastreamsstop.svg cmd/32/basicstop.svg
