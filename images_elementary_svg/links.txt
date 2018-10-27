@@ -282,15 +282,12 @@ cmd/sc_objectcatalog.svg cmd/sc_dbnewform.svg
 # 3d
 cmd/32/view3d.svg cmd/32/cube.svg
 cmd/32/objects3dtoolbox.svg cmd/32/cube.svg
-cmd/32/convertinto3dlathefast.svg cmd/32/convertinto3dlathe.svg
 
 cmd/lc_view3d.svg cmd/lc_cube.svg
 cmd/lc_objects3dtoolbox.svg cmd/lc_cube.svg
-cmd/lc_convertinto3dlathefast.svg cmd/lc_convertinto3dlathe.svg
 
 cmd/sc_view3d.svg cmd/sc_cube.svg
 cmd/sc_objects3dtoolbox.svg cmd/sc_cube.svg
-cmd/sc_convertinto3dlathefast.svg cmd/sc_convertinto3dlathe.svg
 
 # Control
 cmd/32/optionstreedialog.svg cmd/32/controlproperties.svg
@@ -673,16 +670,11 @@ cmd/sc_formatbulletsmenu.svg cmd/sc_defaultbullet.svg
 cmd/sc_formatframemenu.svg cmd/sc_chainframes.svg
 
 # Group
-cmd/32/formatgroup.svg cmd/32/group.svg
-cmd/32/formatungroup.svg cmd/32/ungroup.svg
+
 cmd/32/leaveallgroups.svg cmd/32/leavegroup.svg
 
-cmd/lc_formatgroup.svg cmd/lc_group.svg
-cmd/lc_formatungroup.svg cmd/lc_ungroup.svg
 cmd/lc_leaveallgroups.svg cmd/lc_leavegroup.svg
 
-cmd/sc_formatgroup.svg cmd/sc_group.svg
-cmd/sc_formatungroup.svg cmd/sc_ungroup.svg
 cmd/sc_leaveallgroups.svg cmd/sc_leavegroup.svg
 
 
@@ -1152,12 +1144,10 @@ cmd/lc_grafattrcrop.svg cmd/lc_crop.svg
 cmd/sc_grafattrcrop.svg cmd/sc_crop.svg
 
 # Group
-cmd/32/formatgroup.svg cmd/32/group.svg
-cmd/32/groupmenu.svg cmd/32/group.svg
-cmd/lc_formatgroup.svg cmd/lc_group.svg
-cmd/lc_groupmenu.svg cmd/lc_group.svg
-cmd/sc_groupmenu.svg cmd/sc_group.svg
-cmd/sc_formatgroup.svg cmd/sc_group.svg
+cmd/32/groupmenu.svg cmd/32/formatgroup.svg
+cmd/lc_groupmenu.svg cmd/lc_formatgroup.svg
+cmd/sc_groupmenu.svg cmd/sc_formatgroup.svg
+
 
 # Extrusion Rotate
 cmd/32/rulerrows.svg cmd/32/extrusiontiltleft.svg
@@ -1607,7 +1597,8 @@ res/sc05961.svg cmd/sc_recsearch.svg
 res/sc06300.svg cmd/sc_nextrecord.svg
 res/sc06301.svg cmd/sc_prevrecord.svg
 res/sc06303.svg cmd/sc_firstrecord.svg
-
+res/sc10223.svg cmd/sc_position.svg
+res/sc10224.svg cmd/sc_size.svg
 res/sc10350.svg cmd/sc_bmpmask.svg
 res/sc10711.svg cmd/sc_removefiltersort.svg
 res/sc10712.svg cmd/sc_sortascending.svg
@@ -1701,7 +1692,7 @@ sd/res/comments_indicator.svg cmd/sc_showannotations.svg
 sd/res/get1obj.svg cmd/sc_selectobject.svg
 sd/res/getallob.svg cmd/sc_selectall.svg
 sd/res/graphic.svg cmd/sc_graphic.svg
-sd/res/group.svg cmd/sc_group.svg
+sd/res/group.svg cmd/sc_formatgroup.svg
 sd/res/objects.svg cmd/sc_choosepolygon.svg
 sd/res/ole.svg sc/res/nc05.svg
 sd/res/page.svg cmd/sc_adddirect.svg

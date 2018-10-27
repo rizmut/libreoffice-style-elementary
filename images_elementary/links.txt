@@ -282,15 +282,12 @@ cmd/sc_objectcatalog.png cmd/sc_dbnewform.png
 # 3d
 cmd/32/view3d.png cmd/32/cube.png
 cmd/32/objects3dtoolbox.png cmd/32/cube.png
-cmd/32/convertinto3dlathefast.png cmd/32/convertinto3dlathe.png
 
 cmd/lc_view3d.png cmd/lc_cube.png
 cmd/lc_objects3dtoolbox.png cmd/lc_cube.png
-cmd/lc_convertinto3dlathefast.png cmd/lc_convertinto3dlathe.png
 
 cmd/sc_view3d.png cmd/sc_cube.png
 cmd/sc_objects3dtoolbox.png cmd/sc_cube.png
-cmd/sc_convertinto3dlathefast.png cmd/sc_convertinto3dlathe.png
 
 # Control
 cmd/32/optionstreedialog.png cmd/32/controlproperties.png
@@ -673,16 +670,11 @@ cmd/sc_formatbulletsmenu.png cmd/sc_defaultbullet.png
 cmd/sc_formatframemenu.png cmd/sc_chainframes.png
 
 # Group
-cmd/32/formatgroup.png cmd/32/group.png
-cmd/32/formatungroup.png cmd/32/ungroup.png
+
 cmd/32/leaveallgroups.png cmd/32/leavegroup.png
 
-cmd/lc_formatgroup.png cmd/lc_group.png
-cmd/lc_formatungroup.png cmd/lc_ungroup.png
 cmd/lc_leaveallgroups.png cmd/lc_leavegroup.png
 
-cmd/sc_formatgroup.png cmd/sc_group.png
-cmd/sc_formatungroup.png cmd/sc_ungroup.png
 cmd/sc_leaveallgroups.png cmd/sc_leavegroup.png
 
 
@@ -1152,12 +1144,10 @@ cmd/lc_grafattrcrop.png cmd/lc_crop.png
 cmd/sc_grafattrcrop.png cmd/sc_crop.png
 
 # Group
-cmd/32/formatgroup.png cmd/32/group.png
-cmd/32/groupmenu.png cmd/32/group.png
-cmd/lc_formatgroup.png cmd/lc_group.png
-cmd/lc_groupmenu.png cmd/lc_group.png
-cmd/sc_groupmenu.png cmd/sc_group.png
-cmd/sc_formatgroup.png cmd/sc_group.png
+cmd/32/groupmenu.png cmd/32/formatgroup.png
+cmd/lc_groupmenu.png cmd/lc_formatgroup.png
+cmd/sc_groupmenu.png cmd/sc_formatgroup.png
+
 
 # Extrusion Rotate
 cmd/32/rulerrows.png cmd/32/extrusiontiltleft.png
@@ -1607,7 +1597,8 @@ res/sc05961.png cmd/sc_recsearch.png
 res/sc06300.png cmd/sc_nextrecord.png
 res/sc06301.png cmd/sc_prevrecord.png
 res/sc06303.png cmd/sc_firstrecord.png
-
+res/sc10223.png cmd/sc_position.png
+res/sc10224.png cmd/sc_size.png
 res/sc10350.png cmd/sc_bmpmask.png
 res/sc10711.png cmd/sc_removefiltersort.png
 res/sc10712.png cmd/sc_sortascending.png
@@ -1701,7 +1692,7 @@ sd/res/comments_indicator.png cmd/sc_showannotations.png
 sd/res/get1obj.png cmd/sc_selectobject.png
 sd/res/getallob.png cmd/sc_selectall.png
 sd/res/graphic.png cmd/sc_graphic.png
-sd/res/group.png cmd/sc_group.png
+sd/res/group.png cmd/sc_formatgroup.png
 sd/res/objects.png cmd/sc_choosepolygon.png
 sd/res/ole.png sc/res/nc05.png
 sd/res/page.png cmd/sc_adddirect.png
