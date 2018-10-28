@@ -17,7 +17,6 @@ avmedia/res/avl02054.png cmd/lc_mediamute.png
 
 # chart2
 # ==============================================
-chart2/res/nserr.png cmd/sc_insertrowsafter.png
 chart2/res/dataeditor_icon01.png cmd/sc_insertrowsafter.png
 chart2/res/dataeditor_icon02.png cmd/sc_insertcolumnsafter.png
 chart2/res/dataeditor_icon03.png cmd/sc_deleterows.png
@@ -663,13 +662,9 @@ cmd/sc_formatbulletsmenu.png cmd/sc_defaultbullet.png
 cmd/sc_formatframemenu.png cmd/sc_chainframes.png
 
 # Group
-
 cmd/32/leaveallgroups.png cmd/32/leavegroup.png
-
 cmd/lc_leaveallgroups.png cmd/lc_leavegroup.png
-
 cmd/sc_leaveallgroups.png cmd/sc_leavegroup.png
-
 
 # Undo
 cmd/32/recundo.png cmd/32/undo.png
@@ -691,9 +686,7 @@ cmd/sc_clickchangerotation.png cmd/sc_toggleobjectrotatemode.png
 
 # AddField
 cmd/32/fieldnames.png cmd/32/fields.png
-
 cmd/lc_fieldnames.png cmd/lc_fields.png
-
 cmd/sc_fieldnames.png cmd/sc_fields.png
 
 # Edit
@@ -1131,9 +1124,7 @@ cmd/sc_gridmenu.png cmd/sc_gridvisible.png
 
 # Crop
 cmd/32/grafattrcrop.png cmd/32/crop.png
-
 cmd/lc_grafattrcrop.png cmd/lc_crop.png
-
 cmd/sc_grafattrcrop.png cmd/sc_crop.png
 
 # Group
@@ -1153,7 +1144,6 @@ cmd/sc_rulerrows.png cmd/sc_extrusiontiltleft.png
 cmd/sc_rulerrowsvertical.png cmd/sc_extrusiontiltright.png
 
 # Style
-
 cmd/32/editstyled.png cmd/32/editstyle.png
 cmd/32/loadstyles.png cmd/32/open.png
 cmd/32/viewsidebarstyles.png cmd/32/designerdialog.png
@@ -1218,9 +1208,7 @@ cmd/sc_connectortoolbox.png cmd/sc_connector.png
 
 # Time
 cmd/32/numberformattime.png cmd/32/timefield.png
-
 cmd/lc_numberformattime.png cmd/lc_timefield.png
-
 cmd/sc_numberformattime.png cmd/sc_timefield.png
 
 # Arrange
@@ -1241,7 +1229,6 @@ cmd/sc_objectforwardone.png cmd/sc_forward.png
 
 # Bibliography
 cmd/32/insertauthoritiesentry.png cmd/32/bibliographycomponent.png
-
 cmd/lc_insertauthoritiesentry.png cmd/lc_bibliographycomponent.png
 cmd/sc_insertauthoritiesentry.png cmd/sc_bibliographycomponent.png
 
@@ -1286,9 +1273,7 @@ cmd/sc_selectmode.png cmd/sc_selectobject.png
 
 # Navigator
 cmd/32/navigationbar.png cmd/32/navigator.png
-
 cmd/lc_navigationbar.png cmd/lc_navigator.png
-
 cmd/sc_navigationbar.png cmd/sc_navigator.png
 
 # Database
@@ -1380,6 +1365,7 @@ cmd/sc_charbackcolor.png cmd/sc_backcolor.png
 cmd/sc_setdefault.png cmd/sc_resetattributes.png
 
 # Impress
+cmd/32/slidechangewindow.png cmd/32/dia.png
 cmd/lc_slidechangewindow.png cmd/lc_dia.png
 cmd/sc_slidechangewindow.png cmd/sc_dia.png
 
@@ -1429,8 +1415,6 @@ cmd/sc_nextslide.png cmd/sc_nextrecord.png
 cmd/sc_previousslide.png cmd/sc_prevrecord.png
 cmd/sc_slidesetup.png cmd/sc_pagesetup.png
 
-# other
-cmd/sc_questionanswers.png cmd/sc_browseview.png
 # dbaccess
 # ==============================================
 dbaccess/res/linked_text_table.png cmd/sc_dataimport.png
@@ -1985,6 +1969,9 @@ cmd/sc_formatallnotes.png cmd/sc_editannotation.png
 cmd/sc_showinlinetooltips.png cmd/sc_editannotation.png
 
 # Other
+cmd/32/questionanswers.png cmd/32/browseview.png
+cmd/lc_questionanswers.png cmd/lc_browseview.png
+cmd/sc_questionanswers.png cmd/sc_browseview.png
 
 cmd/32/objecttitledescription.png cmd/32/insertcaptiondialog.png
 cmd/lc_objecttitledescription.png cmd/lc_insertcaptiondialog.png

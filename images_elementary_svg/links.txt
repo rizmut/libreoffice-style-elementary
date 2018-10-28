@@ -17,7 +17,6 @@ avmedia/res/avl02054.svg cmd/lc_mediamute.svg
 
 # chart2
 # ==============================================
-chart2/res/nserr.svg cmd/sc_insertrowsafter.svg
 chart2/res/dataeditor_icon01.svg cmd/sc_insertrowsafter.svg
 chart2/res/dataeditor_icon02.svg cmd/sc_insertcolumnsafter.svg
 chart2/res/dataeditor_icon03.svg cmd/sc_deleterows.svg
@@ -663,13 +662,9 @@ cmd/sc_formatbulletsmenu.svg cmd/sc_defaultbullet.svg
 cmd/sc_formatframemenu.svg cmd/sc_chainframes.svg
 
 # Group
-
 cmd/32/leaveallgroups.svg cmd/32/leavegroup.svg
-
 cmd/lc_leaveallgroups.svg cmd/lc_leavegroup.svg
-
 cmd/sc_leaveallgroups.svg cmd/sc_leavegroup.svg
-
 
 # Undo
 cmd/32/recundo.svg cmd/32/undo.svg
@@ -691,9 +686,7 @@ cmd/sc_clickchangerotation.svg cmd/sc_toggleobjectrotatemode.svg
 
 # AddField
 cmd/32/fieldnames.svg cmd/32/fields.svg
-
 cmd/lc_fieldnames.svg cmd/lc_fields.svg
-
 cmd/sc_fieldnames.svg cmd/sc_fields.svg
 
 # Edit
@@ -1131,9 +1124,7 @@ cmd/sc_gridmenu.svg cmd/sc_gridvisible.svg
 
 # Crop
 cmd/32/grafattrcrop.svg cmd/32/crop.svg
-
 cmd/lc_grafattrcrop.svg cmd/lc_crop.svg
-
 cmd/sc_grafattrcrop.svg cmd/sc_crop.svg
 
 # Group
@@ -1153,7 +1144,6 @@ cmd/sc_rulerrows.svg cmd/sc_extrusiontiltleft.svg
 cmd/sc_rulerrowsvertical.svg cmd/sc_extrusiontiltright.svg
 
 # Style
-
 cmd/32/editstyled.svg cmd/32/editstyle.svg
 cmd/32/loadstyles.svg cmd/32/open.svg
 cmd/32/viewsidebarstyles.svg cmd/32/designerdialog.svg
@@ -1218,9 +1208,7 @@ cmd/sc_connectortoolbox.svg cmd/sc_connector.svg
 
 # Time
 cmd/32/numberformattime.svg cmd/32/timefield.svg
-
 cmd/lc_numberformattime.svg cmd/lc_timefield.svg
-
 cmd/sc_numberformattime.svg cmd/sc_timefield.svg
 
 # Arrange
@@ -1241,7 +1229,6 @@ cmd/sc_objectforwardone.svg cmd/sc_forward.svg
 
 # Bibliography
 cmd/32/insertauthoritiesentry.svg cmd/32/bibliographycomponent.svg
-
 cmd/lc_insertauthoritiesentry.svg cmd/lc_bibliographycomponent.svg
 cmd/sc_insertauthoritiesentry.svg cmd/sc_bibliographycomponent.svg
 
@@ -1286,9 +1273,7 @@ cmd/sc_selectmode.svg cmd/sc_selectobject.svg
 
 # Navigator
 cmd/32/navigationbar.svg cmd/32/navigator.svg
-
 cmd/lc_navigationbar.svg cmd/lc_navigator.svg
-
 cmd/sc_navigationbar.svg cmd/sc_navigator.svg
 
 # Database
@@ -1380,6 +1365,7 @@ cmd/sc_charbackcolor.svg cmd/sc_backcolor.svg
 cmd/sc_setdefault.svg cmd/sc_resetattributes.svg
 
 # Impress
+cmd/32/slidechangewindow.svg cmd/32/dia.svg
 cmd/lc_slidechangewindow.svg cmd/lc_dia.svg
 cmd/sc_slidechangewindow.svg cmd/sc_dia.svg
 
@@ -1429,8 +1415,6 @@ cmd/sc_nextslide.svg cmd/sc_nextrecord.svg
 cmd/sc_previousslide.svg cmd/sc_prevrecord.svg
 cmd/sc_slidesetup.svg cmd/sc_pagesetup.svg
 
-# other
-cmd/sc_questionanswers.svg cmd/sc_browseview.svg
 # dbaccess
 # ==============================================
 dbaccess/res/linked_text_table.svg cmd/sc_dataimport.svg
@@ -1985,6 +1969,9 @@ cmd/sc_formatallnotes.svg cmd/sc_editannotation.svg
 cmd/sc_showinlinetooltips.svg cmd/sc_editannotation.svg
 
 # Other
+cmd/32/questionanswers.svg cmd/32/browseview.svg
+cmd/lc_questionanswers.svg cmd/lc_browseview.svg
+cmd/sc_questionanswers.svg cmd/sc_browseview.svg
 
 cmd/32/objecttitledescription.svg cmd/32/insertcaptiondialog.svg
 cmd/lc_objecttitledescription.svg cmd/lc_insertcaptiondialog.svg
