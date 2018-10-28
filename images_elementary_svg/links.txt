@@ -17,13 +17,11 @@ avmedia/res/avl02054.svg cmd/lc_mediamute.svg
 
 # chart2
 # ==============================================
+chart2/res/nserr.svg cmd/sc_insertrowsafter.svg
 chart2/res/dataeditor_icon01.svg cmd/sc_insertrowsafter.svg
 chart2/res/dataeditor_icon02.svg cmd/sc_insertcolumnsafter.svg
 chart2/res/dataeditor_icon03.svg cmd/sc_deleterows.svg
 chart2/res/dataeditor_icon04.svg cmd/sc_deletecolumns.svg
-chart2/res/dataeditor_icon05.svg cmd/sc_insertcellsright.svg
-chart2/res/dataeditor_icon06.svg cmd/sc_insertcellsdown.svg
-chart2/res/dataeditor_icon07.svg cmd/sc_insertcolumnsafter.svg
 chart2/res/selectrange.svg formula/res/refinp1.svg
 
 # cmd
