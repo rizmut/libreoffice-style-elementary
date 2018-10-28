@@ -1154,12 +1154,6 @@ cmd/lc_rulerrowsvertical.png cmd/lc_extrusiontiltright.png
 cmd/sc_rulerrows.png cmd/sc_extrusiontiltleft.png
 cmd/sc_rulerrowsvertical.png cmd/sc_extrusiontiltright.png
 
-
-# Presentation
-cmd/32/diaauto.png cmd/32/dia.png
-cmd/lc_diaauto.png cmd/lc_dia.png
-cmd/sc_diaauto.png cmd/sc_dia.png
-
 # Style
 
 cmd/32/editstyled.png cmd/32/editstyle.png
@@ -1196,11 +1190,14 @@ cmd/sc_outlineright.png cmd/sc_decrementlevel.png
 cmd/sc_outlineleft.png cmd/sc_decrementindent.png
 
 # Mirror
-cmd/32/mirrorhorz.png cmd/32/mirror.png
+cmd/32/mirrorhorz.png cmd/32/fliphorizontal.png
+cmd/32/mirrorvert.png cmd/32/flipvertical.png
 
-cmd/lc_mirrorhorz.png cmd/lc_mirror.png
+cmd/lc_mirrorhorz.png cmd/lc_fliphorizontal.png
+cmd/lc_mirrorvert.png cmd/lc_flipvertical.png
 
-cmd/sc_mirrorhorz.png cmd/sc_mirror.png
+cmd/sc_mirrorhorz.png cmd/sc_fliphorizontal.png
+cmd/sc_mirrorvert.png cmd/sc_flipvertical.png
 
 # Connector
 cmd/32/connectorcircles.png cmd/32/connector.png
@@ -1222,13 +1219,10 @@ cmd/sc_connectorlinescircles.png cmd/sc_connector.png
 cmd/sc_connectortoolbox.png cmd/sc_connector.png
 
 # Time
-cmd/32/rehearsetimings.png cmd/32/timefield.png
 cmd/32/numberformattime.png cmd/32/timefield.png
 
-cmd/lc_rehearsetimings.png cmd/lc_timefield.png
 cmd/lc_numberformattime.png cmd/lc_timefield.png
 
-cmd/sc_rehearsetimings.png cmd/sc_timefield.png
 cmd/sc_numberformattime.png cmd/sc_timefield.png
 
 # Arrange
@@ -1388,8 +1382,8 @@ cmd/sc_charbackcolor.png cmd/sc_backcolor.png
 cmd/sc_setdefault.png cmd/sc_resetattributes.png
 
 # Impress
-cmd/sc_slidechangewindow.png sfx2/res/symphony/sidebar-transition-small.png
-cmd/lc_slidechangewindow.png sfx2/res/symphony/sidebar-transition-large.png
+cmd/lc_slidechangewindow.png cmd/lc_dia.png
+cmd/sc_slidechangewindow.png cmd/sc_dia.png
 
 # Toggle graphics visibility in Writer
 cmd/32/showgraphics.png cmd/32/graphic.png
@@ -1745,6 +1739,8 @@ sfx2/res/symphony/sidebar-style-large.png cmd/lc_designerdialog.png
 sfx2/res/symphony/sidebar-style-small.png cmd/sc_designerdialog.png
 sfx2/res/symphony/sidebar-template-large.png cmd/lc_slidemasterpage.png
 sfx2/res/symphony/sidebar-template-small.png cmd/sc_slidemasterpage.png
+sfx2/res/symphony/sidebar-transition-large.png cmd/lc_dia.png
+sfx2/res/symphony/sidebar-transition-small.png cmd/sc_dia.png
 
 # startmath
 # ==============================================

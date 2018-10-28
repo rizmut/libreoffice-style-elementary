@@ -1154,12 +1154,6 @@ cmd/lc_rulerrowsvertical.svg cmd/lc_extrusiontiltright.svg
 cmd/sc_rulerrows.svg cmd/sc_extrusiontiltleft.svg
 cmd/sc_rulerrowsvertical.svg cmd/sc_extrusiontiltright.svg
 
-
-# Presentation
-cmd/32/diaauto.svg cmd/32/dia.svg
-cmd/lc_diaauto.svg cmd/lc_dia.svg
-cmd/sc_diaauto.svg cmd/sc_dia.svg
-
 # Style
 
 cmd/32/editstyled.svg cmd/32/editstyle.svg
@@ -1196,11 +1190,14 @@ cmd/sc_outlineright.svg cmd/sc_decrementlevel.svg
 cmd/sc_outlineleft.svg cmd/sc_decrementindent.svg
 
 # Mirror
-cmd/32/mirrorhorz.svg cmd/32/mirror.svg
+cmd/32/mirrorhorz.svg cmd/32/fliphorizontal.svg
+cmd/32/mirrorvert.svg cmd/32/flipvertical.svg
 
-cmd/lc_mirrorhorz.svg cmd/lc_mirror.svg
+cmd/lc_mirrorhorz.svg cmd/lc_fliphorizontal.svg
+cmd/lc_mirrorvert.svg cmd/lc_flipvertical.svg
 
-cmd/sc_mirrorhorz.svg cmd/sc_mirror.svg
+cmd/sc_mirrorhorz.svg cmd/sc_fliphorizontal.svg
+cmd/sc_mirrorvert.svg cmd/sc_flipvertical.svg
 
 # Connector
 cmd/32/connectorcircles.svg cmd/32/connector.svg
@@ -1222,13 +1219,10 @@ cmd/sc_connectorlinescircles.svg cmd/sc_connector.svg
 cmd/sc_connectortoolbox.svg cmd/sc_connector.svg
 
 # Time
-cmd/32/rehearsetimings.svg cmd/32/timefield.svg
 cmd/32/numberformattime.svg cmd/32/timefield.svg
 
-cmd/lc_rehearsetimings.svg cmd/lc_timefield.svg
 cmd/lc_numberformattime.svg cmd/lc_timefield.svg
 
-cmd/sc_rehearsetimings.svg cmd/sc_timefield.svg
 cmd/sc_numberformattime.svg cmd/sc_timefield.svg
 
 # Arrange
@@ -1388,8 +1382,8 @@ cmd/sc_charbackcolor.svg cmd/sc_backcolor.svg
 cmd/sc_setdefault.svg cmd/sc_resetattributes.svg
 
 # Impress
-cmd/sc_slidechangewindow.svg sfx2/res/symphony/sidebar-transition-small.svg
-cmd/lc_slidechangewindow.svg sfx2/res/symphony/sidebar-transition-large.svg
+cmd/lc_slidechangewindow.svg cmd/lc_dia.svg
+cmd/sc_slidechangewindow.svg cmd/sc_dia.svg
 
 # Toggle graphics visibility in Writer
 cmd/32/showgraphics.svg cmd/32/graphic.svg
@@ -1745,6 +1739,8 @@ sfx2/res/symphony/sidebar-style-large.svg cmd/lc_designerdialog.svg
 sfx2/res/symphony/sidebar-style-small.svg cmd/sc_designerdialog.svg
 sfx2/res/symphony/sidebar-template-large.svg cmd/lc_slidemasterpage.svg
 sfx2/res/symphony/sidebar-template-small.svg cmd/sc_slidemasterpage.svg
+sfx2/res/symphony/sidebar-transition-large.svg cmd/lc_dia.svg
+sfx2/res/symphony/sidebar-transition-small.svg cmd/sc_dia.svg
 
 # startmath
 # ==============================================
