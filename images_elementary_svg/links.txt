@@ -1143,6 +1143,28 @@ cmd/lc_rulerrowsvertical.svg cmd/lc_extrusiontiltright.svg
 cmd/sc_rulerrows.svg cmd/sc_extrusiontiltleft.svg
 cmd/sc_rulerrowsvertical.svg cmd/sc_extrusiontiltright.svg
 
+# Light
+svx/res/lightofffrombottom_22.svg svx/res/light.svg
+svx/res/lightofffrombottomleft_22.svg svx/res/light.svg
+svx/res/lightofffrombottomright_22.svg svx/res/light.svg
+svx/res/lightofffromleft_22.svg svx/res/light.svg
+svx/res/lightofffromright_22.svg svx/res/light.svg
+svx/res/lightofffromtop_22.svg svx/res/light.svg
+svx/res/lightofffromtopleft_22.svg svx/res/light.svg
+svx/res/lightofffromtopright_22.svg svx/res/light.svg
+svx/res/lightonfrombottom_22.svg cmd/sc_extrusionlightingfloater.svg
+svx/res/lightonfrombottomleft_22.svg cmd/sc_extrusionlightingfloater.svg
+svx/res/lightonfrombottomright_22.svg cmd/sc_extrusionlightingfloater.svg
+svx/res/lightonfromleft_22.svg cmd/sc_extrusionlightingfloater.svg
+svx/res/lightonfromright_22.svg cmd/sc_extrusionlightingfloater.svg
+svx/res/lightonfromtop_22.svg cmd/sc_extrusionlightingfloater.svg
+svx/res/lightonfromtopleft_22.svg cmd/sc_extrusionlightingfloater.svg
+svx/res/lightonfromtopright_22.svg cmd/sc_extrusionlightingfloater.svg
+svx/res/legtyp1.svg cmd/sc_calloutshapes.line-callout-3.svg
+svx/res/legtyp2.svg cmd/sc_calloutshapes.line-callout-1.svg
+svx/res/legtyp3.svg cmd/sc_calloutshapes.line-callout-2.svg
+
+
 # Style
 cmd/32/editstyled.svg cmd/32/editstyle.svg
 cmd/32/loadstyles.svg cmd/32/open.svg
@@ -1743,6 +1765,8 @@ svtools/res/folderop.svg cmd/sc_open.svgf
 
 # svx
 # ==============================================
+/svx/res/3dlight.svg cmd/sc_extrusionlightingfloater.svg
+
 svx/res/apply.svg cmd/sc_ok.svg
 svx/res/caution_11x16.svg dbaccess/res/exwarning.svg
 

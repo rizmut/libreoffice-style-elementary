@@ -1143,6 +1143,28 @@ cmd/lc_rulerrowsvertical.png cmd/lc_extrusiontiltright.png
 cmd/sc_rulerrows.png cmd/sc_extrusiontiltleft.png
 cmd/sc_rulerrowsvertical.png cmd/sc_extrusiontiltright.png
 
+# Light
+svx/res/lightofffrombottom_22.png svx/res/light.png
+svx/res/lightofffrombottomleft_22.png svx/res/light.png
+svx/res/lightofffrombottomright_22.png svx/res/light.png
+svx/res/lightofffromleft_22.png svx/res/light.png
+svx/res/lightofffromright_22.png svx/res/light.png
+svx/res/lightofffromtop_22.png svx/res/light.png
+svx/res/lightofffromtopleft_22.png svx/res/light.png
+svx/res/lightofffromtopright_22.png svx/res/light.png
+svx/res/lightonfrombottom_22.png cmd/sc_extrusionlightingfloater.png
+svx/res/lightonfrombottomleft_22.png cmd/sc_extrusionlightingfloater.png
+svx/res/lightonfrombottomright_22.png cmd/sc_extrusionlightingfloater.png
+svx/res/lightonfromleft_22.png cmd/sc_extrusionlightingfloater.png
+svx/res/lightonfromright_22.png cmd/sc_extrusionlightingfloater.png
+svx/res/lightonfromtop_22.png cmd/sc_extrusionlightingfloater.png
+svx/res/lightonfromtopleft_22.png cmd/sc_extrusionlightingfloater.png
+svx/res/lightonfromtopright_22.png cmd/sc_extrusionlightingfloater.png
+svx/res/legtyp1.png cmd/sc_calloutshapes.line-callout-3.png
+svx/res/legtyp2.png cmd/sc_calloutshapes.line-callout-1.png
+svx/res/legtyp3.png cmd/sc_calloutshapes.line-callout-2.png
+
+
 # Style
 cmd/32/editstyled.png cmd/32/editstyle.png
 cmd/32/loadstyles.png cmd/32/open.png
@@ -1743,6 +1765,8 @@ svtools/res/folderop.png cmd/sc_open.pngf
 
 # svx
 # ==============================================
+/svx/res/3dlight.png cmd/sc_extrusionlightingfloater.png
+
 svx/res/apply.png cmd/sc_ok.png
 svx/res/caution_11x16.png dbaccess/res/exwarning.png
 
