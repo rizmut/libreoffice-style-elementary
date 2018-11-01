@@ -1261,7 +1261,7 @@ cmd/32/refreshformcontrol.svg cmd/32/reload.svg
 cmd/32/updateallindexes.svg cmd/32/reload.svg
 cmd/32/updatecurindex.svg cmd/32/reload.svg
 cmd/32/updateall.svg cmd/32/reload.svg
-cmd/32/updatefields.svg cmd/32/addfield.svg
+cmd/32/updatefields.svg cmd/32/insertfield.svg
 cmd/32/updatemenu.svg cmd/32/reload.svg
 
 cmd/lc_draw.svg cmd/lc_reload.svg
@@ -1270,17 +1270,16 @@ cmd/lc_refreshformcontrol.svg cmd/lc_reload.svg
 cmd/lc_updateallindexes.svg cmd/lc_reload.svg
 cmd/lc_updateall.svg cmd/lc_reload.svg
 cmd/lc_updatecurindex.svg cmd/lc_reload.svg
-cmd/lc_updatefields.svg cmd/lc_addfield.svg
+cmd/lc_updatefields.svg cmd/lc_insertfield.svg
 cmd/lc_updatemenu.svg cmd/lc_reload.svg
 
 cmd/sc_draw.svg cmd/sc_reload.svg
 cmd/sc_refresh.svg cmd/sc_reload.svg
 cmd/sc_refreshformcontrol.svg cmd/sc_reload.svg
-cmd/sc_styleupdatebyexample.svg cmd/sc_reload.svg
 cmd/sc_updatecurindex.svg cmd/sc_reload.svg
 cmd/sc_updateallindexes.svg cmd/sc_reload.svg
 cmd/sc_updateall.svg cmd/sc_reload.svg
-cmd/sc_updatefields.svg cmd/sc_addfield.svg
+cmd/sc_updatefields.svg cmd/sc_insertfield.svg
 cmd/sc_updatemenu.svg cmd/sc_reload.svg
 
 # Select
