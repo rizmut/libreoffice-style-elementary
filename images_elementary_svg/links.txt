@@ -1644,6 +1644,8 @@ sc/res/lc26047.svg cmd/lc_dbviewfunctions.svg
 sc/res/lc26048.svg cmd/lc_autosum.svg
 sc/res/lc26050.svg cmd/lc_cancel.svg
 sc/res/lc26051.svg cmd/lc_ok.svg
+sc/res/na05.svg cmd/sc_upsearch.svg
+sc/res/na06.svg cmd/sc_downsearch.svg
 sc/res/na010.svg sw/res/sc20234.svg
 sc/res/na011.svg cmd/lc_ok.svg
 sc/res/nc02.svg cmd/sc_label.svg
@@ -1712,8 +1714,6 @@ sfx2/res/closedoc.svg vcl/res/closedoc.svg
 sfx2/res/deleterow.svg cmd/sc_cancel.svg
 sfx2/res/favourite_big.svg cmd/lc_insertbookmark.svg
 sfx2/res/hlpdoc.svg cmd/sc_helpindex.svg
-sfx2/res/indexon_small.svg cmd/sc_defaultnumbering.svg
-sfx2/res/indexon_big.svg cmd/lc_defaultnumbering.svg
 sfx2/res/sortascending.svg cmd/lc_sortascending.svg
 sfx2/res/styfam1.svg cmd/sc_charfontname.svg
 sfx2/res/styfam2.svg cmd/sc_controlcodes.svg
