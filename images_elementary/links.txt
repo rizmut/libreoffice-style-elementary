@@ -1997,3 +1997,7 @@ cmd/sc_objecttitledescription.png cmd/sc_insertcaptiondialog.png
 cmd/32/linenumberingdialog.png cmd/32/linenumberdialog.png
 cmd/lc_linenumberingdialog.png cmd/lc_linenumberdialog.png
 cmd/sc_linenumberingdialog.png cmd/sc_linenumberdialog.png
+
+cmd/32/renametable.png cmd/32/name.png
+cmd/lc_renametable.png cmd/lc_name.png
+cmd/sc_renametable.png cmd/sc_name.png
