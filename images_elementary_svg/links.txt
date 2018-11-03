@@ -504,6 +504,10 @@ cmd/sc_starshapes.svg cmd/sc_starshapes.star5.svg
 cmd/sc_symbolshapes.svg cmd/sc_symbolshapes.smiley.svg
 cmd/sc_square_rounded.svg cmd/sc_basicshapes.round-quadrat.svg
 
+# Sheet
+cmd/32/tableevents.svg cmd/32/animationeffects.svg
+cmd/lc_tableevents.svg cmd/lc_animationeffects.svg
+cmd/sc_tableevents.svg cmd/sc_animationeffects.svg
 
 # Open
 cmd/32/openfromwriter.svg cmd/32/open.svg
@@ -864,16 +868,19 @@ cmd/32/backgroundpatterncontroller.svg cmd/32/backgroundcolor.svg
 cmd/32/characterbackgroundpattern.svg cmd/32/backcolor.svg
 cmd/32/fontcolor.svg cmd/32/color.svg
 cmd/32/formatarea.svg cmd/32/backgroundcolor.svg
+cmd/32/settabbgcolor.svg cmd/32/backgroundcolor.svg
 
 cmd/lc_backgroundpatterncontroller.svg cmd/lc_backgroundcolor.svg
 cmd/lc_characterbackgroundpattern.svg cmd/lc_backcolor.svg
 cmd/lc_fontcolor.svg cmd/lc_color.svg
 cmd/lc_formatarea.svg cmd/lc_backgroundcolor.svg
+cmd/lc_settabbgcolor.svg cmd/lc_backgroundcolor.svg
 
 cmd/sc_backgroundpatterncontroller.svg cmd/sc_backgroundcolor.svg
 cmd/sc_characterbackgroundpattern.svg cmd/sc_backcolor.svg
 cmd/sc_fontcolor.svg cmd/sc_color.svg
 cmd/sc_formatarea.svg cmd/sc_backgroundcolor.svg
+cmd/sc_settabbgcolor.svg cmd/sc_backgroundcolor.svg
 
 # Paragraph Alignment
 cmd/32/leftpara.svg cmd/32/alignleft.svg
