@@ -1055,20 +1055,20 @@ cmd/sc_square.svg cmd/sc_basicshapes.quadrat.svg
 cmd/sc_flowchartshapes.flowchart-process.svg cmd/sc_basicshapes.quadrat.svg
 
 # Sort
-cmd/32/ordercrit.svg cmd/32/sortascending.svg
+cmd/32/ordercrit.svg cmd/32/datasort.svg
 cmd/32/sortdown.svg cmd/32/sortdescending.svg
 cmd/32/sortup.svg cmd/32/sortascending.svg
-cmd/32/tablesort.svg cmd/32/sortascending.svg
+cmd/32/tablesort.svg cmd/32/datasort.svg
 
-cmd/lc_ordercrit.svg cmd/lc_sortascending.svg
+cmd/lc_ordercrit.svg cmd/lc_datasort.svg
 cmd/lc_sortdown.svg cmd/lc_sortdescending.svg
 cmd/lc_sortup.svg cmd/lc_sortascending.svg
-cmd/lc_tablesort.svg cmd/lc_sortascending.svg
+cmd/lc_tablesort.svg cmd/lc_datasort.svg
 
-cmd/sc_ordercrit.svg cmd/sc_sortascending.svg
+cmd/sc_ordercrit.svg cmd/sc_datasort.svg
 cmd/sc_sortdown.svg cmd/sc_sortdescending.svg
 cmd/sc_sortup.svg cmd/sc_sortascending.svg
-cmd/sc_tablesort.svg cmd/sc_sortascending.svg
+cmd/sc_tablesort.svg cmd/sc_datasorts.svg
 
 # Config
 cmd/32/formatselection.svg cmd/32/configuredialog.svg

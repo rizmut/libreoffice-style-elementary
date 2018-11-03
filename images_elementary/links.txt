@@ -1055,20 +1055,20 @@ cmd/sc_square.png cmd/sc_basicshapes.quadrat.png
 cmd/sc_flowchartshapes.flowchart-process.png cmd/sc_basicshapes.quadrat.png
 
 # Sort
-cmd/32/ordercrit.png cmd/32/sortascending.png
+cmd/32/ordercrit.png cmd/32/datasort.png
 cmd/32/sortdown.png cmd/32/sortdescending.png
 cmd/32/sortup.png cmd/32/sortascending.png
-cmd/32/tablesort.png cmd/32/sortascending.png
+cmd/32/tablesort.png cmd/32/datasort.png
 
-cmd/lc_ordercrit.png cmd/lc_sortascending.png
+cmd/lc_ordercrit.png cmd/lc_datasort.png
 cmd/lc_sortdown.png cmd/lc_sortdescending.png
 cmd/lc_sortup.png cmd/lc_sortascending.png
-cmd/lc_tablesort.png cmd/lc_sortascending.png
+cmd/lc_tablesort.png cmd/lc_datasort.png
 
-cmd/sc_ordercrit.png cmd/sc_sortascending.png
+cmd/sc_ordercrit.png cmd/sc_datasort.png
 cmd/sc_sortdown.png cmd/sc_sortdescending.png
 cmd/sc_sortup.png cmd/sc_sortascending.png
-cmd/sc_tablesort.png cmd/sc_sortascending.png
+cmd/sc_tablesort.png cmd/sc_datasorts.png
 
 # Config
 cmd/32/formatselection.png cmd/32/configuredialog.png
