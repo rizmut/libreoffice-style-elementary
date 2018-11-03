@@ -92,7 +92,6 @@ cmd/32/numberformatmenu.svg cmd/32/numberformatstandard.svg
 cmd/32/numericfield.svg cmd/32/numberformatstandard.svg
 cmd/32/repaginate.svg cmd/32/insertpagenumberfield.svg
 cmd/32/showchanges.svg cmd/32/addwatch.svg
-cmd/32/showtrackedchanges.svg cmd/32/addwatch.svg
 cmd/32/tracechangemode.svg cmd/32/trackchanges.svg
 
 cmd/lc_charmapcontrol.svg cmd/lc_insertsymbol.svg
@@ -149,7 +148,6 @@ cmd/lc_numberformatmenu.svg cmd/lc_numberformatstandard.svg
 cmd/lc_numericfield.svg cmd/lc_numberformatstandard.svg
 cmd/lc_repaginate.svg cmd/lc_insertpagenumberfield.svg
 cmd/lc_showchanges.svg cmd/lc_addwatch.svg
-cmd/lc_showtrackedchanges.svg cmd/lc_addwatch.svg
 cmd/lc_tracechangemode.svg cmd/lc_trackchanges.svg
 
 cmd/sc_charmapcontrol.svg cmd/sc_insertsymbol.svg
@@ -206,7 +204,6 @@ cmd/sc_numberformatmenu.svg cmd/sc_numberformatstandard.svg
 cmd/sc_numericfield.svg cmd/sc_numberformatstandard.svg
 cmd/sc_repaginate.svg cmd/sc_insertpagenumberfield.svg
 cmd/sc_showchanges.svg cmd/sc_addwatch.svg
-cmd/sc_showtrackedchanges.svg cmd/sc_addwatch.svg
 cmd/sc_tracechangemode.svg cmd/sc_trackchanges.svg
 
 # Zoom
@@ -1068,7 +1065,7 @@ cmd/lc_tablesort.svg cmd/lc_datasort.svg
 cmd/sc_ordercrit.svg cmd/sc_datasort.svg
 cmd/sc_sortdown.svg cmd/sc_sortdescending.svg
 cmd/sc_sortup.svg cmd/sc_sortascending.svg
-cmd/sc_tablesort.svg cmd/sc_datasorts.svg
+cmd/sc_tablesort.svg cmd/sc_datasort.svg
 
 # Config
 cmd/32/formatselection.svg cmd/32/configuredialog.svg
@@ -1509,7 +1506,6 @@ reportdesign/res/sx12594.svg cmd/sc_dbviewfunctions.svg
 # ==============================================
 res/adrbook.svg cmd/sc_viewdatasourcebrowser.svg
 res/browse.svg cmd/sc_browseview.svg
-res/baswatr.svg cmd/lc_addwatch.svg
 res/dir-clos.svg cmd/sc_open.svg
 res/dir-open.svg cmd/sc_open.svg
 res/fileopen.svg cmd/sc_open.svg
@@ -1819,7 +1815,7 @@ svx/res/notcertificate_16.svg xmlsecurity/res/notcertificate_16.svg
 
 svx/res/nu01.svg cmd/sc_ok.svg
 svx/res/nu02.svg cmd/sc_cancel.svg
-svx/res/nu03.svg cmd/sc_addwatch.svg
+svx/res/nu03.svg cmd/sc_showannotations.svg
 
 svx/res/ole.svg sc/res/nc05.svg
 svx/res/persp3d.svg cmd/lc_extrusiondirectionfloater.svg
