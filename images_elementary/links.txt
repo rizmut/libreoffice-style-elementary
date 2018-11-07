@@ -2017,3 +2017,7 @@ cmd/sc_linenumberingdialog.png cmd/sc_linenumberdialog.png
 cmd/32/renametable.png cmd/32/name.png
 cmd/lc_renametable.png cmd/lc_name.png
 cmd/sc_renametable.png cmd/sc_name.png
+
+cmd/32/exportasgraphic.png cmd/32/insertgraphic.png
+cmd/lc_exportasgraphic.png cmd/lc_insertgraphic.png
+cmd/sc_exportasgraphic.png cmd/sc_insertgraphic.png
