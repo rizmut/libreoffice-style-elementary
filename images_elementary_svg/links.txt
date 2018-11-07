@@ -288,15 +288,15 @@ cmd/lc_optionstreedialog.svg cmd/lc_controlproperties.svg
 cmd/sc_optionstreedialog.svg cmd/sc_controlproperties.svg
 
 # Track Change
-cmd/32/acceptchanges.svg cmd/32/accepttrackedchange.svg
+cmd/32/acceptchanges.svg cmd/32/accepttrackedchanges.svg
 cmd/32/accepttracedchange.svg cmd/32/accepttrackedchange.svg 
 cmd/32/commentchange.svg cmd/32/commentchangetracking.svg
 
-cmd/lc_acceptchanges.svg cmd/lc_accepttrackedchange.svg
+cmd/lc_acceptchanges.svg cmd/lc_accepttrackedchanges.svg
 cmd/lc_accepttracedchange.svg cmd/lc_accepttrackedchange.svg 
 cmd/lc_commentchange.svg cmd/lc_commentchangetracking.svg
 
-cmd/sc_acceptchanges.svg cmd/sc_accepttrackedchange.svg
+cmd/sc_acceptchanges.svg cmd/sc_accepttrackedchanges.svg
 cmd/sc_accepttracedchange.svg cmd/sc_accepttrackedchange.svg 
 cmd/sc_commentchange.svg cmd/sc_commentchangetracking.svg
 
@@ -505,9 +505,16 @@ cmd/sc_symbolshapes.svg cmd/sc_symbolshapes.smiley.svg
 cmd/sc_square_rounded.svg cmd/sc_basicshapes.round-quadrat.svg
 
 # Sheet
+cmd/32/sheetlefttoright.svg cmd/32/paralefttoright.svg
+cmd/32/sheetrighttoleft.svg cmd/32/pararighttoleft.svg
 cmd/32/tableevents.svg cmd/32/animationeffects.svg
+cmd/lc_sheetlefttoright.svg cmd/lc_paralefttoright.svg
+cmd/lc_sheetrighttoleft.svg cmd/lc_pararighttoleft.svg
 cmd/lc_tableevents.svg cmd/lc_animationeffects.svg
+cmd/sc_sheetlefttoright.svg cmd/sc_paralefttoright.svg
+cmd/sc_sheetrighttoleft.svg cmd/sc_pararighttoleft.svg
 cmd/sc_tableevents.svg cmd/sc_animationeffects.svg
+
 
 # Open
 cmd/32/openfromwriter.svg cmd/32/open.svg
