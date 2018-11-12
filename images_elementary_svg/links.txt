@@ -967,23 +967,38 @@ cmd/sc_sheetcommentmenu.svg cmd/sc_showannotations.svg
 cmd/sc_toggleformula.svg cmd/sc_dbviewfunctions.svg
 
 # Draw & Impress menu entries
+cmd/32/convertmenu.svg cmd/32/bezierconvert.svg
+cmd/32/flipmenu.svg cmd/32/flipvertical.svg
 cmd/32/headerandfooter.svg cmd/32/editheaderandfooter.svg
 cmd/32/insertfieldctrl.svg cmd/32/insertfield.svg
 cmd/32/insertslidefield.svg cmd/32/insertpagenumberfield.svg
 cmd/32/insertslidenumber.svg cmd/32/insertpagenumberfield.svg
 cmd/32/insertslidesfield.svg cmd/32/insertpagecountfield.svg
+cmd/32/mirrormenu.svg cmd/32/fliphorizontal.svg
+cmd/32/namegroup.svg cmd/32/renameobject.svg
+cmd/32/rotateflipmenu.svg cmd/32/rotateleft.svg
 
+cmd/lc_convertmenu.svg cmd/lc_bezierconvert.svg
+cmd/lc_flipmenu.svg cmd/lc_flipvertical.svg
 cmd/lc_headerandfooter.svg cmd/lc_editheaderandfooter.svg
 cmd/lc_insertfieldctrl.svg cmd/lc_insertfield.svg
 cmd/lc_insertslidefield.svg cmd/lc_insertpagenumberfield.svg
 cmd/lc_insertslidenumber.svg cmd/lc_insertpagenumberfield.svg
 cmd/lc_insertslidesfield.svg cmd/lc_insertpagecountfield.svg
+cmd/lc_mirrormenu.svg cmd/lc_fliphorizontal.svg
+cmd/lc_namegroup.svg cmd/lc_renameobject.svg
+cmd/lc_rotateflipmenu.svg cmd/lc_rotateleft.svg
 
+cmd/sc_convertmenu.svg cmd/sc_bezierconvert.svg
+cmd/sc_flipmenu.svg cmd/sc_flipvertical.svg
 cmd/sc_headerandfooter.svg cmd/sc_editheaderandfooter.svg
 cmd/sc_insertfieldctrl.svg cmd/sc_insertfield.svg
 cmd/sc_insertslidefield.svg cmd/sc_insertpagenumberfield.svg
 cmd/sc_insertslidenumber.svg cmd/sc_insertpagenumberfield.svg
 cmd/sc_insertslidesfield.svg cmd/sc_insertpagecountfield.svg
+cmd/sc_mirrormenu.svg cmd/sc_fliphorizontal.svg
+cmd/sc_namegroup.svg cmd/sc_renameobject.svg
+cmd/sc_rotateflipmenu.svg cmd/sc_rotateleft.svg
 
 # Writer menu entries
 cmd/32/indexesmenu.svg cmd/32/insertindexesentry.svg
@@ -2017,3 +2032,7 @@ cmd/sc_linenumberingdialog.svg cmd/sc_linenumberdialog.svg
 cmd/32/renametable.svg cmd/32/name.svg
 cmd/lc_renametable.svg cmd/lc_name.svg
 cmd/sc_renametable.svg cmd/sc_name.svg
+
+cmd/32/exportasgraphic.svg cmd/32/graphic.svg
+cmd/lc_exportasgraphic.svg cmd/lc_graphic.svg
+cmd/sc_exportasgraphic.svg cmd/sc_graphic.svg
