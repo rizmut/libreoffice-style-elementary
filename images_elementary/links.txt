@@ -951,6 +951,12 @@ cmd/sc_openhyperlinkoncursor.png cmd/sc_inserthyperlink.png
 
 # calc menubar icons
 # ===============================================
+cmd/32/chartmenu.png cmd/sc_drawchart.png
+cmd/32/objectmenu.png cmd/sc_insertframe.png
+
+cmd/lc_chartmenu.png cmd/lc_drawchart.png
+cmd/lc_objectmenu.png cmd/lc_insertframe.png
+
 cmd/sc_chartmenu.png cmd/sc_drawchart.png
 cmd/sc_objectmenu.png cmd/sc_insertframe.png
 
