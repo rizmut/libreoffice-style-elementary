@@ -935,6 +935,25 @@ cmd/32/linespacing.png cmd/32/spacepara15.png
 cmd/lc_linespacing.png cmd/lc_spacepara15.png
 cmd/sc_linespacing.png cmd/sc_spacepara15.png
 
+# calc toolbar draw
+# ===============================================
+cmd/32/editshapehyperlink.png cmd/32/inserthyperlink.png
+cmd/32/deleteshapehyperlink.png cmd/32/removehyperlink.png
+cmd/32/openhyperlinkoncursor.png cmd/32/inserthyperlink.png
+
+cmd/lc_editshapehyperlink.png cmd/lc_inserthyperlink.png
+cmd/lc_deleteshapehyperlink.png cmd/lc_removehyperlink.png
+cmd/lc_openhyperlinkoncursor.png cmd/lc_inserthyperlink.png
+
+cmd/sc_editshapehyperlink.png cmd/sc_inserthyperlink.png
+cmd/sc_deleteshapehyperlink.png cmd/sc_removehyperlink.png
+cmd/sc_openhyperlinkoncursor.png cmd/sc_inserthyperlink.png
+
+# calc menubar icons
+# ===============================================
+cmd/sc_chartmenu.png cmd/sc_drawchart.png
+cmd/sc_objectmenu.png cmd/sc_insertframe.png
+
 # Calc menu entries
 cmd/32/cellcontentsmenu.png cmd/32/calculate.png
 cmd/32/datapilotmenu.png cmd/32/datadatapilotrun.png
@@ -1231,12 +1250,18 @@ cmd/sc_outlineleft.png cmd/sc_decrementindent.png
 # Mirror
 cmd/32/mirrorhorz.png cmd/32/fliphorizontal.png
 cmd/32/mirrorvert.png cmd/32/flipvertical.png
+cmd/32/objectmirrorhorizontal.png cmd/32/fliphorizontal.png
+cmd/32/objectmirrorvertical.png cmd/32/flipvertical.png
 
 cmd/lc_mirrorhorz.png cmd/lc_fliphorizontal.png
 cmd/lc_mirrorvert.png cmd/lc_flipvertical.png
+cmd/lc_objectmirrorhorizontal.png cmd/lc_fliphorizontal.png
+cmd/lc_objectmirrorvertical.png cmd/lc_flipvertical.png
 
 cmd/sc_mirrorhorz.png cmd/sc_fliphorizontal.png
 cmd/sc_mirrorvert.png cmd/sc_flipvertical.png
+cmd/sc_objectmirrorhorizontal.png cmd/sc_fliphorizontal.png
+cmd/sc_objectmirrorvertical.png cmd/sc_flipvertical.png
 
 # Connector
 cmd/32/connectorcircles.png cmd/32/connector.png
