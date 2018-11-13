@@ -45,7 +45,6 @@ cmd/32/insertavmedia.svg cmd/32/avmediaplayer.svg
 cmd/32/insertauthorfield.svg cmd/32/dbviewaliases.svg
 cmd/32/insertcell.svg cmd/32/insertcellsright.svg
 cmd/32/insertcolumnsbefore.svg cmd/32/insertcolumns.svg
-cmd/32/insertctrl.svg cmd/32/inserttable.svg
 cmd/32/insertcurrentdate.svg cmd/32/datefield.svg
 cmd/32/insertcurrenttime.svg cmd/32/timefield.svg
 cmd/32/insertdatefield.svg cmd/32/datefield.svg
@@ -93,13 +92,15 @@ cmd/32/numericfield.svg cmd/32/numberformatstandard.svg
 cmd/32/repaginate.svg cmd/32/insertpagenumberfield.svg
 cmd/32/showchanges.svg cmd/32/addwatch.svg
 cmd/32/tracechangemode.svg cmd/32/trackchanges.svg
+cmd/32/charactermenu.svg cmd/32/fontdialog.svg
+cmd/32/paragraphmenu.svg cmd/32/paragraphdialog.svg
+cmd/32/numberingmenu.svg cmd/32/outlinebullet.svg
 
 cmd/lc_charmapcontrol.svg cmd/lc_insertsymbol.svg
 cmd/lc_insertavmedia.svg cmd/lc_avmediaplayer.svg
 cmd/lc_insertauthorfield.svg cmd/lc_dbviewaliases.svg
 cmd/lc_insertcell.svg cmd/lc_insertcellsright.svg
 cmd/lc_insertcolumnsbefore.svg cmd/lc_insertcolumns.svg
-cmd/lc_insertctrl.svg cmd/lc_inserttable.svg
 cmd/lc_insertcurrentdate.svg cmd/lc_datefield.svg
 cmd/lc_insertcurrenttime.svg cmd/lc_timefield.svg
 cmd/lc_insertdatefield.svg cmd/lc_datefield.svg
@@ -149,13 +150,15 @@ cmd/lc_numericfield.svg cmd/lc_numberformatstandard.svg
 cmd/lc_repaginate.svg cmd/lc_insertpagenumberfield.svg
 cmd/lc_showchanges.svg cmd/lc_addwatch.svg
 cmd/lc_tracechangemode.svg cmd/lc_trackchanges.svg
+cmd/lc_charactermenu.svg cmd/lc_fontdialog.svg
+cmd/lc_paragraphmenu.svg cmd/lc_paragraphdialog.svg
+cmd/lc_numberingmenu.svg cmd/lc_outlinebullet.svg
 
 cmd/sc_charmapcontrol.svg cmd/sc_insertsymbol.svg
 cmd/sc_insertavmedia.svg cmd/sc_avmediaplayer.svg
 cmd/sc_insertauthorfield.svg cmd/sc_dbviewaliases.svg
 cmd/sc_insertcell.svg cmd/sc_insertcellsright.svg
 cmd/sc_insertcolumnsbefore.svg cmd/sc_insertcolumns.svg
-cmd/sc_insertctrl.svg cmd/sc_inserttable.svg
 cmd/sc_insertcurrentdate.svg cmd/sc_datefield.svg
 cmd/sc_insertcurrenttime.svg cmd/sc_timefield.svg
 cmd/sc_insertdatefield.svg cmd/sc_datefield.svg
@@ -205,6 +208,9 @@ cmd/sc_numericfield.svg cmd/sc_numberformatstandard.svg
 cmd/sc_repaginate.svg cmd/sc_insertpagenumberfield.svg
 cmd/sc_showchanges.svg cmd/sc_addwatch.svg
 cmd/sc_tracechangemode.svg cmd/sc_trackchanges.svg
+cmd/sc_charactermenu.svg cmd/sc_fontdialog.svg
+cmd/sc_paragraphmenu.svg cmd/sc_paragraphdialog.svg
+cmd/sc_numberingmenu.svg cmd/sc_outlinebullet.svg
 
 # Zoom
 cmd/32/adjust.svg cmd/32/zoomoptimal.svg
@@ -926,6 +932,31 @@ cmd/32/linespacing.svg cmd/32/spacepara15.svg
 cmd/lc_linespacing.svg cmd/lc_spacepara15.svg
 cmd/sc_linespacing.svg cmd/sc_spacepara15.svg
 
+# calc toolbar draw
+# ===============================================
+cmd/32/editshapehyperlink.svg cmd/32/inserthyperlink.svg
+cmd/32/deleteshapehyperlink.svg cmd/32/removehyperlink.svg
+cmd/32/openhyperlinkoncursor.svg cmd/32/inserthyperlink.svg
+
+cmd/lc_editshapehyperlink.svg cmd/lc_inserthyperlink.svg
+cmd/lc_deleteshapehyperlink.svg cmd/lc_removehyperlink.svg
+cmd/lc_openhyperlinkoncursor.svg cmd/lc_inserthyperlink.svg
+
+cmd/sc_editshapehyperlink.svg cmd/sc_inserthyperlink.svg
+cmd/sc_deleteshapehyperlink.svg cmd/sc_removehyperlink.svg
+cmd/sc_openhyperlinkoncursor.svg cmd/sc_inserthyperlink.svg
+
+# calc menubar icons
+# ===============================================
+cmd/32/chartmenu.svg cmd/sc_drawchart.svg
+cmd/32/objectmenu.svg cmd/sc_insertframe.svg
+
+cmd/lc_chartmenu.svg cmd/lc_drawchart.svg
+cmd/lc_objectmenu.svg cmd/lc_insertframe.svg
+
+cmd/sc_chartmenu.svg cmd/sc_drawchart.svg
+cmd/sc_objectmenu.svg cmd/sc_insertframe.svg
+
 # Calc menu entries
 cmd/32/cellcontentsmenu.svg cmd/32/calculate.svg
 cmd/32/datapilotmenu.svg cmd/32/datadatapilotrun.svg
@@ -1133,13 +1164,10 @@ cmd/sc_diagramaxisall.svg cmd/sc_diagramaxisxyz.svg
 cmd/sc_toggleaxisdescr.svg cmd/sc_helplinesvisible.svg
 
 # Grid
-cmd/32/grid.svg cmd/32/inserttable.svg
 cmd/32/gridmenu.svg cmd/32/gridvisible.svg
 
-cmd/lc_grid.svg cmd/lc_inserttable.svg
 cmd/lc_gridmenu.svg cmd/lc_gridvisible.svg
 
-cmd/sc_grid.svg cmd/sc_inserttable.svg
 cmd/sc_gridmenu.svg cmd/sc_gridvisible.svg
 
 # Crop
@@ -1222,12 +1250,18 @@ cmd/sc_outlineleft.svg cmd/sc_decrementindent.svg
 # Mirror
 cmd/32/mirrorhorz.svg cmd/32/fliphorizontal.svg
 cmd/32/mirrorvert.svg cmd/32/flipvertical.svg
+cmd/32/objectmirrorhorizontal.svg cmd/32/fliphorizontal.svg
+cmd/32/objectmirrorvertical.svg cmd/32/flipvertical.svg
 
 cmd/lc_mirrorhorz.svg cmd/lc_fliphorizontal.svg
 cmd/lc_mirrorvert.svg cmd/lc_flipvertical.svg
+cmd/lc_objectmirrorhorizontal.svg cmd/lc_fliphorizontal.svg
+cmd/lc_objectmirrorvertical.svg cmd/lc_flipvertical.svg
 
 cmd/sc_mirrorhorz.svg cmd/sc_fliphorizontal.svg
 cmd/sc_mirrorvert.svg cmd/sc_flipvertical.svg
+cmd/sc_objectmirrorhorizontal.svg cmd/sc_fliphorizontal.svg
+cmd/sc_objectmirrorvertical.svg cmd/sc_flipvertical.svg
 
 # Connector
 cmd/32/connectorcircles.svg cmd/32/connector.svg
@@ -1354,7 +1388,6 @@ cmd/sc_pluginsactive.svg cmd/sc_insertplugin.svg
 # Table
 cmd/32/cellprotection.svg cmd/32/protect.svg
 cmd/32/columnoperations.svg cmd/32/entirecolumn.svg
-cmd/32/inscellsctrl.svg cmd/32/inserttable.svg
 cmd/32/rowoperations.svg cmd/32/entirerow.svg
 cmd/32/setoptimalcolumnwidthdirect.svg cmd/32/setoptimalcolumnwidth.svg
 cmd/32/setcolumnwidth.svg cmd/32/columnwidth.svg
@@ -1363,7 +1396,6 @@ cmd/32/starchartdialog.svg cmd/32/drawchart.svg
 
 cmd/lc_cellprotection.svg cmd/lc_protect.svg
 cmd/lc_columnoperations.svg cmd/lc_entirecolumn.svg
-cmd/lc_inscellsctrl.svg cmd/lc_inserttable.svg
 cmd/lc_rowoperations.svg cmd/lc_entirerow.svg
 cmd/lc_setoptimalcolumnwidthdirect.svg cmd/lc_setoptimalcolumnwidth.svg
 cmd/lc_setcolumnwidth.svg cmd/lc_columnwidth.svg
@@ -1372,7 +1404,6 @@ cmd/lc_starchartdialog.svg cmd/lc_drawchart.svg
 
 cmd/sc_cellprotection.svg cmd/sc_protect.svg
 cmd/sc_columnoperations.svg cmd/sc_entirecolumn.svg
-cmd/sc_inscellsctrl.svg cmd/sc_inserttable.svg
 cmd/sc_rowoperations.svg cmd/sc_entirerow.svg
 cmd/sc_setoptimalcolumnwidthdirect.svg cmd/sc_setoptimalcolumnwidth.svg
 cmd/sc_setcolumnwidth.svg cmd/sc_columnwidth.svg
@@ -1692,7 +1723,7 @@ sc/res/page.svg cmd/sc_insertpagenumberfield.svg
 sc/res/pages.svg cmd/sc_insertpagecountfield.svg
 sc/res/paste_values_formats.svg cmd/lc_formatpaintbrush.svg
 sc/res/paste_values_only.svg cmd/lc_numberformatstandard.svg
-sc/res/table.svg cmd/sc_inserttable.svg
+sc/res/table.svg sw/res/nc20001.svg
 sc/res/text.svg cmd/sc_text.svg
 sc/res/time.svg cmd/sc_timefield.svg
 
@@ -1880,7 +1911,6 @@ svx/res/symphony/spacing3.svg cmd/sc_spacepara1.svg
 sw/res/lc20556.svg cmd/lc_dbviewfunctions.svg
 sw/res/lc20557.svg cmd/lc_cancel.svg
 sw/res/lc20558.svg cmd/lc_ok.svg
-sw/res/nc20001.svg cmd/sc_inserttable.svg
 sw/res/nc20002.svg cmd/sc_text.svg
 sw/res/nc20003.svg cmd/sc_gallery.svg
 sw/res/nc20004.svg sc/res/nc05.svg
@@ -1922,7 +1952,7 @@ sw/res/sf06.svg cmd/sc_autoformat.svg
 
 sw/res/sr20000.svg cmd/sc_downsearch.svg
 sw/res/sr20001.svg cmd/sc_upsearch.svg
-sw/res/sr20002.svg cmd/sc_inserttable.svg
+sw/res/sr20002.svg sw/res/nc20001.svg
 sw/res/sr20003.svg cmd/sc_text.svg
 sw/res/sr20004.svg cmd/sc_showsinglepage.svg
 sw/res/sr20005.svg cmd/sc_insertdraw.svg
