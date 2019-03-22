@@ -1101,14 +1101,21 @@ cmd/sc_scrolltoprevious.png cmd/sc_upsearch.png
 
 
 # File Menu
+cmd/32/exportasmenu.png cmd/32/exportto.png
 cmd/32/exporttoepub.png cmd/32/exportdirecttoepub.png
 cmd/32/exporttopdf.png cmd/32/exportdirecttopdf.png
 
+cmd/lc_exportasmenu.png cmd/lc_exportto.png
 cmd/lc_exporttoepub.png cmd/lc_exportdirecttoepub.png
 cmd/lc_exporttopdf.png cmd/lc_exportdirecttopdf.png
 
+cmd/sc_exportasmenu.png cmd/sc_exportto.png
 cmd/sc_exporttoepub.png cmd/sc_exportdirecttoepub.png
 cmd/sc_exporttopdf.png cmd/sc_exportdirecttopdf.png
+
+cmd/32/sendtomenu.png cmd/32/sendmail.png
+cmd/lc_sendtomenu.png cmd/lc_sendmail.png
+cmd/sc_sendtomenu.png cmd/sc_sendmail.png
 
 # Square
 cmd/32/square.png cmd/32/basicshapes.quadrat.png
@@ -2102,10 +2109,22 @@ cmd/32/editpastespecialmenu.png cmd/32/pastespecial.png
 cmd/lc_editpastespecialmenu.png cmd/lc_pastespecial.png
 cmd/sc_editpastespecialmenu.png cmd/sc_pastespecial.png
 
-cmd/32/sendtomenu.png cmd/32/sendmail.png
-cmd/lc_sendtomenu.png cmd/lc_sendmail.png
-cmd/sc_sendtomenu.png cmd/sc_sendmail.png
+cmd/32/pastespecialmenu.png cmd/32/pastespecial.png
+cmd/lc_pastespecialmenu.png cmd/lc_pastespecial.png
+cmd/sc_pastespecialmenu.png cmd/sc_pastespecial.png
 
 cmd/32/openxmlfiltersettings.png cmd/32/managexmlsource.png
 cmd/lc_openxmlfiltersettings.png cmd/lc_managexmlsource.png
 cmd/sc_openxmlfiltersettings.png cmd/sc_managexmlsource.png
+
+cmd/32/languagemenu.png cmd/32/managelanguage.png
+cmd/lc_languagemenu.png cmd/lc_managelanguage.png
+cmd/sc_languagemenu.png cmd/sc_managelanguage.png
+
+cmd/32/graphicmenu.png cmd/32/avmediaplayer.png
+cmd/lc_graphicmenu.png cmd/lc_avmediaplayer.png
+cmd/sc_graphicmenu.png cmd/sc_avmediaplayer.png
+
+cmd/32/formatobjectmenu.png cmd/32/basicshapes.rectangle.png
+cmd/lc_formatobjectmenu.png cmd/lc_basicshapes.rectangle.png
+cmd/sc_formatobjectmenu.png cmd/sc_basicshapes.rectangle.png
