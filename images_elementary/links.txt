@@ -2128,3 +2128,7 @@ cmd/sc_graphicmenu.png cmd/sc_avmediaplayer.png
 cmd/32/formatobjectmenu.png cmd/32/basicshapes.rectangle.png
 cmd/lc_formatobjectmenu.png cmd/lc_basicshapes.rectangle.png
 cmd/sc_formatobjectmenu.png cmd/sc_basicshapes.rectangle.png
+
+cmd/32/insertgridcontrol.png cmd/32/grid.png
+cmd/lc_insertgridcontrol.png cmd/lc_grid.png
+cmd/sc_insertgridcontrol.png cmd/sc_grid.png
