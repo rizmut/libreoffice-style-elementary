@@ -2058,6 +2058,10 @@ cmd/sc_languagemenu.png cmd/sc_managelanguage.png
 cmd/32/anchormenu.png cmd/32/toggleanchortype.png
 cmd/32/charactermenu.png cmd/32/fontdialog.png
 cmd/32/chartmenu.png cmd/sc_drawchart.png
+cmd/32/commonalignhorizontalcenter.png cmd/32/alignhorizontalcenter.png
+cmd/32/commonalignjustified.png cmd/32/alignblock.png
+cmd/32/commonalignleft.png cmd/32/alignleft.png
+cmd/32/commonalignright.png cmd/32/alignright.png
 cmd/32/conditionalformatmenu.png cmd/32/conditionalformatdialog.png
 cmd/32/formatbulletsmenu.png cmd/32/defaultbullet.png
 cmd/32/formatframemenu.png cmd/32/chainframes.png
@@ -2073,6 +2077,10 @@ cmd/32/textalign.png cmd/32/alignleft.png
 cmd/lc_anchormenu.png cmd/lc_toggleanchortype.png
 cmd/lc_charactermenu.png cmd/lc_fontdialog.png
 cmd/lc_chartmenu.png cmd/lc_drawchart.png
+cmd/lc_commonalignhorizontalcenter.png cmd/lc_alignhorizontalcenter.png
+cmd/lc_commonalignjustified.png cmd/lc_alignblock.png
+cmd/lc_commonalignleft.png cmd/lc_alignleft.png
+cmd/lc_commonalignright.png cmd/lc_alignright.png
 cmd/lc_conditionalformatmenu.png cmd/lc_conditionalformatdialog.png
 cmd/lc_formatbulletsmenu.png cmd/lc_defaultbullet.png
 cmd/lc_formatframemenu.png cmd/lc_chainframes.png
@@ -2088,6 +2096,10 @@ cmd/lc_textalign.png cmd/lc_alignleft.png
 cmd/sc_anchormenu.png cmd/sc_toggleanchortype.png
 cmd/sc_charactermenu.png cmd/sc_fontdialog.png
 cmd/sc_chartmenu.png cmd/sc_drawchart.png
+cmd/sc_commonalignhorizontalcenter.png cmd/sc_alignhorizontalcenter.png
+cmd/sc_commonalignjustified.png cmd/sc_alignblock.png
+cmd/sc_commonalignleft.png cmd/sc_alignleft.png
+cmd/sc_commonalignright.png cmd/sc_alignright.png
 cmd/sc_conditionalformatmenu.png cmd/sc_conditionalformatdialog.png
 cmd/sc_formatbulletsmenu.png cmd/sc_defaultbullet.png
 cmd/sc_formatframemenu.png cmd/sc_chainframes.png
