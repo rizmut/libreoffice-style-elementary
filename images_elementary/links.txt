@@ -496,6 +496,11 @@ cmd/lc_pagecolumndialog.png cmd/lc_formatcolumns.png
 cmd/sc_attributepagesize.png cmd/sc_ruler.png
 cmd/sc_pagecolumndialog.png cmd/sc_formatcolumns.png
 
+# References
+cmd/32/removetableof.png cmd/32/delete.png
+cmd/lc_removetableof.png cmd/lc_delete.png
+cmd/sc_removetableof.png cmd/sc_delete.png
+
 # Print
 cmd/32/printpagepreview.png cmd/32/printpreview.png
 cmd/32/previewprintoptions.png cmd/32/printpreview.png
@@ -658,11 +663,8 @@ cmd/sc_exitsearch.png cmd/sc_closepreview.png
 
 # Cancel
 cmd/32/no.png cmd/32/cancel.png
-cmd/32/removetableof.png cmd/32/cancel.png
 cmd/lc_no.png cmd/lc_cancel.png
-cmd/lc_removetableof.png cmd/lc_cancel.png
 cmd/sc_no.png cmd/sc_cancel.png
-cmd/sc_removetableof.png cmd/sc_cancel.png
 
 # Protect
 cmd/32/protecttracechangemode.png cmd/32/protect.png
