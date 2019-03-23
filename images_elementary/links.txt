@@ -646,11 +646,6 @@ cmd/sc_quickedit.png cmd/sc_editdoc.png
 cmd/sc_renamemasterpage.png cmd/sc_slidemasterpage.png
 cmd/sc_solidcreate.png cmd/sc_editdoc.png
 
-# Quit
-cmd/32/closewin.png cmd/32/quit.png
-cmd/lc_closewin.png cmd/lc_quit.png
-cmd/sc_closewin.png cmd/sc_quit.png
-
 # Close
 cmd/32/closedocs.png cmd/32/closedoc.png
 cmd/32/exitsearch.png cmd/32/closepreview.png
