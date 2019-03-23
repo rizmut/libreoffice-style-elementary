@@ -301,6 +301,7 @@ cmd/lc_vscrollbar.png cmd/lc_scrollbar.png
 
 cmd/sc_hscroll.png cmd/sc_hscrollbar.png
 cmd/sc_insertformhscroll.png cmd/sc_hscrollbar.png
+cmd/sc_insertformvscroll.png cmd/sc_scrollbar.png
 cmd/sc_vscroll.png cmd/sc_scrollbar.png
 cmd/sc_vscrollbar.png cmd/sc_scrollbar.png
 
