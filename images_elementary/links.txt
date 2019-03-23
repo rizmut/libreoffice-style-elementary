@@ -1015,6 +1015,7 @@ cmd/32/autopilotmenu.png cmd/32/usewizards.png
 cmd/32/exportasmenu.png cmd/32/exportto.png
 cmd/32/exporttoepub.png cmd/32/exportdirecttoepub.png
 cmd/32/exporttopdf.png cmd/32/exportdirecttopdf.png
+cmd/32/sendto.png cmd/32/sendmail.png
 cmd/32/sendtomenu.png cmd/32/sendmail.png
 cmd/32/templatemenu.png cmd/32/templatemanager.png
 
@@ -1022,6 +1023,7 @@ cmd/lc_autopilotmenu.png cmd/lc_usewizards.png
 cmd/lc_exportasmenu.png cmd/lc_exportto.png
 cmd/lc_exporttoepub.png cmd/lc_exportdirecttoepub.png
 cmd/lc_exporttopdf.png cmd/lc_exportdirecttopdf.png
+cmd/lc_sendto.png cmd/lc_sendmail.png
 cmd/lc_sendtomenu.png cmd/lc_sendmail.png
 cmd/lc_templatemenu.png cmd/lc_templatemanager.png
 
@@ -1029,6 +1031,7 @@ cmd/sc_autopilotmenu.png cmd/sc_usewizards.png
 cmd/sc_exportasmenu.png cmd/sc_exportto.png
 cmd/sc_exporttoepub.png cmd/sc_exportdirecttoepub.png
 cmd/sc_exporttopdf.png cmd/sc_exportdirecttopdf.png
+cmd/sc_sendto.png cmd/sc_sendmail.png
 cmd/sc_sendtomenu.png cmd/sc_sendmail.png
 cmd/sc_templatemenu.png cmd/sc_templatemanager.png
 
@@ -2040,13 +2043,17 @@ cmd/sc_shapesmenu.png cmd/sc_basicshapes.round-quadrat.png
 
 # Tools menu
 # ===============================================
-cmd/32/openxmlfiltersettings.png cmd/32/managexmlsource.png
-cmd/lc_openxmlfiltersettings.png cmd/lc_managexmlsource.png
-cmd/sc_openxmlfiltersettings.png cmd/sc_managexmlsource.png
-
+cmd/32/autoformatmenu.png cmd/32/autocorrectdlg.png
 cmd/32/languagemenu.png cmd/32/managelanguage.png
+cmd/32/openxmlfiltersettings.png cmd/32/managexmlsource.png
+
+cmd/lc_autoformatmenu.png cmd/lc_autocorrectdlg.png
 cmd/lc_languagemenu.png cmd/lc_managelanguage.png
+cmd/lc_openxmlfiltersettings.png cmd/lc_managexmlsource.png
+
+cmd/sc_autoformatmenu.png cmd/sc_autocorrectdlg.png
 cmd/sc_languagemenu.png cmd/sc_managelanguage.png
+cmd/sc_openxmlfiltersettings.png cmd/sc_managexmlsource.png
 
 # Format menu
 # ===============================================
