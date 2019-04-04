@@ -2046,14 +2046,20 @@ cmd/sc_shapesmenu.png cmd/sc_basicshapes.round-quadrat.png
 cmd/32/autoformatmenu.png cmd/32/autocorrectdlg.png
 cmd/32/languagemenu.png cmd/32/managelanguage.png
 cmd/32/openxmlfiltersettings.png cmd/32/managexmlsource.png
+cmd/32/updatealllinks.png cmd/32/inserthyperlinkcontrol.png
+cmd/32/updatecharts.png cmd/32/drawchart.png
 
 cmd/lc_autoformatmenu.png cmd/lc_autocorrectdlg.png
 cmd/lc_languagemenu.png cmd/lc_managelanguage.png
 cmd/lc_openxmlfiltersettings.png cmd/lc_managexmlsource.png
+cmd/lc_updatealllinks.png cmd/lc_inserthyperlinkcontrol.png
+cmd/lc_updatecharts.png cmd/lc_drawchart.png
 
 cmd/sc_autoformatmenu.png cmd/sc_autocorrectdlg.png
 cmd/sc_languagemenu.png cmd/sc_managelanguage.png
 cmd/sc_openxmlfiltersettings.png cmd/sc_managexmlsource.png
+cmd/sc_updatealllinks.png cmd/sc_inserthyperlinkcontrol.png
+cmd/sc_updatecharts.png cmd/sc_drawchart.png
 
 # Format menu
 # ===============================================
