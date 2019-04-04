@@ -2020,6 +2020,7 @@ cmd/sc_zoommenu.png cmd/sc_zoom.png
 cmd/32/fieldmenu.png cmd/32/insertfield.png
 cmd/32/graphicmenu.png cmd/32/avmediaplayer.png
 cmd/32/insertfootnotesmenu.png cmd/32/insertfootnote.png
+cmd/32/insertformmenu.png cmd/32/choosecontrols.png
 cmd/32/insertheaderfootermenu.png cmd/32/editheaderandfooter.png
 cmd/32/objectmenu.png cmd/32/insertobject.png
 cmd/32/shapeslinemenu.png cmd/32/line.png
@@ -2028,6 +2029,7 @@ cmd/32/shapesmenu.png cmd/32/basicshapes.round-quadrat.png
 cmd/lc_fieldmenu.png cmd/lc_insertfield.png
 cmd/lc_graphicmenu.png cmd/lc_avmediaplayer.png
 cmd/lc_insertfootnotesmenu.png cmd/lc_insertfootnote.png
+cmd/lc_insertformmenu.png cmd/lc_choosecontrols.png
 cmd/lc_insertheaderfootermenu.png cmd/lc_editheaderandfooter.png
 cmd/lc_objectmenu.png cmd/lc_insertobject.png
 cmd/lc_shapeslinemenu.png cmd/lc_line.png
@@ -2036,6 +2038,7 @@ cmd/lc_shapesmenu.png cmd/lc_basicshapes.round-quadrat.png
 cmd/sc_fieldmenu.png cmd/sc_insertfield.png
 cmd/sc_graphicmenu.png cmd/sc_avmediaplayer.png
 cmd/sc_insertfootnotesmenu.png cmd/sc_insertfootnote.png
+cmd/sc_insertformmenu.png cmd/sc_choosecontrols.png
 cmd/sc_insertheaderfootermenu.png cmd/sc_editheaderandfooter.png
 cmd/sc_objectmenu.png cmd/sc_insertobject.png
 cmd/sc_shapeslinemenu.png cmd/sc_line.png
