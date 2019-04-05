@@ -680,11 +680,6 @@ cmd/sc_insertobjctrl.png cmd/sc_drawchart.png
 cmd/sc_modifypage.png cmd/sc_pagedialog.png
 cmd/sc_pageformatdialog.png cmd/sc_pagedialog.png
 
-# Link
-cmd/32/edithyperlink.png cmd/32/inserthyperlink.png
-cmd/lc_edithyperlink.png cmd/lc_inserthyperlink.png
-cmd/sc_edithyperlink.png cmd/sc_inserthyperlink.png
-
 # Outline
 cmd/32/outlineup.png cmd/32/moveup.png
 cmd/32/outlinedown.png cmd/32/movedown.png
@@ -1972,19 +1967,34 @@ cmd/sc_addtextbox.png cmd/sc_insertfixedtext.png
 
 # Edit menu 
 # ===============================================
+cmd/32/authoritiesentrydialog.png cmd/32/dbviewaliases.png
 cmd/32/changesmenu.png cmd/32/accepttrackedchange.png
 cmd/32/commentchange.png cmd/32/commentchangetracking.png
+cmd/32/editfootnote.png cmd/32/insertfootnote.png
+cmd/32/editlinksmenu.png cmd/32/insertreferencefield.png
 cmd/32/editpastespecialmenu.png cmd/32/pastespecial.png
+cmd/32/fielddialog.png cmd/32/fields.png
+cmd/32/indexentrydialog.png cmd/32/insertindexesentry.png
 cmd/32/pastespecialmenu.png cmd/32/pastespecial.png
 
+cmd/lc_authoritiesentrydialog.png cmd/lc_dbviewaliases.png
 cmd/lc_changesmenu.png cmd/lc_accepttrackedchange.png
 cmd/lc_commentchange.png cmd/lc_commentchangetracking.png
+cmd/lc_editfootnote.png cmd/lc_insertfootnote.png
+cmd/lc_editlinksmenu.png cmd/lc_insertreferencefield.png
 cmd/lc_editpastespecialmenu.png cmd/lc_pastespecial.png
+cmd/lc_fielddialog.png cmd/lc_fields.png
+cmd/lc_indexentrydialog.png cmd/lc_insertindexesentry.png
 cmd/lc_pastespecialmenu.png cmd/lc_pastespecial.png
 
+cmd/sc_authoritiesentrydialog.png cmd/sc_dbviewaliases.png
 cmd/sc_changesmenu.png cmd/sc_accepttrackedchange.png
 cmd/sc_commentchange.png cmd/sc_commentchangetracking.png
+cmd/sc_editfootnote.png cmd/sc_insertfootnote.png
+cmd/sc_editlinksmenu.png cmd/sc_insertreferencefield.png
 cmd/sc_editpastespecialmenu.png cmd/sc_pastespecial.png
+cmd/sc_fielddialog.png cmd/sc_fields.png
+cmd/sc_indexentrydialog.png cmd/sc_insertindexesentry.png
 cmd/sc_pastespecialmenu.png cmd/sc_pastespecial.png
 
 # View menu
