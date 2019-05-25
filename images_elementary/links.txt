@@ -2277,7 +2277,7 @@ cmd/32/conditionalformatmenu.png cmd/32/conditionalformatdialog.png
 cmd/32/editregion.png cmd/32/insertsection.png
 cmd/32/formatbulletsmenu.png cmd/32/defaultbullet.png
 cmd/32/formatframemenu.png cmd/32/chainframes.png
-cmd/32/formatimagemenu.png cmd/32/graphic.png
+cmd/32/formatimagemenu.png cmd/32/graphicdialog.png
 cmd/32/formatobjectmenu.png cmd/32/basicshapes.rectangle.png
 cmd/32/formatspacingmenu.png cmd/32/paraspaceincrease.png
 cmd/32/formattextmenu.png cmd/32/bold.png
@@ -2298,7 +2298,7 @@ cmd/lc_conditionalformatmenu.png cmd/lc_conditionalformatdialog.png
 cmd/lc_editregion.png cmd/lc_insertsection.png
 cmd/lc_formatbulletsmenu.png cmd/lc_defaultbullet.png
 cmd/lc_formatframemenu.png cmd/lc_chainframes.png
-cmd/lc_formatimagemenu.png cmd/lc_graphic.png
+cmd/lc_formatimagemenu.png cmd/lc_graphicdialog.png
 cmd/lc_formatobjectmenu.png cmd/lc_basicshapes.rectangle.png
 cmd/lc_formatspacingmenu.png cmd/lc_paraspaceincrease.png
 cmd/lc_formattextmenu.png cmd/lc_bold.png
@@ -2319,7 +2319,7 @@ cmd/sc_conditionalformatmenu.png cmd/sc_conditionalformatdialog.png
 cmd/sc_editregion.png cmd/sc_insertsection.png
 cmd/sc_formatbulletsmenu.png cmd/sc_defaultbullet.png
 cmd/sc_formatframemenu.png cmd/sc_chainframes.png
-cmd/sc_formatimagemenu.png cmd/sc_graphic.png
+cmd/sc_formatimagemenu.png cmd/sc_graphicdialog.png
 cmd/sc_formatobjectmenu.png cmd/sc_basicshapes.rectangle.png
 cmd/sc_formatspacingmenu.png cmd/sc_paraspaceincrease.png
 cmd/sc_formattextmenu.png cmd/sc_bold.png
