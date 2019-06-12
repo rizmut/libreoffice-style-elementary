@@ -1534,7 +1534,6 @@ res/lc05961.png cmd/lc_recsearch.png
 res/lc06300.png cmd/lc_nextrecord.png
 res/lc06301.png cmd/lc_prevrecord.png
 
-res/lc06303.png cmd/lc_firstpage.png
 res/lc10711.png cmd/lc_removefiltersort.png
 res/lc10715.png cmd/lc_datafilterstandardfilter.png
 res/lc10716.png cmd/lc_datafilterautofilter.png
@@ -1584,7 +1583,6 @@ res/sc05711.png cmd/sc_copy.png
 res/sc05961.png cmd/sc_recsearch.png
 res/sc06300.png cmd/sc_nextrecord.png
 res/sc06301.png cmd/sc_prevrecord.png
-res/sc06303.png cmd/sc_firstrecord.png
 res/sc10223.png cmd/sc_position.png
 res/sc10224.png cmd/sc_size.png
 res/sc10350.png cmd/sc_bmpmask.png
@@ -1897,6 +1895,8 @@ sfx2/res/symphony/sidebar-functions-large.png cmd/lc_dbviewfunctions.png
 sfx2/res/symphony/sidebar-functions-small.png cmd/sc_dbviewfunctions.png
 sfx2/res/symphony/sidebar-gallery-large.png cmd/lc_gallery.png
 sfx2/res/symphony/sidebar-gallery-small.png cmd/sc_gallery.png
+sfx2/res/symphony/sidebar-imganim-large.png cmd/lc_animationobjects.png
+sfx2/res/symphony/sidebar-imganim-small.png cmd/sc_animationobjects.png
 sfx2/res/symphony/sidebar-navigator-large.png cmd/lc_navigator.png
 sfx2/res/symphony/sidebar-navigator-small.png cmd/sc_navigator.png
 sfx2/res/symphony/sidebar-property-large.png cmd/lc_configuredialog.png
