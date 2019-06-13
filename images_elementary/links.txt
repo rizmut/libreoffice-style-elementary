@@ -269,11 +269,6 @@ cmd/sc_fontworkcharacterspacingfloater.png cmd/sc_spacing.png
 cmd/sc_fontheight.png cmd/sc_scaletext.png
 cmd/sc_pickthrough.png cmd/sc_doubleclicktextedit.png
 
-# Object
-cmd/32/objectcatalog.png cmd/32/dbnewform.png
-cmd/lc_objectcatalog.png cmd/lc_dbnewform.png
-cmd/sc_objectcatalog.png cmd/sc_dbnewform.png
-
 # 3d
 cmd/32/view3d.png cmd/32/cube.png
 cmd/32/objects3dtoolbox.png cmd/32/cube.png
