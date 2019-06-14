@@ -1565,13 +1565,13 @@ res/reload.png cmd/sc_reload.png
 res/library_16.png cmd/lc_viewdatasourcebrowser.png
 
 res/sc05508.png cmd/sc_reload.png
-res/sc05555.png cmd/sc_editstyle.png
-res/sc05556.png cmd/sc_reload.png
 res/sc05501.png cmd/sc_open.png
 res/sc05502.png cmd/sc_saveas.png
 res/sc05504.png cmd/sc_print.png
 res/sc05509.png cmd/sc_print.png
-res/sc05554.png cmd/sc_formatpaintbrush.png
+res/sc05554.png cmd/sc_backgroundcolor.png
+res/sc05555.png cmd/sc_stylenewbyexample.png
+res/sc05556.png cmd/sc_styleupdatebyexample.png
 res/sc05711.png cmd/sc_copy.png
 res/sc05961.png cmd/sc_recsearch.png
 res/sc06300.png cmd/sc_nextrecord.png
@@ -1995,6 +1995,7 @@ svx/res/lightonfromtopleft_22.png cmd/lc_extrusionlightingfloater.png
 svx/res/lightonfromtopright_22.png cmd/lc_extrusionlightingfloater.png
 svx/res/lngcheck.png cmd/sc_spelling.png
 svx/res/luminanc.png cmd/sc_graphicfilterinvert.png
+svx/res/matte_16.png cmd/sc_extrusionsurfacefloater.png
 svx/res/modula3d.png cmd/sc_sphere.png
 svx/res/notcertificate_16.png xmlsecurity/res/notcertificate_16.png
 
@@ -2008,7 +2009,6 @@ svx/res/reloads.png cmd/sc_reload.png
 svx/res/rotate3d.png cmd/sc_convertinto3dlathe.png
 svx/res/signet_11x16.png xmlsecurity/res/certificate_16.png
 svx/res/sphere3d.png cmd/sc_sphere.png
-svx/res/wireframe_16.png cmd/sc_window3d.png
 svx/res/zoom_page_statusbar.png cmd/sc_zoompanning.png
 svx/res/reloads.png cmd/sc_reload.png
 
@@ -2017,8 +2017,6 @@ svx/res/symphony/AdjustColorGamma_16x16.png cmd/sc_grafgamma.png
 svx/res/symphony/AdjustColorGreen_16x16.png cmd/sc_grafgreen.png
 svx/res/symphony/AdjustColorRed_16x16.png cmd/sc_grafred.png
 svx/res/symphony/fill_color.png cmd/sc_backgroundcolor.png
-svx/res/symphony/last_custom_common.png sw/res/sidebar/pageproppanel/last_custom_common.png
-svx/res/symphony/last_custom_common_grey.png sw/res/sidebar/pageproppanel/last_custom_common_grey.png
 svx/res/symphony/rotate_left.png cmd/sc_rotateleft.png
 svx/res/symphony/rotate_right.png cmd/sc_rotateright.png
 svx/res/symphony/sch_backgroundcolor.png cmd/sc_backgroundcolor.png
@@ -2068,6 +2066,9 @@ sw/res/sc20558.png cmd/sc_ok.png
 
 sw/res/sf04.png sc/res/sf02.png
 sw/res/sf06.png cmd/sc_autoformat.png
+
+sw/res/sidebar/pageproppanel/last_custom_common.png svx/res/symphony/last_custom_common.png
+sw/res/sidebar/pageproppanel/last_custom_common_grey.png svx/res/symphony/last_custom_common_grey.png
 
 sw/res/sr20000.png cmd/sc_downsearch.png
 sw/res/sr20001.png cmd/sc_upsearch.png
