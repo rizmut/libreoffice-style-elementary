@@ -1,0 +1,9 @@
+bold Droid Sans Bold 22.05884314 pt
+lc_bold Droid Sans Bold 16.81092453 pt
+sc_bold Droid Sans Bold 13.65968084 pt
+underline Droid Sans 24.60285187 pt
+lc_underline Droid Sans 18.08311844 pt
+sc_underline Droid Sans 13.03873301 pt
+italic Droid Sans italic 22.05884314 pt
+lc_italic Droid Sans italic 16.81092453 pt
+sc_italic Droid Sans italic 13.65968084 pt
