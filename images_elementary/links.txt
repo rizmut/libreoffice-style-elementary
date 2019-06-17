@@ -1942,6 +1942,7 @@ cmd/he/sc_redo.png cmd/ar/sc_redo.png
 cmd/he/sc_removebullets.png cmd/ar/sc_removebullets.png
 cmd/he/sc_romanliststyle.png cmd/ar/sc_romanliststyle.png
 cmd/he/sc_romanlowliststyle.png cmd/ar/sc_romanlowliststyle.png
+cmd/he/sc_undo.png cmd/ar/sc_undo.png
 
 cmd/32/ur/alphaliststyle.png cmd/32/ar/alphaliststyle.png
 cmd/32/ur/alphalowliststyle.png cmd/32/ar/alphalowliststyle.png
@@ -1955,13 +1956,13 @@ cmd/32/ur/numberingstart.png cmd/32/ar/numberingstart.png
 cmd/32/ur/numberliststyle.png cmd/32/ar/defaultnumbering.png
 cmd/32/ur/outlinebullet.png cmd/32/ar/outlinebullet.png
 cmd/32/ur/redo.png cmd/32/ar/redo.png
-cmd/ur/lc_bulletliststyle.png cmd/ar/lc_defaultbullet.png
-cmd/ur/lc_numberliststyle.png cmd/ar/lc_defaultnumbering.png
-cmd/ur/sc_bulletliststyle.png cmd/ar/sc_defaultbullet.png
-cmd/ur/sc_numberliststyle.png cmd/ar/sc_defaultnumbering.png
+cmd/32/ur/removebullets.png cmd/32/ar/removebullets.png
+cmd/32/ur/romanliststyle.png cmd/32/ar/romanliststyle.png
+cmd/32/ur/romanlowliststyle.png cmd/32/ar/romanlowliststyle.png
+cmd/32/ur/undo.png cmd/32/ar/undo.png
 cmd/ur/lc_alphaliststyle.png cmd/ar/lc_alphaliststyle.png
 cmd/ur/lc_alphalowliststyle.png cmd/ar/lc_alphalowliststyle.png
-cmd/ar/lc_bulletliststyle.png cmd/ar/lc_defaultbullet.png
+cmd/ur/lc_bulletliststyle.png cmd/ar/lc_defaultbullet.png
 cmd/ur/lc_bulletsandnumberingdialog.png cmd/ar/lc_bulletsandnumberingdialog.png
 cmd/ur/lc_defaultbullet.png cmd/ar/lc_defaultbullet.png
 cmd/ur/lc_defaultnumbering.png cmd/ar/lc_defaultnumbering.png
