@@ -1445,7 +1445,8 @@ cmd/32/tr/underlinesimple.png cmd/32/hu/underline.png
 
 cmd/lc_underlinesimple.png cmd/lc_underline.png
 cmd/ca/lc_underlinesimple.png cmd/ca/lc_underline.pn
-cmd/de/lc_underlinesimple.png cmd/de/lc_underline.png  cmd/es/lc_bold.png cmd/ca/lc_bold.png
+cmd/de/lc_underlinesimple.png cmd/de/lc_underline.png
+cmd/es/lc_bold.png cmd/ca/lc_bold.png
 cmd/es/lc_italic.png cmd/ca/lc_italic.png
 cmd/es/lc_numberformatdecdecimals.png cmd/de/lc_numberformatdecdecimals.png
 cmd/es/lc_numberformatdecimal.png cmd/de/lc_numberformatdecimal.png
