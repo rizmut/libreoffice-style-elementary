@@ -1686,6 +1686,7 @@ res/lx03145.png res/odf_32_8.png
 res/lx03162.png res/odt_32_8.png
 res/lx03160.png res/odg_32_8.png
 res/lx03165.png cmd/lc_save.png
+res/lx03188.png cmd/32/dbviewtables.png
 res/lx03189.png cmd/lc_open.png
 res/lx03227.png res/odg_32_8.png
 res/lx03228.png res/odg_32_8.png
@@ -1746,7 +1747,7 @@ res/sx03141.png formula/res/fapclose.png
 res/sx03144.png res/odf_16_8.png
 res/sx03162.png res/odt_16_8.png
 res/sx03164.png res/harddisk_16.png
-res/sx03188.png res/ots_16_8.png
+res/sx03188.png cmd/sc_dbviewtables.png
 res/sx03189.png formula/res/fapclose.png
 res/sx03202.png cmd/sc_dbviewqueries.png
 res/sx03245.png res/odb_16_8.png
