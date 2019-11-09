@@ -254,11 +254,6 @@ cmd/32/fontworkcharacterspacingfloater.png cmd/32/spacing.png
 cmd/32/fontheight.png cmd/32/scaletext.png
 cmd/32/pickthrough.png cmd/32/doubleclicktextedit.png
 
-cmd/32/ko/insertedit.png cmd/32/ko/text.png
-cmd/32/ko/texttoolbox.png cmd/32/ko/text.png
-cmd/32/ko/drawtext.png cmd/32/ko/text.png
-cmd/32/ko/fontheight.png cmd/32/ko/scaletext.png
-
 cmd/lc_textfittosizetool.png cmd/lc_text_marquee.png
 cmd/lc_texttoolbox.png cmd/lc_text.png
 cmd/lc_drawtext.png cmd/lc_text.png
@@ -266,22 +261,12 @@ cmd/lc_fontworkcharacterspacingfloater.png cmd/lc_spacing.png
 cmd/lc_fontheight.png cmd/lc_scaletext.png
 cmd/lc_pickthrough.png cmd/lc_doubleclicktextedit.png
 
-cmd/ko/lc_insertedit.png cmd/ko/lc_text.png
-cmd/ko/lc_texttoolbox.png cmd/ko/lc_text.png
-cmd/ko/lc_drawtext.png cmd/ko/lc_text.png
-cmd/ko/lc_fontheight.png cmd/ko/lc_scaletext.png
-
 cmd/sc_textfittosizetool.png cmd/sc_text_marquee.png
 cmd/sc_texttoolbox.png cmd/sc_text.png
 cmd/sc_drawtext.png cmd/sc_text.png
 cmd/sc_fontworkcharacterspacingfloater.png cmd/sc_spacing.png
 cmd/sc_fontheight.png cmd/sc_scaletext.png
 cmd/sc_pickthrough.png cmd/sc_doubleclicktextedit.png
-
-cmd/ko/sc_insertedit.png cmd/ko/sc_text.png
-cmd/ko/sc_texttoolbox.png cmd/ko/sc_text.png
-cmd/ko/sc_drawtext.png cmd/ko/sc_text.png
-cmd/ko/sc_fontheight.png cmd/ko/sc_scaletext.png
 
 # 3d
 cmd/32/view3d.png cmd/32/cube.png
@@ -1450,6 +1435,11 @@ cmd/32/it/underline.png cmd/32/ca/underline.png
 cmd/32/it/underlinedouble.png cmd/32/ca/underlinedouble.png
 cmd/32/it/underlinesimple.png cmd/32/ca/underline.png
 cmd/32/km/underlinesimple.png cmd/32/km/underline.png
+cmd/32/formattextmenu.png cmd/32/bold.png
+cmd/32/ko/drawtext.png cmd/32/ko/text.png
+cmd/32/ko/fontheight.png cmd/32/ko/scaletext.png
+cmd/32/ko/insertedit.png cmd/32/ko/text.png
+cmd/32/ko/texttoolbox.png cmd/32/ko/text.png
 cmd/32/ko/underlinesimple.png cmd/32/ko/underline.png
 cmd/32/nl/italic.png cmd/32/ca/italic.png
 cmd/32/nl/underlinesimple.png cmd/32/nl/underline.png
@@ -1499,6 +1489,11 @@ cmd/it/lc_underline.png cmd/ca/lc_underline.png
 cmd/it/lc_underlinedouble.png cmd/ca/lc_underlinedouble.png
 cmd/it/lc_underlinesimple.png cmd/ca/lc_underline.png
 cmd/km/lc_underlinesimple.png cmd/km/lc_underline.png
+cmd/ko/lc_drawtext.png cmd/ko/lc_text.png
+cmd/ko/lc_fontheight.png cmd/ko/lc_scaletext.png
+cmd/ko/lc_formattextmenu.png cmd/lc_bold.png
+cmd/ko/lc_insertedit.png cmd/ko/lc_text.png
+cmd/ko/lc_texttoolbox.png cmd/ko/lc_text.png
 cmd/ko/lc_underlinesimple.png cmd/ko/lc_underline.png
 cmd/nl/lc_italic.png cmd/ca/lc_italic.png
 cmd/nl/lc_underlinesimple.png cmd/nl/lc_underline.png
@@ -1548,6 +1543,11 @@ cmd/it/sc_underline.png cmd/ca/sc_underline.png
 cmd/it/sc_underlinedouble.png cmd/ca/sc_underlinedouble.png
 cmd/it/sc_underlinesimple.png cmd/ca/sc_underline.png
 cmd/km/sc_underlinesimple.png cmd/km/sc_underline.png
+cmd/ko/sc_drawtext.png cmd/ko/sc_text.png
+cmd/ko/sc_fontheight.png cmd/ko/sc_scaletext.png
+cmd/ko/sc_formattextmenu.png cmd/ko/sc_bold.png
+cmd/ko/sc_insertedit.png cmd/ko/sc_text.png
+cmd/ko/sc_texttoolbox.png cmd/ko/sc_text.png
 cmd/ko/sc_underlinesimple.png cmd/ko/sc_underline.png
 cmd/nl/sc_italic.png cmd/ca/sc_italic.png
 cmd/nl/sc_underlinesimple.png cmd/nl/sc_underline.png
