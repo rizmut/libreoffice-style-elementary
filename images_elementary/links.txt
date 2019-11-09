@@ -254,6 +254,11 @@ cmd/32/fontworkcharacterspacingfloater.png cmd/32/spacing.png
 cmd/32/fontheight.png cmd/32/scaletext.png
 cmd/32/pickthrough.png cmd/32/doubleclicktextedit.png
 
+cmd/32/ko/insertedit.png cmd/32/ko/text.png
+cmd/32/ko/texttoolbox.png cmd/32/ko/text.png
+cmd/32/ko/drawtext.png cmd/32/ko/text.png
+cmd/32/ko/fontheight.png cmd/32/ko/scaletext.png
+
 cmd/lc_textfittosizetool.png cmd/lc_text_marquee.png
 cmd/lc_texttoolbox.png cmd/lc_text.png
 cmd/lc_drawtext.png cmd/lc_text.png
@@ -261,12 +266,22 @@ cmd/lc_fontworkcharacterspacingfloater.png cmd/lc_spacing.png
 cmd/lc_fontheight.png cmd/lc_scaletext.png
 cmd/lc_pickthrough.png cmd/lc_doubleclicktextedit.png
 
+cmd/ko/lc_insertedit.png cmd/ko/lc_text.png
+cmd/ko/lc_texttoolbox.png cmd/ko/lc_text.png
+cmd/ko/lc_drawtext.png cmd/ko/lc_text.png
+cmd/ko/lc_fontheight.png cmd/ko/lc_scaletext.png
+
 cmd/sc_textfittosizetool.png cmd/sc_text_marquee.png
 cmd/sc_texttoolbox.png cmd/sc_text.png
 cmd/sc_drawtext.png cmd/sc_text.png
 cmd/sc_fontworkcharacterspacingfloater.png cmd/sc_spacing.png
 cmd/sc_fontheight.png cmd/sc_scaletext.png
 cmd/sc_pickthrough.png cmd/sc_doubleclicktextedit.png
+
+cmd/ko/sc_insertedit.png cmd/ko/sc_text.png
+cmd/ko/sc_texttoolbox.png cmd/ko/sc_text.png
+cmd/ko/sc_drawtext.png cmd/ko/sc_text.png
+cmd/ko/sc_fontheight.png cmd/ko/sc_scaletext.png
 
 # 3d
 cmd/32/view3d.png cmd/32/cube.png
