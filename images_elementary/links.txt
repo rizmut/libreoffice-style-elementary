@@ -1435,9 +1435,9 @@ cmd/32/it/underline.png cmd/32/ca/underline.png
 cmd/32/it/underlinedouble.png cmd/32/ca/underlinedouble.png
 cmd/32/it/underlinesimple.png cmd/32/ca/underline.png
 cmd/32/km/underlinesimple.png cmd/32/km/underline.png
-cmd/32/formattextmenu.png cmd/32/bold.png
 cmd/32/ko/drawtext.png cmd/32/ko/text.png
 cmd/32/ko/fontheight.png cmd/32/ko/scaletext.png
+cmd/32/ko/formattextmenu.png cmd/32/ko/bold.png
 cmd/32/ko/insertedit.png cmd/32/ko/text.png
 cmd/32/ko/texttoolbox.png cmd/32/ko/text.png
 cmd/32/ko/underlinesimple.png cmd/32/ko/underline.png
