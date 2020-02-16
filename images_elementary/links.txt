@@ -1408,6 +1408,8 @@ cmd/sc_savesimple.png cmd/sc_save.png
 # Locale language support
 cmd/32/underlinesimple.png cmd/32/underline.png
 cmd/32/bg/autoformatmenu.png cmd/32/bg/autocorrectdlg.png
+cmd/32/bg/addtextbox.png cmd/32/bg/insertfixedtext.png
+cmd/32/bg/sortdown.png cmd/32/bg/sortdescending.png
 cmd/32/bg/spellingandgrammardialog.png cmd/32/bg/spelling.png
 cmd/32/bg/spelldialog.png cmd/32/bg/spelling.png
 cmd/32/bg/underline.png cmd/32/ca/underline.png
@@ -1469,12 +1471,16 @@ cmd/32/tr/underline.png cmd/32/hu/underline.png
 cmd/32/tr/underlinedouble.png cmd/32/hu/underlinedouble.png
 cmd/32/tr/underlinesimple.png cmd/32/hu/underline.png
 cmd/bg/lc_autoformatmenu.png cmd/bg/lc_autocorrectdlg.png
+cmd/bg/lc_addtextbox.png cmd/bg/lc_insertfixedtext.png
+cmd/bg/lc_sortdown.png cmd/bg/lc_sortdescending.png
 cmd/bg/lc_spellingandgrammardialog.png cmd/bg/lc_spelling.png
 cmd/bg/lc_spelldialog.png cmd/bg/lc_spelling.png
 cmd/bg/lc_underline.png cmd/hu/lc_underline.png
 cmd/bg/lc_underlinedouble.png cmd/hu/lc_underlinedouble.png
 cmd/bg/lc_underlinesimple.png cmd/hu/lc_underline.png
 cmd/bg/sc_autoformatmenu.png cmd/bg/sc_autocorrectdlg.png
+cmd/bg/sc_addtextbox.png cmd/bg/sc_insertfixedtext.png
+cmd/bg/sc_sortdown.png cmd/bg/sc_sortdescending.png
 cmd/bg/sc_spellingandgrammardialog.png cmd/bg/sc_spelling.png
 cmd/bg/sc_spelldialog.png cmd/bg/sc_spelling.png
 cmd/bg/sc_underline.png cmd/hu/sc_underline.png
