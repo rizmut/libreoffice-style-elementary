@@ -391,7 +391,6 @@ cmd/sc_grafmode.png cmd/sc_graphicdialog.png
 cmd/32/ar/bulletliststyle.png cmd/32/ar/defaultbullet.png
 cmd/32/ar/linenumberdialog.png cmd/32/ar/linenumberingdialog.png
 cmd/32/ar/numberliststyle.png cmd/32/ar/defaultnumbering.png
-cmd/32/ar/outlinebullet.png cmd/32/ar/bulletsandnumberingdialog.png
 cmd/32/bg/addtextbox.png cmd/32/bg/insertfixedtext.png
 cmd/32/bg/autoformatmenu.png cmd/32/bg/autocorrectdlg.png
 cmd/32/bg/sortdown.png cmd/32/bg/sortdescending.png
@@ -425,7 +424,6 @@ cmd/32/fa/linenumberdialog.png cmd/32/ar/linenumberingdialog.png
 cmd/32/fa/linenumberingdialog.png cmd/32/ar/linenumberingdialog.png
 cmd/32/fa/numberingstart.png cmd/32/ar/numberingstart.png
 cmd/32/fa/numberliststyle.png cmd/32/ar/defaultnumbering.png
-cmd/32/fa/outlinebullet.png cmd/32/ar/bulletsandnumberingdialog.png
 cmd/32/fa/outlinebullet.png cmd/32/ar/outlinebullet.png
 cmd/32/fa/redo.png cmd/32/ar/redo.png
 cmd/32/fa/removebullets.png cmd/32/ar/removebullets.png

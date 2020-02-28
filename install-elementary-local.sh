@@ -30,8 +30,24 @@ zip -r -D Elementary-IconSet.oxt *
 mv "Elementary-IconSet.oxt" \
    "./.."
 cd "./../.."
+cd "images_elementary_svg"
+zip -r -D images_elementary_svg.zip *
+mv "images_elementary_svg.zip" \
+  "./../build/"
+cd "./../build/"
+echo "=> Deleting old $gh_desc extension file ..."
+rm -f "Elementary-SVG-IconSet.oxt"
+echo "=> Create new $gh_desc extension one ..."
+cp "images_elementary_svg.zip" \
+   "Elementary-SVG-IconSet/iconsets/"
+cd "./Elementary-SVG-IconSet"
+zip -r -D Elementary-SVG-IconSet.oxt *
+mv "Elementary-SVG-IconSet.oxt" \
+   "./.."
+cd "./../.."
 echo "=> Deleting old $gh_desc ..."
 sudo rm -f "/usr/share/libreoffice/share/config/images_elementary.zip"
+sudo rm -f "/usr/share/libreoffice/share/config/images_elementary_svg.zip"
 echo "=> Installing ..."
 sudo mkdir -p "/usr/share/libreoffice/share/config"
 sudo cp \
@@ -44,5 +60,6 @@ for dir in \
   /opt/libreoffice*/share/config; do
   [ -d "$dir" ] || continue
   sudo ln -sf "/usr/share/libreoffice/share/config/images_elementary.zip" "$dir"
+  sudo ln -sf "/usr/share/libreoffice/share/config/images_elementary_svg.zip" "$dir"
 done
 echo "=> Done!"
