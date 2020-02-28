@@ -524,10 +524,8 @@ cmd/32/ur/setoutline.png cmd/32/ar/setoutline.png
 cmd/32/ur/undo.png cmd/32/ar/undo.png
 cmd/ar/lc_bulletliststyle.png cmd/ar/lc_defaultbullet.png
 cmd/ar/lc_numberliststyle.png cmd/ar/lc_defaultnumbering.png
-cmd/ar/lc_outlinebullet.png cmd//ar/lc_bulletsandnumberingdialog.png
 cmd/ar/sc_bulletliststyle.png cmd/ar/sc_defaultbullet.png
 cmd/ar/sc_numberliststyle.png cmd/ar/sc_defaultnumbering.png
-cmd/ar/sc_outlinebullet.png cmd//ar/sc_bulletsandnumberingdialog.png
 cmd/bg/lc_addtextbox.png cmd/bg/lc_insertfixedtext.png
 cmd/bg/lc_autoformatmenu.png cmd/bg/lc_autocorrectdlg.png
 cmd/bg/lc_sortdown.png cmd/bg/lc_sortdescending.png
