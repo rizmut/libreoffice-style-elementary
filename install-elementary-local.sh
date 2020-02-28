@@ -53,6 +53,9 @@ sudo mkdir -p "/usr/share/libreoffice/share/config"
 sudo cp \
   "build/images_elementary.zip" \
   "/usr/share/libreoffice/share/config"
+sudo cp \
+  "build/images_elementary_svg.zip" \
+  "/usr/share/libreoffice/share/config"
 for dir in \
   /usr/lib64/libreoffice/share/config \
   /usr/lib/libreoffice/share/config \
