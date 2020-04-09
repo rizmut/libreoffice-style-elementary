@@ -632,8 +632,8 @@ cmd/he/lc_chapternumberingdialog.png cmd/ar/lc_chapternumberingdialog.png
 cmd/he/lc_defaultbullet.png cmd/ar/lc_defaultbullet.png
 cmd/he/lc_defaultnumbering.png cmd/ar/lc_defaultnumbering.png
 cmd/he/lc_insertneutralparagraph.png cmd/ar/lc_insertneutralparagraph.png
-cmd/he/lc_linenumberdialog.png cmd/ar/sc_linenumberingdialog.png
-cmd/he/lc_linenumberingdialog.png cmd/ar/sc_linenumberingdialog.png
+cmd/he/lc_linenumberdialog.png cmd/ar/lc_linenumberingdialog.png
+cmd/he/lc_linenumberingdialog.png cmd/ar/lc_linenumberingdialog.png
 cmd/he/lc_numberingstart.png cmd/ar/lc_numberingstart.png
 cmd/he/lc_numberliststyle.png cmd/ar/lc_defaultnumbering.png
 cmd/he/lc_outlinebullet.png cmd/ar/lc_outlinebullet.png
