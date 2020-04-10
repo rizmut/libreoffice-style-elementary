@@ -425,6 +425,7 @@ cmd/32/fa/newrecord.png cmd/32/ar/newrecord.png
 cmd/32/fa/numberingstart.png cmd/32/ar/numberingstart.png
 cmd/32/fa/numberliststyle.png cmd/32/ar/defaultnumbering.png
 cmd/32/fa/outlinebullet.png cmd/32/ar/outlinebullet.png
+cmd/32/fa/recsave.png cmd/32/ar/recsave.png
 cmd/32/fa/recundo.png cmd/32/ar/recundo.png
 cmd/32/fa/redo.png cmd/32/ar/redo.png
 cmd/32/fa/removebullets.png cmd/32/ar/removebullets.png
@@ -455,6 +456,7 @@ cmd/32/he/newrecord.png cmd/32/ar/newrecord.png
 cmd/32/he/numberingstart.png cmd/32/ar/numberingstart.png
 cmd/32/he/numberliststyle.png cmd/32/ar/defaultnumbering.png
 cmd/32/he/outlinebullet.png cmd/32/ar/outlinebullet.png
+cmd/32/he/recsave.png cmd/32/ar/recsave.png
 cmd/32/he/recundo.png cmd/32/ar/recundo.png
 cmd/32/he/redo.png cmd/32/ar/redo.png
 cmd/32/he/removebullets.png cmd/32/ar/removebullets.png
@@ -526,6 +528,7 @@ cmd/32/ur/newrecord.png cmd/32/ar/newrecord.png
 cmd/32/ur/numberingstart.png cmd/32/ar/numberingstart.png
 cmd/32/ur/numberliststyle.png cmd/32/ar/defaultnumbering.png
 cmd/32/ur/outlinebullet.png cmd/32/ar/outlinebullet.png
+cmd/32/ur/recsave.png cmd/32/ar/recsave.png
 cmd/32/ur/recundo.png cmd/32/ar/recundo.png
 cmd/32/ur/redo.png cmd/32/ar/redo.png
 cmd/32/ur/removebullets.png cmd/32/ar/removebullets.png
@@ -595,6 +598,7 @@ cmd/fa/lc_newrecord.png cmd/ar/lc_newrecord.png
 cmd/fa/lc_numberingstart.png cmd/ar/lc_numberingstart.png
 cmd/fa/lc_numberliststyle.png cmd/ar/lc_defaultnumbering.png
 cmd/fa/lc_outlinebullet.png cmd/ar/lc_outlinebullet.png
+cmd/fa/lc_recsave.png cmd/ar/lc_recsave.png
 cmd/fa/lc_recundo.png cmd/ar/lc_recundo.png
 cmd/fa/lc_redo.png cmd/ar/lc_redo.png
 cmd/fa/lc_removebullets.png cmd/ar/lc_removebullets.png
@@ -618,6 +622,7 @@ cmd/fa/sc_newrecord.png cmd/ar/sc_newrecord.png
 cmd/fa/sc_numberingstart.png cmd/ar/sc_numberingstart.png
 cmd/fa/sc_numberliststyle.png cmd/ar/sc_defaultnumbering.png
 cmd/fa/sc_outlinebullet.png cmd/ar/sc_outlinebullet.png
+cmd/fa/sc_recsave.png cmd/ar/sc_recsave.png
 cmd/fa/sc_recundo.png cmd/ar/sc_recundo.png
 cmd/fa/sc_redo.png cmd/ar/sc_redo.png
 cmd/fa/sc_removebullets.png cmd/ar/sc_removebullets.png
@@ -655,6 +660,7 @@ cmd/he/lc_newrecord.png cmd/ar/lc_newrecord.png
 cmd/he/lc_numberingstart.png cmd/ar/lc_numberingstart.png
 cmd/he/lc_numberliststyle.png cmd/ar/lc_defaultnumbering.png
 cmd/he/lc_outlinebullet.png cmd/ar/lc_outlinebullet.png
+cmd/he/lc_recsave.png cmd/ar/lc_recsave.png
 cmd/he/lc_recundo.png cmd/ar/lc_recundo.png
 cmd/he/lc_redo.png cmd/ar/lc_redo.png
 cmd/he/lc_removebullets.png cmd/ar/lc_removebullets.png
@@ -678,6 +684,7 @@ cmd/he/sc_newrecord.png cmd/ar/sc_newrecord.png
 cmd/he/sc_numberingstart.png cmd/ar/sc_numberingstart.png
 cmd/he/sc_numberliststyle.png cmd/ar/sc_defaultnumbering.png
 cmd/he/sc_outlinebullet.png cmd/ar/sc_outlinebullet.png
+cmd/he/sc_recsave.png cmd/ar/sc_recsave.png
 cmd/he/sc_recundo.png cmd/ar/sc_recundo.png
 cmd/he/sc_redo.png cmd/ar/sc_redo.png
 cmd/he/sc_removebullets.png cmd/ar/sc_removebullets.png
@@ -797,6 +804,7 @@ cmd/ur/lc_newrecord.png cmd/ar/lc_newrecord.png
 cmd/ur/lc_numberingstart.png cmd/ar/lc_numberingstart.png
 cmd/ur/lc_numberliststyle.png cmd/ar/lc_defaultnumbering.png
 cmd/ur/lc_outlinebullet.png cmd/ar/lc_outlinebullet.png
+cmd/ur/lc_recsave.png cmd/ar/lc_recsave.png
 cmd/ur/lc_recundo.png cmd/ar/lc_recundo.png
 cmd/ur/lc_redo.png cmd/ar/lc_redo.png
 cmd/ur/lc_removebullets.png cmd/ar/lc_removebullets.png
@@ -820,6 +828,7 @@ cmd/ur/sc_newrecord.png cmd/ar/sc_newrecord.png
 cmd/ur/sc_numberingstart.png cmd/ar/sc_numberingstart.png
 cmd/ur/sc_numberliststyle.png cmd/ar/sc_defaultnumbering.png
 cmd/ur/sc_outlinebullet.png cmd/ar/sc_outlinebullet.png
+cmd/ur/sc_recsave.png cmd/ar/sc_recsave.png
 cmd/ur/sc_recundo.png cmd/ar/sc_recundo.png
 cmd/ur/sc_redo.png cmd/ar/sc_redo.png
 cmd/ur/sc_removebullets.png cmd/ar/sc_removebullets.png
