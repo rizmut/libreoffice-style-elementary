@@ -15,7 +15,7 @@ EOF
 
 temp_dir="$(mktemp -d)"
 
-cd "images_elementary"
+cd "elementary"
 zip -r -D images_elementary.zip *
 mv "images_elementary.zip" \
   "./../build/"
@@ -30,7 +30,7 @@ zip -r -D Elementary-IconSet.oxt *
 mv "Elementary-IconSet.oxt" \
    "./.."
 cd "./../.."
-cd "images_elementary_svg"
+cd "elementary_svg"
 zip -r -D images_elementary_svg.zip *
 mv "images_elementary_svg.zip" \
   "./../build/"
