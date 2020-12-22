@@ -1013,15 +1013,12 @@ cmd/sc_removetableof.png cmd/sc_delete.png
 # Print
 cmd/32/printpagepreview.png cmd/32/printpreview.png
 cmd/32/previewprintoptions.png cmd/32/printpreview.png
-cmd/32/sendfax.png cmd/32/print.png
 
 cmd/lc_printpagepreview.png cmd/lc_printpreview.png
 cmd/lc_previewprintoptions.png cmd/lc_printpreview.png
-cmd/lc_sendfax.png cmd/lc_print.png
 
 cmd/sc_printpagepreview.png cmd/sc_printpreview.png
 cmd/sc_previewprintoptions.png cmd/sc_printpreview.png
-cmd/sc_sendfax.png cmd/sc_print.png
 
 # Folder
 cmd/32/dbtableopen.png cmd/32/open.png
@@ -2207,7 +2204,7 @@ sfx2/res/styfam1.png cmd/sc_charfontname.png
 sfx2/res/styfam2.png cmd/sc_controlcodes.png
 sfx2/res/styfam3.png cmd/sc_linestyle.png
 sfx2/res/styfam4.png cmd/sc_showsinglepage.png
-sfx2/res/symphony/open_more.png cmd/sc_controlproperties.png
+sfx2/res/symphony/open_more.png cmd/lc_controlproperties.png
 sfx2/res/symphony/sidebar-3d-large.png cmd/lc_cube.png
 sfx2/res/symphony/sidebar-3d-small.png cmd/sc_cube.png
 sfx2/res/symphony/sidebar-animation-large.png cmd/lc_customanimation.png
