@@ -2,7 +2,7 @@
 
 find -name "*.svg" -o -name "*.SVG" | while read i;
 do 
-	echo "This $i file will updated to be violet"
+	echo "This $i file will updated to follow elementary brand"
 	fname=$( basename "$i")
 #	echo "has the name: $fname"
 	fdir=$( dirname "$i")
@@ -19,5 +19,9 @@ do
     sed -i -e 's/#f7b19e/#ffa154/g' "$i" #light orange
     sed -i -e 's/#ce5c00/#cc3b02/g' "$i" #edge orange
     sed -i -e 's/#fcaf3e/#f37329/g' "$i" #orange
+    sed -i -e 's/#3465a4/#002e99/g' "$i" #edge blue
+    sed -i -e 's/#c2d6eb/#8cd5ff/g' "$i" #light blue
+    sed -i -e 's/#e5edf7/#8cd5ff/g' "$i" #light blue
+    
     #convert "$i" -quality 75 "$i"
 done
