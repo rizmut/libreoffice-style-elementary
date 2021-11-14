@@ -1311,17 +1311,6 @@ cmd/32/exportasgraphic.png cmd/32/graphic.png
 cmd/lc_exportasgraphic.png cmd/lc_graphic.png
 cmd/sc_exportasgraphic.png cmd/sc_graphic.png
 
-# calc toolbar draw
-# ===============================================
-cmd/32/editshapehyperlink.png cmd/32/edithyperlink.png
-cmd/32/deleteshapehyperlink.png cmd/32/removehyperlink.png
-
-cmd/lc_editshapehyperlink.png cmd/lc_edithyperlink.png
-cmd/lc_deleteshapehyperlink.png cmd/lc_removehyperlink.png
-
-cmd/sc_editshapehyperlink.png cmd/sc_edithyperlink.png
-cmd/sc_deleteshapehyperlink.png cmd/sc_removehyperlink.png
-
 # Calc menu entries
 cmd/32/cellcontentsmenu.png cmd/32/calculate.png
 cmd/32/datapilotmenu.png cmd/32/datadatapilotrun.png
@@ -2590,6 +2579,7 @@ cmd/32/formattextmenu.png cmd/32/charfontname.png
 cmd/32/numberformatmenu.png cmd/32/numberformatstandard.png
 cmd/32/numberingmenu.png cmd/32/outlinebullet.png
 cmd/32/paragraphmenu.png cmd/32/paragraphdialog.png
+cmd/32/spacepara115.png cmd/32/spacepara1.png
 cmd/32/tablemenu.png cmd/32/tabledialog.png
 cmd/32/textalign.png cmd/32/alignleft.png
 
@@ -2610,6 +2600,7 @@ cmd/lc_formattextmenu.png cmd/lc_charfontname.png
 cmd/lc_numberformatmenu.png cmd/lc_numberformatstandard.png
 cmd/lc_numberingmenu.png cmd/lc_outlinebullet.png
 cmd/lc_paragraphmenu.png cmd/lc_paragraphdialog.png
+cmd/lc_spacepara115.png cmd/lc_spacepara1.png
 cmd/lc_tablemenu.png cmd/lc_tabledialog.png
 cmd/lc_textalign.png cmd/lc_alignleft.png
 
@@ -2630,6 +2621,7 @@ cmd/sc_formattextmenu.png cmd/sc_charfontname.png
 cmd/sc_numberformatmenu.png cmd/sc_numberformatstandard.png
 cmd/sc_numberingmenu.png cmd/sc_outlinebullet.png
 cmd/sc_paragraphmenu.png cmd/sc_paragraphdialog.png
+cmd/sc_spacepara115.png cmd/sc_spacepara1.png
 cmd/sc_tablemenu.png cmd/sc_tabledialog.png
 cmd/sc_textalign.png cmd/sc_alignleft.png
 
